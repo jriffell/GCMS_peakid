@@ -1,0 +1,3096 @@
+Kovats.on.DB5,Compound.Name,Source,Data.From
+329,trimethylamine,Flavornet,experiment
+427,ethanal,Flavornet,experiment
+475,ethyl ether,Adams Essential Oil Components,experiment
+500,methanethiol,Flavornet,experiment
+500,pentane,Flavornet,experiment
+505,dimethyl sulfide,Flavornet,experiment
+506,propanal,Flavornet,experiment
+536,propanol,Flavornet,experiment
+547,ethyl formate,Flavornet,experiment
+593,diacetyl,Flavornet,experiment
+596,butanal,Flavornet,experiment
+597,methyl ethyl ketone,Flavornet,experiment
+600,acetic acid,Flavornet,experiment
+600,hexane,Flavornet,experiment
+600,n-hexane,Adams Essential Oil Components,experiment
+609,methyl ethyl sulfide,Flavornet,experiment
+620,Prenol,Flavornet,estimate
+628,ethyl acetate,Flavornet,experiment
+636,pentanone,Flavornet,estimate
+641,methylbutanal,Flavornet,experiment
+646,methyl propanoate,Adams Essential Oil Components,experiment
+647,isobutanol,Flavornet,experiment
+648,trans-crotonaldehyde,Flavornet,experiment
+650,methylbutanal,Flavornet,experiment
+655,"3-Pentanone, 2-methyl-",Flavornet,estimate
+660,pyrrolidine,Flavornet,estimate
+660,"1,2-dichloroethane",Adams Essential Oil Components,experiment
+662,isobutyraldehyde,Flavornet,experiment
+667,thiophene,Flavornet,experiment
+668,ethanol,Flavornet,experiment
+668,propanoic acid,Flavornet,experiment
+674,methyl methylbutanoate,Flavornet,estimate
+675,butanol,Flavornet,experiment
+676,butanol,Flavornet,estimate
+677,mercaptoacetaldehyde,Flavornet,estimate
+680,1-Penten-3-one,Flavornet,experiment
+685,methyl methylpropanoate,Flavornet,experiment
+685,methyl thiocyanate,Flavornet,experiment
+686,3-Penten-1-ol,Flavornet,experiment
+699,2-Pentanone,VOCbinbase,experiment
+700,"2,3-pentadione",Flavornet,experiment
+700,heptane,Flavornet,experiment
+700,heptane,Adams Essential Oil Components,experiment
+700,"2,3-pentandione",Adams Essential Oil Components,experiment
+706,pentanal,Adams Essential Oil Components,experiment
+711,pentanone,Flavornet,experiment
+712,"α,γ-Dimethylallyl alcohol",Flavornet,experiment
+712,hexanone,Flavornet,estimate
+713,ethyl propionate,Flavornet,experiment
+717,ethyl propanoate,Adams Essential Oil Components,experiment
+718,acetoin,Flavornet,experiment
+723,methyl butanoate,Flavornet,experiment
+729,methyl butanoate,Adams Essential Oil Components,experiment
+731,3-methyl-3-buten-1-ol,Adams Essential Oil Components,experiment
+732,pentanal,Flavornet,experiment
+734,diethyl acetal,Flavornet,experiment
+736,3-methyl-1-butanol,Flavornet,experiment
+737,norbornene,Adams Essential Oil Components,experiment
+739,2-methyl-1-butanol,Flavornet,experiment
+741,isopentyl alcohol,Adams Essential Oil Components,experiment
+742,thiazole,Adams Essential Oil Components,experiment
+745,"Butanoic acid, methyl ester",VOCbinbase,experiment
+753,"2-Butenal, 3-methyl-",Flavornet,estimate
+754,2-Pentenal,Flavornet,experiment
+755,2-methyl-1-butanol,Flavornet,experiment
+755,"1-Butanol, 3-methyl-",VOCbinbase,experiment
+756,ethyl isobutyrate,Flavornet,experiment
+759,pentanol,Flavornet,estimate
+760,fucoserratene,Flavornet,estimate
+765,methylthiophene,Flavornet,experiment
+766,pentanol,Flavornet,experiment
+767,(Z)-2-penten-1-ol,Flavornet,experiment
+767,epoxylinalool,Flavornet,estimate
+768,"1-Pentanol, 2-methyl-",Flavornet,estimate
+771,pentanol,Adams Essential Oil Components,experiment
+773,toluene,Flavornet,estimate
+774,3-methyl-2-buten-1-ol,Adams Essential Oil Components,experiment
+774,Z-2-pentenol,Adams Essential Oil Components,experiment
+775,1-Hexen-3-one,Flavornet,experiment
+776,Isobutyl acetate,Flavornet,experiment
+776,"Butanoic acid, 2-methyl-, methyl ester",Flavornet,experiment
+777,2-methyl-3-buten-2-ol acetate,Adams Essential Oil Components,experiment
+779,methyl-2-butenol,Flavornet,experiment
+781,"2-Butenal, 3-methyl-",VOCbinbase,experiment
+785,dimethyl disulfide,Flavornet,experiment
+789,1-hexenol,Flavornet,estimate
+789,"2,3-butanediol",Adams Essential Oil Components,experiment
+790,cyclopentanol,Adams Essential Oil Components,experiment
+792,3-Hexanone,Flavornet,experiment
+792,isopentyl formate,Adams Essential Oil Components,experiment
+792,1-octene,Adams Essential Oil Components,experiment
+797,hexanal,Lucero 2009,experiment
+798,4-methyl-3-penten-2-one,Flavornet,experiment
+798,hexanal,VOCbinbase,experiment
+798,hexanal,Lucero 2009,experiment
+799,hexanal,Lucero 2009,experiment
+800,3-hexenal,Flavornet,experiment
+800,octane,Flavornet,experiment
+800,"3,4-hexanedione",Adams Essential Oil Components,experiment
+800,n-octane,Adams Essential Oil Components,experiment
+801,"Butanoic acid, ethyl ester",VOCbinbase,experiment
+801,hexanal,Flavornet,experiment
+802,m-xylene,Flavornet,estimate
+802,thiophane,Flavornet,experiment
+802,hexanal,Adams Essential Oil Components,experiment
+802,E-4-octene,Adams Essential Oil Components,experiment
+803,2-Hydroxy-3-pentanone,Flavornet,experiment
+804,ethyl butyrate,Flavornet,experiment
+804,3-mercapto-2-butanone,Flavornet,estimate
+804,ethyl butanoate,Adams Essential Oil Components,experiment
+806,butanediol,Flavornet,experiment
+806,ethyl acetate,Adams Essential Oil Components,experiment
+810,5-methylene-2-norbornene,Adams Essential Oil Components,experiment
+811,hexanal,VOCbinbase,experiment
+811,butyl acetate,Adams Essential Oil Components,experiment
+811,n-butyl methyl ether,Adams Essential Oil Components,experiment
+812,nonenone,Flavornet,estimate
+812,propyl propanoate,Flavornet,estimate
+812,Z-2-octene,Adams Essential Oil Components,experiment
+816,butyl acetate,Flavornet,experiment
+819,4-methyl thiazole,Adams Essential Oil Components,experiment
+820,butyric acid,Flavornet,experiment
+821,3-Methyl-2-butene-1-thiol,Flavornet,experiment
+821,E-2-octene,Adams Essential Oil Components,experiment
+822,azine,Flavornet,estimate
+822,2-Hydroxy-3-pentanone,Flavornet,experiment
+826,methyl pyrazine,Adams Essential Oil Components,experiment
+828,methyl pyrazine,Flavornet,estimate
+828,methyl pentanoate,Adams Essential Oil Components,experiment
+829,"Butanoic acid, 3-methyl-",VOCbinbase,experiment
+829,furfural,Flavornet,experiment
+833,"1-Propanol, 3-ethoxy-",Flavornet,estimate
+835,isovaleric acid,Lucero 2009,experiment
+836,furfural,Adams Essential Oil Components,experiment
+836,isovaleric acid,Adams Essential Oil Components,experiment
+837,furfural,VOCbinbase,experiment
+837,"Butanoic acid, 2-methyl-",VOCbinbase,experiment
+838,4-methyl-pentanol,Adams Essential Oil Components,experiment
+843,1-(methylthio)ethanethiol,Flavornet,estimate
+844,(E)-2-hexenal,Flavornet,estimate
+845,isopropyl butanoate,Adams Essential Oil Components,experiment
+846,Ethyl 2-methylbutyrate,Flavornet,experiment
+847,isopropyl butanoate,Flavornet,experiment
+848,(2S)-2-methyl-ethyl ester-butanoic acid,Flavornet,experiment
+848,"2-Pentanone, 4-hydroxy-4-methyl-",VOCbinbase,experiment
+851,furfuryl alcohol,Flavornet,estimate
+851,hexanol,Flavornet,experiment
+853,(E)-2-hexenal,Lucero 2009,experiment
+853,(E)-2-hexenol,Flavornet,experiment
+854,(E)-2-hexenal,Lucero 2009,experiment
+854,2-hexenal,Flavornet,experiment
+854,"3-Hexen-1-ol, (Z)-",VOCbinbase,experiment
+854,ethyl 3-methylbutanoate,Flavornet,experiment
+854,E-3-hexenol,Adams Essential Oil Components,experiment
+855,(E)-2-hexenal,Lucero 2009,experiment
+855,E-2-hexenal,Adams Essential Oil Components,experiment
+856,2-hexenal,Flavornet,experiment
+856,Z-salvene,Adams Essential Oil Components,experiment
+857,(Z)-3-hexenol,Lucero 2009,experiment
+857,1-Hexanol,VOCbinbase,experiment
+858,(Z)-3-hexenol,Flavornet,experiment
+858,ethyl isovalerate,Adams Essential Oil Components,experiment
+859,Z-3-hexenol,Adams Essential Oil Components,experiment
+861,(Z)-3-hexenol,Lucero 2009,experiment
+864,"1-Butanol, 3-methyl-, acetate",VOCbinbase,experiment
+866,"2-Hexen-1-ol, (E)-",VOCbinbase,experiment
+866,methylbutanone,Flavornet,estimate
+867,E-salvene,Adams Essential Oil Components,experiment
+868,2-Methyl-3-furanthiol,Flavornet,experiment
+868,n-hexanol,Lucero 2009,experiment
+869,n-hexanol,Lucero 2009,experiment
+869,n-hexanol,Lucero 2009,experiment
+871,n-hexanol,Adams Essential Oil Components,experiment
+871,methyl tiglate,Adams Essential Oil Components,experiment
+872,n-hexanol,Lucero 2009,experiment
+873,heptenone,Flavornet,estimate
+873,methylbutyric acid,Flavornet,experiment
+876,isoamyl acetate,Flavornet,experiment
+877,heptanol,Flavornet,experiment
+877,isovaleric acid,Flavornet,experiment
+878,dimethylthiazole,Flavornet,estimate
+880,2-hexenol,Flavornet,estimate
+880,2-methylbutyl acetate,Flavornet,experiment
+880,propyl butyrate,Flavornet,experiment
+881,2-methyl butyl acetate,Adams Essential Oil Components,experiment
+882,2-Heptanone,VOCbinbase,experiment
+885,3-methyl-3-buten-1-ol acetate,Adams Essential Oil Components,experiment
+886,o-picoline,Flavornet,estimate
+886,allyl butanoate,Adams Essential Oil Components,experiment
+887,Allyl Isothiocyanate,Flavornet,experiment
+888,o-xylene,Flavornet,experiment
+888,ethyl pent-4-enoate,Adams Essential Oil Components,experiment
+889,2-Heptanol,VOCbinbase,experiment
+889,4-heptanol,Adams Essential Oil Components,experiment
+889,santene,Adams Essential Oil Components,experiment
+890,5-hydroxy-pentanal,Adams Essential Oil Components,experiment
+892,dimethyl pyrazine,Flavornet,experiment
+892,2-heptanone,Adams Essential Oil Components,experiment
+893,acetylfuran,Flavornet,estimate
+893,styrene,Flavornet,estimate
+894,methyl-2-(methylthio)acetate,Flavornet,experiment
+895,heptanone,Flavornet,experiment
+897,2-methoxy-pyrazine,Adams Essential Oil Components,experiment
+898,3-mercapto-2-pentanone,Flavornet,experiment
+899,n-heptanal,Lucero 2009,experiment
+899,propyl butanoate,Adams Essential Oil Components,experiment
+900,ethyl valerate,Flavornet,experiment
+900,3-mercapto-2-pentanone,Flavornet,estimate
+900,nonane,Lucero 2009,experiment
+900,nonane,Flavornet,experiment
+900,n-nonane,Adams Essential Oil Components,experiment
+901,methyltetrahydrofuranthiol,Flavornet,estimate
+901,ethyl pentanoate,Adams Essential Oil Components,experiment
+902,4-heptenal,Flavornet,experiment
+902,heptanal,Adams Essential Oil Components,experiment
+903,heptanal,Flavornet,experiment
+904,bornyl methyl ether,Flavornet,estimate
+905,dimethyl pyrazine,Flavornet,estimate
+907,"2,4-Hexadienal, (E,E)-",VOCbinbase,experiment
+907,ethyl pyrazine,Flavornet,estimate
+908,santolina triene,Lucero 2009,experiment
+909,"2,4-( E, E)-hexadienal",Lucero 2009,experiment
+909,methional,Flavornet,experiment
+909,butyl propanoate,Adams Essential Oil Components,experiment
+909,santolina triene,Adams Essential Oil Components,experiment
+910,"2,4-hexadienal",Flavornet,experiment
+910,"(E,E)-2,4-hexadienal",Adams Essential Oil Components,experiment
+911,4-methylhexanol,Flavornet,estimate
+911,"Hexanoic acid, methyl ester",VOCbinbase,experiment
+911,pentanoic acid,Flavornet,experiment
+912,2-Furfurylthiol,Flavornet,experiment
+912,2-Acetylfuran,Adams Essential Oil Components,experiment
+912,"2,5-dimethyl pyrazine",Adams Essential Oil Components,experiment
+913,dimethyl pyrazine,Flavornet,experiment
+913,2-acetyl furan,Adams Essential Oil Components,experiment
+913,"2,6-dimethyl pyrazine",Adams Essential Oil Components,experiment
+914,1-cyclohexen-3-one,Flavornet,experiment
+915,amyl acetate,Adams Essential Oil Components,experiment
+916,2-ethyl pyrazine,Adams Essential Oil Components,experiment
+916,"2,5-diethenyl-2-methyl-tetrahydrofuran",Adams Essential Oil Components,experiment
+917,4-methoxy-2-methyl-2-butanethiol,Flavornet,experiment
+918,"2,5-Hexanedione",VOCbinbase,experiment
+918,"Propanoic acid, 2-mercapto-, ethyl ester",Flavornet,estimate
+918,anisole,Adams Essential Oil Components,experiment
+920,3-Thujene,VOCbinbase,experiment
+920,"2,3-dimethyl pyrazine",Adams Essential Oil Components,experiment
+921,2-Oxolanone,VOCbinbase,experiment
+923,2-Acetyl-1-pyrroline,Flavornet,experiment
+924,2-methyl-4-heptanone,Adams Essential Oil Components,experiment
+924,3-methyl-4-heptanone,Adams Essential Oil Components,experiment
+924,isocitronellene,Adams Essential Oil Components,experiment
+925,dimethyl sulfone,Flavornet,experiment
+925,heptanol,Flavornet,estimate
+925,hexanethiol,Flavornet,estimate
+925,Acetonyl acetone,Adams Essential Oil Components,experiment
+926,tricyclene,Lucero 2009,experiment
+926,tricyclene,Lucero 2009,experiment
+927,tricyclene,Lucero 2009,experiment
+927,tricyclene,Lucero 2009,experiment
+927,methyl hexanoate,Adams Essential Oil Components,experiment
+927,tricyclene,Adams Essential Oil Components,experiment
+928,artemisia triene,Lucero 2009,experiment
+928,dimethylthiazole,Flavornet,experiment
+928,tricyclene,Lucero 2009,experiment
+928,tricyclene,Lucero 2009,experiment
+930,α-Thujene,Lucero 2009,experiment
+930,tricyclene,Lucero 2009,experiment
+930,Artemisia triene,Adams Essential Oil Components,experiment
+930,α-thujene,Adams Essential Oil Components,experiment
+931,α-Thujene,Lucero 2009,experiment
+931,Verbenene,VOCbinbase,experiment
+931,cumene,Adams Essential Oil Components,experiment
+932,α-Thujene,Lucero 2009,experiment
+932,α-Thujene,Lucero 2009,experiment
+932,α-Thujene,Lucero 2009,experiment
+934.8641975309,α-Pinene,marie standards,experiment
+935,ethyl 3-hydroxybutanoate,Flavornet,experiment
+935,"4,5-dimethyl thiazole",Adams Essential Oil Components,experiment
+936,methyldihydrofuranthiol,Flavornet,estimate
+936,4-Methyl-3-thiazoline,Flavornet,experiment
+937,"Octane, 2,6-dimethyl-",Adams Essential Oil Components,experiment
+937,"2-ethyl-4,5-dimethyl oxazole",Adams Essential Oil Components,experiment
+938,2-ethylpyridine,Flavornet,estimate
+938,α-Pinene,Lucero 2009,experiment
+938,α-Pinene,Lucero 2009,experiment
+938,α-thujene,Flavornet,experiment
+938,allyl isovalerate,Adams Essential Oil Components,experiment
+939,α-Pinene,Lucero 2009,experiment
+939,α-Pinene,Lucero 2009,experiment
+939,α-Pinene,Flavornet,experiment
+939,5-Norbornen-2-ol,Adams Essential Oil Components,experiment
+939,alpha-pinene,Adams Essential Oil Components,experiment
+940,α-Pinene,Lucero 2009,experiment
+940,α-Pinene,Lucero 2009,experiment
+940,α-Pinene,Lucero 2009,experiment
+942,α-Pinene,Lucero 2009,experiment
+944,3-mercapto-4-methyl-2-pentanone,Flavornet,experiment
+944,5-methyl-3-heptanone,Adams Essential Oil Components,experiment
+945,methyl-p-xylene,Flavornet,estimate
+946,butyl isothiocyanate,Flavornet,experiment
+947,5-Norbornen-2-ol,Adams Essential Oil Components,experiment
+947,3-methyl-valeric acid,Adams Essential Oil Components,experiment
+950,2-pentanol,Flavornet,estimate
+950,Camphene,VOCbinbase,experiment
+950,β-Citronellene,Adams Essential Oil Components,experiment
+951,2-hepten-1-al,Flavornet,experiment
+952,3-methyl cyclohexanone,Adams Essential Oil Components,experiment
+952,4-methyl pent-2-enolide,Adams Essential Oil Components,experiment
+953,camphene,Lucero 2009,experiment
+953,camphene,Flavornet,experiment
+953,α-fenchene,Adams Essential Oil Components,experiment
+954,camphene,Lucero 2009,experiment
+954,camphene,Lucero 2009,experiment
+954,carnphene,Lucero 2009,experiment
+954,camphene,Adams Essential Oil Components,experiment
+955,camphene,Lucero 2009,experiment
+955,camphene,Lucero 2009,experiment
+956,benzaldehyde,VOCbinbase,experiment
+957,camphene,Lucero 2009,experiment
+957,heptenal,Flavornet,experiment
+958,"Thuja-2,4(10)-diene",Lucero 2009,experiment
+958,2-ethoxy thiazole,Adams Essential Oil Components,experiment
+960,benzaldehyde,Flavornet,experiment
+960,"thuja-2,4(10)diene",Lucero 2009,experiment
+960,Benzaldehyde,Adams Essential Oil Components,experiment
+960,"thuja-2,4(10)-diene",Adams Essential Oil Components,experiment
+962,heptanol,Flavornet,estimate
+962,cyclohexyl formate,Adams Essential Oil Components,experiment
+963.8024691358,benzaldehyde,marie standards,experiment
+964,5-methyl furfural,Adams Essential Oil Components,experiment
+965,octanone,Flavornet,experiment
+965,6-methyl-heptan-2-ol,Adams Essential Oil Components,experiment
+967,3-Thiophenethiol,Flavornet,experiment
+967,n-heptanol,Adams Essential Oil Components,experiment
+967,Z-4-hepten-1-ol,Adams Essential Oil Components,experiment
+968,1-Octen-3-ol,VOCbinbase,experiment
+968,"2,5-Dimethyl-3-furanthiol",Flavornet,experiment
+968,ethyl isohexanoate,Flavornet,estimate
+968,verbenene,Adams Essential Oil Components,experiment
+969,4-methylthio-2-butanone,Flavornet,estimate
+970,(1S)-4-methylene-1-(1-methylethyl)bicyclo[3.1.0]hexane,VOCbinbase,experiment
+970,n-heptanol,Lucero 2009,experiment
+972,hexanoic acid,VOCbinbase,experiment
+972,5-Methyl-(E)-2-hepten-4-one,Flavornet,experiment
+972,3-Mercapto-3-methylbutanol,Flavornet,experiment
+972,sabinene,Flavornet,experiment
+973,"2-Penten-1-ol, (E)-",Flavornet,estimate
+974,"5-Hepten-2-one, 6-methyl-",VOCbinbase,experiment
+974,dimethyl trisulfide,Flavornet,experiment
+974,"5-Hepten-2-one, 6-methyl-",Flavornet,experiment
+974,2-methoxy-3-methyl-pyrazine,Adams Essential Oil Components,experiment
+974.3209876543,sabinene,marie standards,experiment
+975,trans-pinane,Adams Essential Oil Components,experiment
+975,sabinene,Adams Essential Oil Components,experiment
+976,1-Octen-3-one,Flavornet,experiment
+976,sabinene,Lucero 2009,experiment
+976,sabinene,Lucero 2009,experiment
+976,isopropyl tiglate,Adams Essential Oil Components,experiment
+976,exo-2-norborneol,Adams Essential Oil Components,experiment
+977,sabinene,Lucero 2009,experiment
+977,Artemiseole,Adams Essential Oil Components,experiment
+978,5-methylfurfural,Flavornet,experiment
+978,2-Octanone,VOCbinbase,experiment
+978,β-Myrcene,VOCbinbase,experiment
+978,methionol,Flavornet,experiment
+978,sabinene,Lucero 2009,experiment
+979,β-Pinene,Lucero 2009,experiment
+979,trans-p-menthane,Adams Essential Oil Components,experiment
+979,1-octen-3-ol,Adams Essential Oil Components,experiment
+979,beta-pinene,Adams Essential Oil Components,experiment
+979.6049382716,β-Pinene,marie standards,experiment
+980,β-Pinene,Lucero 2009,experiment
+980,β-Pinene,Lucero 2009,experiment
+980,phenol,Flavornet,experiment
+981,6-methyl-5-hepten-2-one,Lucero 2009,experiment
+981,"Furan, 2-pentyl-",VOCbinbase,experiment
+981,β-Pinene,Lucero 2009,experiment
+981,β-Pinene,Lucero 2009,experiment
+981,β-Pinene,Lucero 2009,experiment
+981,β-Pinene,Flavornet,experiment
+981,1-Octen-3-one,Flavornet,experiment
+981.243987882,1-Octen-3-ol,Lucero 2009,experiment
+982,β-Pinene,Lucero 2009,experiment
+982,1-Octen-3-ol,Flavornet,experiment
+983,Z-Herboxide (dehydroxylinalool oxide),VOCbinbase,experiment
+983,6-methyl-5-hepten-2-one,Lucero 2009,experiment
+983,"(Z)-1,5-octadien-3-one",Flavornet,experiment
+984,2-Octanol,Flavornet,experiment
+984,Benzonitrile,VOCbinbase,experiment
+984,"trans-m-mentha-2,8-diene",Adams Essential Oil Components,experiment
+984,3-octanone,Adams Essential Oil Components,experiment
+985,6-methyl-5-hepten-2-one,Lucero 2009,experiment
+985,"Hexanoic acid, ethyl ester",VOCbinbase,experiment
+985,trans-isolimonene,Adams Essential Oil Components,experiment
+986,6-methyl-5-hepten-2-one,Lucero 2009,experiment
+986,6-methyl-5-heptene-2-one,Lucero 2009,experiment
+986,"   3-octanol,      octan-3-ol",VOCbinbase,experiment
+986,6-methyl-5-hepten-2-one,Adams Essential Oil Components,experiment
+986,endo-2-Norborneol,Adams Essential Oil Components,experiment
+986,cis-pinane,Adams Essential Oil Components,experiment
+987,6-methyl-5-hepten-2-one,Lucero 2009,experiment
+987,6-methyl-5-hepten-2-one,Lucero 2009,experiment
+987,Decane,VOCbinbase,experiment
+987,"cis-m-mentha-2,8-diene",Adams Essential Oil Components,experiment
+987,methyl 2-hydroxy-4-methylpentanoate,Adams Essential Oil Components,experiment
+988,"1,5-octadien-3-ol",Flavornet,experiment
+988,"1,5-octadienone",Flavornet,experiment
+988,3-p-menthene,Adams Essential Oil Components,experiment
+988.7901234568,β-Myrcene,marie standards,experiment
+990,2-octanol,VOCbinbase,experiment
+990,1-decene,Adams Essential Oil Components,experiment
+991,"3-Hexen-1-ol, acetate, (E)-",VOCbinbase,experiment
+991,"dehydro-1,8-cineole",Lucero 2009,experiment
+991,myrcene,Lucero 2009,experiment
+991,myrcene,Lucero 2009,experiment
+991,rnyrcene,Lucero 2009,experiment
+991,"dehydro-1,8-cineole",Adams Essential Oil Components,experiment
+991,myrcene,Adams Essential Oil Components,experiment
+991,3-octanol,Adams Essential Oil Components,experiment
+991,2-octanone,Adams Essential Oil Components,experiment
+992,"2,3-dehydro-1,8-cineole",Flavornet,estimate
+992,myrcene,Lucero 2009,experiment
+992,myrcene,Lucero 2009,experiment
+992,myrcene,Flavornet,experiment
+992,myrcene ,Lucero 2009,experiment
+992,myrcene ,Lucero 2009,experiment
+992,myrcrene,Lucero 2009,experiment
+992,"2-Heptanol, 2,6-dimethyl-",Adams Essential Oil Components,experiment
+992,6-methyl-5-hepten-2-ol,Adams Essential Oil Components,experiment
+992,Methyl 2-hydroxy-3-methylpentanoate,Adams Essential Oil Components,experiment
+993,"Pyrazine, 2-ethyl-5-methyl-",Flavornet,estimate
+993,myrcene,Lucero 2009,experiment
+993,"Furan, 2-pentyl-",Flavornet,experiment
+993,trans-Anhydrolinalool oxide,Adams Essential Oil Components,experiment
+994,6-methyl-5-hepten-2-ol,Lucero 2009,experiment
+995,2-formylthiophene,Flavornet,experiment
+995,Octanal,VOCbinbase,experiment
+995,trimethylthiazole,Flavornet,experiment
+995,butyl butanoate,Adams Essential Oil Components,experiment
+995,2-octanol,Adams Essential Oil Components,experiment
+996,mesitylene,Adams Essential Oil Components,experiment
+996,"2,4,5-trimethyl thiazole",Adams Essential Oil Components,experiment
+997,"Acetic acid, hexyl ester",VOCbinbase,experiment
+997,yomogi alcohol,Lucero 2009,experiment
+998,"3(2H)-Thiophenone, dihydro-2-methyl-",Flavornet,experiment
+998,ethyl hexanoate,Adams Essential Oil Components,experiment
+999,cis-Anhydrolinalool oxide,VOCbinbase,experiment
+999,"2-Methyl-1,3-dithiacyclopentane",Flavornet,estimate
+999,octanone,Flavornet,experiment
+999,furfuryl methyl sulfide,Adams Essential Oil Components,experiment
+999,n-octanal,Adams Essential Oil Components,experiment
+999,yomogi alcohol,Adams Essential Oil Components,experiment
+1000,"2,4-heptadienal",Flavornet,experiment
+1000,decane,Flavornet,experiment
+1000,methyl hexanoate,Flavornet,experiment
+1000,trimethyl-pyrazine,Flavornet,experiment
+1000,n-decane,Adams Essential Oil Components,experiment
+1000,"Pyrazine, trimethyl-",Adams Essential Oil Components,experiment
+1001,2-methyl anisole,Flavornet,experiment
+1001,n-octanal,Lucero 2009,experiment
+1001,"m-mentha-1(7),8-diene",Adams Essential Oil Components,experiment
+1002,ethyl hexanoate,Flavornet,experiment
+1002,(+)-δ-2-carene,Adams Essential Oil Components,experiment
+1002,E-3-hexenyl acetate,Adams Essential Oil Components,experiment
+1003,α-Phellandrene,Adams Essential Oil Components,experiment
+1003,2-ethyl-3-methyl-pyrazine,Adams Essential Oil Components,experiment
+1004,α-Phellandrene,Lucero 2009,experiment
+1004,α-Phellandrene,Lucero 2009,experiment
+1004,α-Phellandrene,Lucero 2009,experiment
+1004,"7,7-dimethyl-3-methylenebicyclo[4.1.0]heptane",Flavornet,experiment
+1004,"p-mentha-1(7),8-diene",Adams Essential Oil Components,experiment
+1005,Z-3-hexenyl acetate,Adams Essential Oil Components,experiment
+1006,α-Phellandrene,Flavornet,experiment
+1006,α-Phellandrene,Lucero 2009,experiment
+1006,α-Phellandrene,Lucero 2009,experiment
+1006,α-Phellandrene,Lucero 2009,experiment
+1006,"2,4-Heptadienal, (E,E)-",VOCbinbase,experiment
+1006,octanal,Flavornet,experiment
+1007,"Benzene, 1,2-dichloro-",VOCbinbase,experiment
+1007,3-Carene,VOCbinbase,experiment
+1007,α-Phellandrene,Lucero 2009,experiment
+1007,α-Phellandrene,Flavornet,experiment
+1007,pentyl propanoate,Adams Essential Oil Components,experiment
+1007.2876712329,α-Phellandrene,marie standards,experiment
+1008,cis-Dehydroxy linalool oxide,Adams Essential Oil Components,experiment
+1009,hexenyl acetate,Flavornet,experiment
+1009,3-Carene,Flavornet,experiment
+1009,hexyl acetate,Adams Essential Oil Components,experiment
+1009,iso-sylvestrene,Adams Essential Oil Components,experiment
+1010,ethyl lactate,Flavornet,estimate
+1010.1369863014,3-carene,marie standards,experiment
+1011,"2,4-heptadienal",Flavornet,experiment
+1011,3-Carene,Lucero 2009,experiment
+1011,3-Carene,Lucero 2009,experiment
+1011,3-Carene,Lucero 2009,experiment
+1012,acetylpyridine,Flavornet,estimate
+1012,3-Carene,Lucero 2009,experiment
+1012,α-Terpinene,Flavornet,experiment
+1013,3-Carene,Lucero 2009,experiment
+1013,3-Carene,Lucero 2009,experiment
+1014,"2,3,4,5-tetrahydroanisole",Flavornet,experiment
+1014,hexyl acetate,Flavornet,experiment
+1014,3-Carene,Lucero 2009,experiment
+1014,"1,4-dichlorobenzene",Adams Essential Oil Components,experiment
+1015,"Pentanenitrile, 5-(methylthio)-",Flavornet,experiment
+1015,"1,4-cineole",Adams Essential Oil Components,experiment
+1016,"2-Furanmethanethiol, 5-methyl-",Flavornet,experiment
+1017,α-Terpinene,Lucero 2009,experiment
+1017,α-Terpinene,Lucero 2009,experiment
+1017,α-Terpinene,Adams Essential Oil Components,experiment
+1018,"1,4-cineole",Flavornet,estimate
+1018,α-Terpinene,Lucero 2009,experiment
+1018,beta-cubebene,Flavornet,experiment
+1018,2-acetyl thiazole,Adams Essential Oil Components,experiment
+1019,caproic acid,Flavornet,experiment
+1019,α-Terpinene,Lucero 2009,experiment
+1019,α-Terpinene,Lucero 2009,experiment
+1019,p-methyl anisole,Adams Essential Oil Components,experiment
+1020,"1-Hexanol, 2-ethyl-",VOCbinbase,experiment
+1020,acetylthiazole,Flavornet,experiment
+1020,α-Terpinene,Lucero 2009,experiment
+1021,p-methylanisole,Lucero 2009,experiment
+1021,"p-cresol, methyl ether ",Adams Essential Oil Components,experiment
+1021,2-acetyl-pyrazine,Adams Essential Oil Components,experiment
+1022,o-Cymene,VOCbinbase,experiment
+1023,acetylpyrazine,Flavornet,experiment
+1023,mercaptomethylbutyl formate,Flavornet,experiment
+1024,propionylpyrroline,Flavornet,experiment
+1024,p-Cymene,Lucero 2009,experiment
+1025,Limonene,VOCbinbase,experiment
+1025,p-Cymene,Lucero 2009,experiment
+1025,p-Cymene,Lucero 2009,experiment
+1025,p-Cymene,Lucero 2009,experiment
+1025,p-cymene,Adams Essential Oil Components,experiment
+1026,2-Propionylpyrrole,Flavornet,experiment
+1026,allyl tiglate,Adams Essential Oil Components,experiment
+1026,o-cymene,Adams Essential Oil Components,experiment
+1026,1-p-menthene,Adams Essential Oil Components,experiment
+1026,methyl heptanoate,Adams Essential Oil Components,experiment
+1026,"1,2,4-trimethyl benzene",Adams Essential Oil Components,experiment
+1027,o-cymene,Lucero 2009,experiment
+1027,p-Cymene,Flavornet,experiment
+1027,p-Cymene,Lucero 2009,experiment
+1027,p-Cymene,Lucero 2009,experiment
+1027,p-Cymene,Lucero 2009,experiment
+1028,p-Cymene,Lucero 2009,experiment
+1029,limonene,Adams Essential Oil Components,experiment
+1030,(+)-limonene,Flavornet,experiment
+1030,"1,8-cineole",Flavornet,experiment
+1030,limonene,Lucero 2009,experiment
+1030,β-Phellandrene,Adams Essential Oil Components,experiment
+1030.6301369863,R-limonene,marie standards,experiment
+1031,β-Phellandrene,Lucero 2009,experiment
+1031,limonene,Lucero 2009,experiment
+1031,limonene,Lucero 2009,experiment
+1031,3-Carene,Adams Essential Oil Components,experiment
+1031,"1,8-cineole",Adams Essential Oil Components,experiment
+1031,sylvestrene,Adams Essential Oil Components,experiment
+1032,2-ethylhexanol,Flavornet,experiment
+1032,phenylmethanol,VOCbinbase,experiment
+1032,β-Phellandrene,Lucero 2009,experiment
+1032,limonene,Lucero 2009,experiment
+1032,limonene,Lucero 2009,experiment
+1032,benzyl alcohol,Adams Essential Oil Components,experiment
+1033,"1,8-cineole",Lucero 2009,experiment
+1033,"1,8-cineole ",Lucero 2009,experiment
+1033,"2,2,4-trimethyl-3-oxabicyclo[2.2.2]octane",VOCbinbase,experiment
+1033,limonene,Lucero 2009,experiment
+1033,limonene,Lucero 2009,experiment
+1033,limonene,Flavornet,experiment
+1034,2-Acetyl pyridine,Adams Essential Oil Components,experiment
+1034.6849315069,benzyl-alcohol,marie standards,experiment
+1035,"1,8-cineole",Lucero 2009,experiment
+1035,"Pyrazine, 2-ethyl-3-methyl-",Flavornet,estimate
+1035,2-isobutyl thiazole,Adams Essential Oil Components,experiment
+1037,2-acetyl-5-methyl furan,Adams Essential Oil Components,experiment
+1037,Z-β-ocimene,Adams Essential Oil Components,experiment
+1038,(E)-3-hexenol,Flavornet,estimate
+1038,trans-β-Ocimene,Flavornet,experiment
+1038,trans-β-Ocimene,VOCbinbase,experiment
+1038,benzylmethyl ether,Flavornet,estimate
+1038,propyl tiglate,Adams Essential Oil Components,experiment
+1039,β-cis-Ocimene,Lucero 2009,experiment
+1039,β-cis-Ocimene,Lucero 2009,experiment
+1039,benzyl alcohol,Flavornet,experiment
+1039,ethyl hydroxybutanoate,Flavornet,estimate
+1040,β-cis-Ocimene,Lucero 2009,experiment
+1040,3-octen-2-one,Flavornet,experiment
+1040,3-octenone,Flavornet,experiment
+1040,isopropyl hexanoate,Flavornet,estimate
+1040,lavender lactone,Adams Essential Oil Components,experiment
+1040,santolina alcohol,Adams Essential Oil Components,experiment
+1041,β-cis-Ocimene,Lucero 2009,experiment
+1041,β-cis-Ocimene,Lucero 2009,experiment
+1041,β-cis-Ocimene,Lucero 2009,experiment
+1041,β-cis-Ocimene,Lucero 2009,experiment
+1041,acetophenone,Flavornet,experiment
+1041,methyl octanoate,Flavornet,experiment
+1042,benzene acetaldehyde,Adams Essential Oil Components,experiment
+1043,"(Z)-ocimene,",Flavornet,experiment
+1043,"1,8-cineole",Lucero 2009,experiment
+1043,4-mercapto-4-methyl-2-pentanone,Flavornet,estimate
+1043,Butyl 2-methylbutanoate,Flavornet,experiment
+1043,2-Isobutylthiazole,Flavornet,experiment
+1043,phenylacetaldehyde,Lucero 2009,experiment
+1043,phenylacetaldehyde,Lucero 2009,experiment
+1043,cis-dihydro-rose oxide,Adams Essential Oil Components,experiment
+1044,"Phenol, 2-methyl-",VOCbinbase,experiment
+1044,norfuraneol,Flavornet,experiment
+1044,phenylacetaldehyde,Lucero 2009,experiment
+1044,phenylacetaldehyde,Lucero 2009,experiment
+1044,ethyl (E)hex-2-enoate,Adams Essential Oil Components,experiment
+1044,2-heptyl acetate,Adams Essential Oil Components,experiment
+1045,2-acetylpyrrole,Flavornet,estimate
+1045,2-phenylacetaldehyde,VOCbinbase,experiment
+1045,phenylacetaldehyde,Lucero 2009,experiment
+1045,salicylaldehyde,Adams Essential Oil Components,experiment
+1046.3561643836,phenylacetaldehyde,marie standards,experiment
+1046.6849315069,β-Ocimene,marie standards,experiment
+1047,"5-Heptenal, 2,6-dimethyl-",VOCbinbase,experiment
+1047,2-methyl-3-thiophenethiol,Flavornet,estimate
+1047,"Pyrazine, 2-ethyl-3-methyl-",Flavornet,estimate
+1048,5-isopropyl-2-methylpyrazine,Flavornet,estimate
+1049,"2-acetyl-1,4,5,6-tetrahydropyridine",Flavornet,experiment
+1049,2-octenal,Flavornet,experiment
+1049,dimethylmethoxyfuranone,Flavornet,estimate
+1049,phenylethanal,Flavornet,experiment
+1050,trans-β-Ocimene,Lucero 2009,experiment
+1050,trans-β-Ocimene,Lucero 2009,experiment
+1050,E-β-ocimene,Adams Essential Oil Components,experiment
+1051,trans-β-Ocimene,Lucero 2009,experiment
+1051.4520547945,o-cresol,marie standards,experiment
+1052,trans-β-Ocimene,Lucero 2009,experiment
+1052,trans-β-Ocimene,Lucero 2009,experiment
+1052,trans-β-Ocimene,Lucero 2009,experiment
+1052,trans-β-Ocimene,Lucero 2009,experiment
+1052,dihydrolinalool,Flavornet,estimate
+1052,ocimene,Flavornet,estimate
+1053,6(10)-dihydromyrcenol,Flavornet,estimate
+1053,β-Phellandrene,Flavornet,experiment
+1053,cis-Arbusculone,Adams Essential Oil Components,experiment
+1053,dihydro-tagetone,Adams Essential Oil Components,experiment
+1055,"2-Octenal, (E)-",VOCbinbase,experiment
+1056,dimethylheptenal,Flavornet,estimate
+1056,alpha-ocimene,Flavornet,experiment
+1056,o-cresol,Adams Essential Oil Components,experiment
+1056,pentyl isobutanoate,Adams Essential Oil Components,experiment
+1057,bergamal,Adams Essential Oil Components,experiment
+1058,isopentyl butanoate,Adams Essential Oil Components,experiment
+1059,γ-Terpinene,VOCbinbase,experiment
+1059.8356164384,γ-Terpinene,marie standards,experiment
+1060,2-octenal,Flavornet,experiment
+1060,2-octenal,Flavornet,experiment
+1060,1-Octanol,VOCbinbase,experiment
+1060,2-Acetyl pyrrole,Adams Essential Oil Components,experiment
+1060,trans-decahydro-naphthalene,Adams Essential Oil Components,experiment
+1060,γ-Terpinene,Adams Essential Oil Components,experiment
+1061,artemisia ketone,Lucero 2009,experiment
+1061,γ-Terpinene,Lucero 2009,experiment
+1061,γ-Terpinene,Lucero 2009,experiment
+1061,γ-Terpinene,Lucero 2009,experiment
+1062,artemisia ketone,Flavornet,experiment
+1062,γ-Terpinene,Lucero 2009,experiment
+1062,γ-Terpinene,Lucero 2009,experiment
+1062,γ-Terpinene,Lucero 2009,experiment
+1062,Artemisia ketone,Adams Essential Oil Components,experiment
+1063,"Benzenemethanol, α-methyl-",Adams Essential Oil Components,experiment
+1063,2-butyl thiophene,Adams Essential Oil Components,experiment
+1064,"7-Octen-2-ol, 2,6-dimethyl-",VOCbinbase,experiment
+1064,5-Norbornene-2-methanol,Adams Essential Oil Components,experiment
+1065,"2-methoxy-3,6-dimethylpyrazine",Flavornet,experiment
+1065,Acetophenone,Adams Essential Oil Components,experiment
+1066,m-cresol,VOCbinbase,experiment
+1066,acetophenone,Lucero 2009,experiment
+1068,cis-sabinene hydrate,Lucero 2009,experiment
+1068,n-octanol,Adams Essential Oil Components,experiment
+1068,o-tolualdehyde,Adams Essential Oil Components,experiment
+1068.602739726,acetophenone,marie standards,experiment
+1069,trans-Linalool oxide (furanoid),VOCbinbase,experiment
+1069,acetophenone,VOCbinbase,experiment
+1069,cis-sabinene hydrate,Lucero 2009,experiment
+1069,cis-sabinene hydrate,Lucero 2009,experiment
+1069,dimethylstyrene,Flavornet,estimate
+1069,m-tolualdehyde,Adams Essential Oil Components,experiment
+1070,(Z)-linalool oxide,Flavornet,experiment
+1070,cis-sabinene hydrate,Lucero 2009,experiment
+1070,cis-sabinene hydrate,Adams Essential Oil Components,experiment
+1071,trans-Arbusculone,Adams Essential Oil Components,experiment
+1071.6472833764,n-octanol,Lucero 2009,experiment
+1072,n-octanol,Lucero 2009,experiment
+1072,octanol,Flavornet,experiment
+1072.602739726,linalooloxide,marie standards,experiment
+1073,cis-sabinene hydrate,Flavornet,experiment
+1073,trans-linalool oxide (furanoid),Adams Essential Oil Components,experiment
+1073,"p-mentha-3,8-diene",Adams Essential Oil Components,experiment
+1073,5-Norbornene-2-methanol,Adams Essential Oil Components,experiment
+1073,trans-dihydro-rose oxide,Adams Essential Oil Components,experiment
+1074,cis-Sabinene hydrate,VOCbinbase,experiment
+1074,cis-linalool oxide (furanoid),Lucero 2009,experiment
+1074,gamma-terpinene,Flavornet,experiment
+1074,dihydro myrcenol,Adams Essential Oil Components,experiment
+1075,"Benzaldehyde, 4-methyl-",VOCbinbase,experiment
+1075,"2-Cyclopenten-1-one, 2-hydroxy-3,4-dimethyl-",Flavornet,experiment
+1075,m-cresol,Lucero 2009,experiment
+1075,p-cresol,Flavornet,experiment
+1076,nonenone,Flavornet,estimate
+1076,benzyl formate,Adams Essential Oil Components,experiment
+1076,p-cresol,Adams Essential Oil Components,experiment
+1077,m-cresol,Adams Essential Oil Components,experiment
+1078,"Thiazole, 5-ethyl-2,4-dimethyl-",Flavornet,experiment
+1080,dihydromyrcenol,Flavornet,estimate
+1080,( Z)-vertocitral C,Adams Essential Oil Components,experiment
+1081,2-Thiophenemethanethiol,Flavornet,estimate
+1082,"2,5-dimethyl-3-ethylpyrazine",Flavornet,experiment
+1082,camphenilone,Adams Essential Oil Components,experiment
+1082,p-tolualdehyde,Adams Essential Oil Components,experiment
+1083,artemisia alcohol,Lucero 2009,experiment
+1083,"Pyrazine, 2-ethyl-3,5-dimethyl-",Flavornet,experiment
+1083,allyl hexanoate,Adams Essential Oil Components,experiment
+1083,2-acetyl-3-methyl-pyrazine,Adams Essential Oil Components,experiment
+1084,artemisia alcohol,Flavornet,experiment
+1084,"Pyrazine, 2-ethyl-3,5-dimethyl-",Flavornet,experiment
+1084,m-cresol,Flavornet,experiment
+1084,"3-Acetyl-2,5-dimethyl furan",Adams Essential Oil Components,experiment
+1084,Artemisia alcohol,Adams Essential Oil Components,experiment
+1084,2-methoxyethyl benzene,Adams Essential Oil Components,experiment
+1085,artemisia alcohol,Lucero 2009,experiment
+1085,m-cymenene,Adams Essential Oil Components,experiment
+1085,"2-Hexene, 1,1-diethoxy-",Adams Essential Oil Components,experiment
+1085,"2,3-diethyl-pyrazine",Adams Essential Oil Components,experiment
+1086,"Pyrazine, 2-ethyl-3,5-dimethyl-",Flavornet,experiment
+1086,tetramethyl-pyrazine,Adams Essential Oil Components,experiment
+1086.8493150685,terpinolene,marie standards,experiment
+1087,"3-Hexen-1-ol, propanoate, (Z)-",VOCbinbase,experiment
+1087,durene,Flavornet,estimate
+1087,maltol,Flavornet,estimate
+1087,"p-mentha-2,4(8)-diene",Lucero 2009,experiment
+1087,fenchone,Adams Essential Oil Components,experiment
+1087,furfuryl propanoate,Adams Essential Oil Components,experiment
+1087,cis-linalool oxide (furanoid),Adams Essential Oil Components,experiment
+1088,terpinolene,Lucero 2009,experiment
+1088,"p-mentha-2,4(8)-diene",Adams Essential Oil Components,experiment
+1089,"p-Mentha-1,4(8)-diene",VOCbinbase,experiment
+1089,guaiacol,Flavornet,experiment
+1089,"p-mentha-2,4(8)diene",Lucero 2009,experiment
+1089,terpinolene,Lucero 2009,experiment
+1089,terpinolene,Lucero 2009,experiment
+1089,terpinolene,Lucero 2009,experiment
+1089,terpinolene,Lucero 2009,experiment
+1089,2-Acetyl thiophene,Adams Essential Oil Components,experiment
+1089,o-guaiacol,Adams Essential Oil Components,experiment
+1089,terpinolene,Adams Essential Oil Components,experiment
+1090,2-pentylthiophene,Flavornet,estimate
+1090,acetylthiophene,Flavornet,experiment
+1090,δ-Terpinene,Flavornet,experiment
+1090,"p-mentha-2,4(8)-diene",Lucero 2009,experiment
+1090,terpinolene,Lucero 2009,experiment
+1090,2-nonanone,Adams Essential Oil Components,experiment
+1091,methyl benzoate,Lucero 2009,experiment
+1091,p-cymenene,Adams Essential Oil Components,experiment
+1091,dehydro-linalool,Adams Essential Oil Components,experiment
+1091,methyl benzoate,Adams Essential Oil Components,experiment
+1091,5-Norbornen-2-yl acetate,Adams Essential Oil Components,experiment
+1091,pentyl butanoate,Adams Essential Oil Components,experiment
+1092,Linalool,VOCbinbase,experiment
+1093,undecane,VOCbinbase,experiment
+1093,nonanone,Flavornet,experiment
+1093,"6,7-epoxymyrcene",Adams Essential Oil Components,experiment
+1093,isobutyl tiglate,Adams Essential Oil Components,experiment
+1094,pentyl butanoate,Flavornet,estimate
+1094,butyl pentanoate,Adams Essential Oil Components,experiment
+1094,5-Norbornen-2-yl acetate,Adams Essential Oil Components,experiment
+1095,"3,5-octadienone",Flavornet,experiment
+1095,methylthio-pyrazine,Adams Essential Oil Components,experiment
+1096,3-nonenal,Flavornet,experiment
+1096,methyl benzoate,marie standards,experiment
+1096,trans-sabinene hydrate,Lucero 2009,experiment
+1096,trans-sabinene hydrate,Lucero 2009,experiment
+1097,methyl benzoate,VOCbinbase,experiment
+1097,isopropylmethoxypyrazine,Flavornet,experiment
+1097,linalool,Lucero 2009,experiment
+1097,propyl hexanoate,Flavornet,experiment
+1097,6-camphenone,Adams Essential Oil Components,experiment
+1097,linalool,Adams Essential Oil Components,experiment
+1098,ethyl heptanoate,Adams Essential Oil Components,experiment
+1098,trans-sabinene hydrate,Adams Essential Oil Components,experiment
+1099,linalool,Lucero 2009,experiment
+1099,linalool,Lucero 2009,experiment
+1099,linalool,Lucero 2009,experiment
+1099,linalool,Lucero 2009,experiment
+1099,"2,5-dimethyl styrene",Adams Essential Oil Components,experiment
+1099,"2-Hexene, 1,1-diethoxy-",Adams Essential Oil Components,experiment
+1099,tetrahydro-linalool,Adams Essential Oil Components,experiment
+1099,α-Pinene oxide,Adams Essential Oil Components,experiment
+1099.2328767123,linalool,marie standards,experiment
+1100,3-nonenal,Flavornet,experiment
+1100,"(Z,Z)-3,6-Nonadienal",Flavornet,experiment
+1100,ethyl heptylate,Flavornet,experiment
+1100,linalool,Flavornet,experiment
+1100,undecane,Flavornet,experiment
+1100,ipsenol,Adams Essential Oil Components,experiment
+1100,isopentyl 2-methyl butanoate,Adams Essential Oil Components,experiment
+1100,3-methyl butyl 2-methyl butanoate,Adams Essential Oil Components,experiment
+1100,cis-decahydro-naphthalene,Adams Essential Oil Components,experiment
+1100,n-undecane,Adams Essential Oil Components,experiment
+1101,2-methyl-2-(methyldithio)propanal,Flavornet,estimate
+1101,nonanal,VOCbinbase,experiment
+1101,hotrienol,Flavornet,estimate
+1101,n-nonanal,Adams Essential Oil Components,experiment
+1101,perillene,Adams Essential Oil Components,experiment
+1102,ethenyl-dimethylpyrazine,Flavornet,experiment
+1102,Z-2-heptenyl acetate,Adams Essential Oil Components,experiment
+1102,cis-thujone,Adams Essential Oil Components,experiment
+1103,methyl benzoate,Flavornet,experiment
+1103,isopentyl isovalerate,Adams Essential Oil Components,experiment
+1103,2-phenyl propanal,Adams Essential Oil Components,experiment
+1104,2-ethylhexanoic acid,VOCbinbase,experiment
+1104,nonanal,Flavornet,experiment
+1104,octenol,Flavornet,experiment
+1104,"2,2-dimethyl-3,4-octadienal",Adams Essential Oil Components,experiment
+1105,acetylthiazoline,Flavornet,experiment
+1106,α-fenchocamphorone,Adams Essential Oil Components,experiment
+1107,α-Terpineol,VOCbinbase,experiment
+1107,sotolon,Flavornet,experiment
+1107,"2,6-dimethyl phenol",Adams Essential Oil Components,experiment
+1107,phenyl ethyl alcohol,Adams Essential Oil Components,experiment
+1107,trans-Vetrocitral C,Adams Essential Oil Components,experiment
+1108,maltol,Adams Essential Oil Components,experiment
+1108,cis-rose oxide,Adams Essential Oil Components,experiment
+1109,(+)-cis-rose oxide,Flavornet,estimate
+1110,"2,4-octadienal",Flavornet,experiment
+1110,β-Thujone,VOCbinbase,experiment
+1110,trans-sabinene hydrate,Flavornet,experiment
+1110,"1,3,8-p-menthatriene",Adams Essential Oil Components,experiment
+1111,"p-mentha-1,3,8-triene",Lucero 2009,experiment
+1112,"Benzaldehyde, dimethyl acetal",Adams Essential Oil Components,experiment
+1113,"1,3,8-p-menthatriene",Lucero 2009,experiment
+1113,1-octen-3-yl acetate,Adams Essential Oil Components,experiment
+1113.4803921569,phenylethyl alcohol,marie standards,experiment
+1114,endo-fenchol,Lucero 2009,experiment
+1114,trans-thujone,Lucero 2009,experiment
+1114,6-camphenol,Adams Essential Oil Components,experiment
+1114,E-2-heptenyl acetate,Adams Essential Oil Components,experiment
+1114,trans-thujone,Adams Essential Oil Components,experiment
+1115,caprylic acid methyl ester,VOCbinbase,experiment
+1115,p-menthatriene,Flavornet,experiment
+1115,heptyl acetate,Adams Essential Oil Components,experiment
+1115,3-methyl-3-butenyl-3-methyl butanoate,Adams Essential Oil Components,experiment
+1116,Rose furan,Flavornet,estimate
+1117,(-)-cis-rose oxide,Flavornet,experiment
+1117,endo-fenchol,Adams Essential Oil Components,experiment
+1118,2-phenylethyl alcohol,Flavornet,experiment
+1118,1-phenylethanol,VOCbinbase,experiment
+1118,"α,p-Dimethylstyrene",Flavornet,experiment
+1118,isophorone,Lucero 2009,experiment
+1119,dehydro-sabina ketone,Lucero 2009,experiment
+1119,formylmethyl thiophene,Flavornet,experiment
+1120,4-ethyl-6-hepten-3-one,Flavornet,estimate
+1121,cis-pinene hydrate,Lucero 2009,experiment
+1121,isophorone,Adams Essential Oil Components,experiment
+1121,dehydro-sabina ketone,Adams Essential Oil Components,experiment
+1122,"(E)-p-mentha-2,8-dien-1-ol",Flavornet,experiment
+1122,2-ethyl hexanoic acid,Adams Essential Oil Components,experiment
+1122,exo-fenchol,Adams Essential Oil Components,experiment
+1122,cis-p-menth-2-en-1-ol,Adams Essential Oil Components,experiment
+1123,chrysanthenone,Lucero 2009,experiment
+1123,cis-p-menth-2-en-1-ol,Lucero 2009,experiment
+1123,pinenol,Flavornet,estimate
+1123,"trans-p-mentha-2,8-dien-1-ol",Adams Essential Oil Components,experiment
+1123,myrcenol,Adams Essential Oil Components,experiment
+1123,3-octanol acetate,Adams Essential Oil Components,experiment
+1123,trans-pinene hydrate,Adams Essential Oil Components,experiment
+1124,allo- neo-Ocimene,VOCbinbase,experiment
+1126,menthone,Flavornet,estimate
+1126,perillen,Flavornet,estimate
+1126,6-campholenal,Adams Essential Oil Components,experiment
+1126,trans-Rose oxide,Adams Essential Oil Components,experiment
+1126,1-undecyne,Adams Essential Oil Components,experiment
+1127,"2-acetyl-3,4,5,6-tetrahydropyridine",Flavornet,estimate
+1127,α-Campholenal,Lucero 2009,experiment
+1127,α-Campholenal,Lucero 2009,experiment
+1127,α-Campholenal,Lucero 2009,experiment
+1127,1-octen-3-hydroperoxide,Flavornet,experiment
+1127,methyl octanoate,Adams Essential Oil Components,experiment
+1128,chrysanthenone,Adams Essential Oil Components,experiment
+1128,endo-2-norborneol acetate,Adams Essential Oil Components,experiment
+1128,stemone,Adams Essential Oil Components,experiment
+1129,2-Norbornyl acetate,Adams Essential Oil Components,experiment
+1129.3504901961,allo-ocimene,marie standards,experiment
+1130,γ-Heptanolactone,Flavornet,estimate
+1131,nerol oxide,Flavornet,estimate
+1131,octyl formate,Adams Essential Oil Components,experiment
+1132,limonene oxide,Flavornet,estimate
+1132,allo-ocimene,Adams Essential Oil Components,experiment
+1133,4-mercapto-4-methyl-2-pentanol,Flavornet,estimate
+1133,ethyl cyclohexanoate,Flavornet,experiment
+1133,methyl cyclohexanecarboxylate,Flavornet,experiment
+1134,trans-Rose oxide,Flavornet,experiment
+1134,cis-3-Hexenyl iso-butyrate,VOCbinbase,experiment
+1134,cyclohexyl propanoate,Adams Essential Oil Components,experiment
+1134,1-terpineol,Adams Essential Oil Components,experiment
+1134.2524509804,phenol,marie standards,experiment
+1135,dihydro-linalool,Adams Essential Oil Components,experiment
+1135,Z-myroxide,Adams Essential Oil Components,experiment
+1135.1102941177,2-ethylphenol,marie standards,experiment
+1137,(Z)-limonene oxide,Flavornet,experiment
+1137,3-terpinen-1-ol,Flavornet,estimate
+1137,"cis-p-mentha-2,4-dien-1-ol",Lucero 2009,experiment
+1137,cis-limonene oxide,Adams Essential Oil Components,experiment
+1137,3-methyl-2-isobutyl pyrazine,Adams Essential Oil Components,experiment
+1138,nopinone,Lucero 2009,experiment
+1138,"cis-p-mentha-2,8-dien-1-ol",Adams Essential Oil Components,experiment
+1138,iso-3-thujanol,Adams Essential Oil Components,experiment
+1139,(+)-(E)-limonene oxide,Flavornet,experiment
+1139,camphor,Flavornet,experiment
+1139,ethyl-4-hydroxymethyl- 3(2H)-Furanone,Flavornet,experiment
+1139,fenchyl alcohol,Flavornet,estimate
+1139,trans-pinocarveol,Lucero 2009,experiment
+1139,o-cresol acetate,Adams Essential Oil Components,experiment
+1139,trans-pinocarveol,Adams Essential Oil Components,experiment
+1139,trans-dehydro-β-terpineol,Adams Essential Oil Components,experiment
+1140,α-Fenchol,Flavornet,estimate
+1140,α-Fenchol,Flavornet,estimate
+1140,Amyl 2-methylbutyrate,Flavornet,estimate
+1140,nopinone,Adams Essential Oil Components,experiment
+1140.3799019608,limonene-oxide,marie standards,experiment
+1141,trans-p-menth-2-en-1-ol,Lucero 2009,experiment
+1141,trans-pinocarveol,Lucero 2009,experiment
+1141,trans-pinocarveol,Lucero 2009,experiment
+1141,trans-p-menth-2-en-1-ol,Adams Essential Oil Components,experiment
+1141,cis-Verbenol,Adams Essential Oil Components,experiment
+1142,(E)-limonene oxide,Flavornet,experiment
+1142,menthone,Flavornet,estimate
+1142,trans-limonene oxide,Adams Essential Oil Components,experiment
+1142,trans-sabinol,Adams Essential Oil Components,experiment
+1143,cis-pinene hydrate,Lucero 2009,experiment
+1143,cis-verbenol,Lucero 2009,experiment
+1143,cis-verbenol,Lucero 2009,experiment
+1143,geijerene,Adams Essential Oil Components,experiment
+1143,cis-sabinol,Adams Essential Oil Components,experiment
+1144,camphor,Lucero 2009,experiment
+1144,camphor,Lucero 2009,experiment
+1144,β-Terpineol,Flavornet,estimate
+1144,neo-allo-ocimene,Adams Essential Oil Components,experiment
+1144,cis-pinene hydrate,Adams Essential Oil Components,experiment
+1144,E-tagetone,Adams Essential Oil Components,experiment
+1144,cis-β-Terpineol,Adams Essential Oil Components,experiment
+1145,camphor,Lucero 2009,experiment
+1145,5-methyl-5(H)-cyclopentapyrazine,Flavornet,experiment
+1145,neoallo-ocimene,Lucero 2009,experiment
+1145,p-2-menthen-1-ol,Flavornet,estimate
+1145,ipsdienol,Adams Essential Oil Components,experiment
+1145,4-keto-isophorone,Adams Essential Oil Components,experiment
+1145,E-myroxide,Adams Essential Oil Components,experiment
+1145,trans-verbenol,Adams Essential Oil Components,experiment
+1146,camphor ,Lucero 2009,experiment
+1146,trans-verbenol,Lucero 2009,experiment
+1146,camphor,Adams Essential Oil Components,experiment
+1146,veratrole,Adams Essential Oil Components,experiment
+1147,2-nonenal,Flavornet,experiment
+1147,"2-Methyl-3-furanthiol, acetate",Flavornet,estimate
+1147,trans-verbenol,Lucero 2009,experiment
+1147,trans-verbenol,Lucero 2009,experiment
+1147,Z-3-hexenyl isobutanoate,Adams Essential Oil Components,experiment
+1148,neo-isopulegol,Adams Essential Oil Components,experiment
+1148,trans-dihydro-α-terpineol,Adams Essential Oil Components,experiment
+1149,octyl acetate,Flavornet,estimate
+1149,sesquiphellandrene,Flavornet,experiment
+1149,"2-Nonenal, (Z)-",Adams Essential Oil Components,experiment
+1150,camphene,Lucero 2009,experiment
+1150,camphene hydrate,Lucero 2009,experiment
+1150,camphene hydrate,Adams Essential Oil Components,experiment
+1150,isopulegol,Adams Essential Oil Components,experiment
+1150,p-menth-3-en-8-ol,Adams Essential Oil Components,experiment
+1150,myrcenone,Adams Essential Oil Components,experiment
+1151,Camphene hydrate,VOCbinbase,experiment
+1151,o-(prop-1-enyl)phenol,Adams Essential Oil Components,experiment
+1152,hexyl isobutanoate,Adams Essential Oil Components,experiment
+1152,Z-tagetone,Adams Essential Oil Components,experiment
+1152,neoiso-3-thujanol,Adams Essential Oil Components,experiment
+1153,"2,6-Nonadienal, (E,Z)-",VOCbinbase,experiment
+1153,citronella,Adams Essential Oil Components,experiment
+1153,menthone,Adams Essential Oil Components,experiment
+1154,2-nonenal,Flavornet,estimate
+1154,"2,6-nonadienal",Flavornet,experiment
+1154,nonanol,Flavornet,experiment
+1154,2-ethyl hexyl acetate,Adams Essential Oil Components,experiment
+1154,neo-3-thujanol,Adams Essential Oil Components,experiment
+1155,"(E,Z)-2,6-nonadienal",Adams Essential Oil Components,experiment
+1157,Octanoic acid,VOCbinbase,experiment
+1157,pentyl-benzene,Adams Essential Oil Components,experiment
+1157,Z-3-nonen-1-ol,Adams Essential Oil Components,experiment
+1158,acetylmethylcyclohexene,Flavornet,estimate
+1158,diethylmethyl pyrazine,Flavornet,experiment
+1158,Isoborneol,Lucero 2009,experiment
+1158,Isoborneol,Flavornet,experiment
+1158,sabina ketone,Lucero 2009,experiment
+1158,nerol oxide,Adams Essential Oil Components,experiment
+1158,phenyl-tert-butanol,Adams Essential Oil Components,experiment
+1159,(E)-2-nonenal,VOCbinbase,experiment
+1159,citronellal,Flavornet,experiment
+1159,homofuraneol,Flavornet,experiment
+1159,karahanaenone,Adams Essential Oil Components,experiment
+1159,β-pinene oxide,Adams Essential Oil Components,experiment
+1159,sabina ketone,Adams Essential Oil Components,experiment
+1160,"3,7-dimethylocta-3,6-dienal",VOCbinbase,experiment
+1160,diethylmethylpyrazine,Flavornet,experiment
+1160,iso-isopulegol,Adams Essential Oil Components,experiment
+1160,2-acetyl-3-ethyl-pyrazine,Adams Essential Oil Components,experiment
+1160,cis-dehydro-β terpineol,Adams Essential Oil Components,experiment
+1161,4-pentenyl isothiocyanate,Flavornet,experiment
+1162,(E)-2-nonenal,Flavornet,experiment
+1162,benzyl acetate,Flavornet,experiment
+1162,borneol,Flavornet,experiment
+1162,isoborneol,Adams Essential Oil Components,experiment
+1162,tetrahydro-lavandulol,Adams Essential Oil Components,experiment
+1162,E-2-nonen-1-al,Adams Essential Oil Components,experiment
+1163,cis-chrysanthemol,Lucero 2009,experiment
+1163,cis-chrysanthemol,Lucero 2009,experiment
+1163,m-cresol acetate,Adams Essential Oil Components,experiment
+1163,iso-menthone,Adams Essential Oil Components,experiment
+1163,trans-pinocamphone,Adams Essential Oil Components,experiment
+1163,trans-β-terpineol,Adams Essential Oil Components,experiment
+1164,p-Menthan-3-one,VOCbinbase,experiment
+1164,pinocarvone,Lucero 2009,experiment
+1164,pinocarvone,Lucero 2009,experiment
+1164,cis-chrysanthenol,Adams Essential Oil Components,experiment
+1164,menthofuran,Adams Essential Oil Components,experiment
+1164.0931372549,benzyl acetate,marie standards,experiment
+1165,acetic acid (phenylmethyl) ester,VOCbinbase,experiment
+1165,borneol,Lucero 2009,experiment
+1165,pinocarvone,Adams Essential Oil Components,experiment
+1165,cis-dihydro-α terpineol,Adams Essential Oil Components,experiment
+1165.2573529412,"1,4-dimethoxybenzene",marie standards,experiment
+1166,borneol,Lucero 2009,experiment
+1166,p-cymenol,Flavornet,experiment
+1166,"1,4-dimethoxybenzene",Adams Essential Oil Components,experiment
+1166,neo-menthol,Adams Essential Oil Components,experiment
+1166,δ-Terpineol,Adams Essential Oil Components,experiment
+1167,"2,6-nonadienol",Flavornet,experiment
+1167,1-nonanol,VOCbinbase,experiment
+1167,borneol,Lucero 2009,experiment
+1167,diethyl succinate,Flavornet,experiment
+1167,nonadienol,Flavornet,experiment
+1168,borneol,Lucero 2009,experiment
+1168,borneol,Lucero 2009,experiment
+1168,cis-isocitral,Flavornet,estimate
+1168,"2,6-dimethyl aniline",Adams Essential Oil Components,experiment
+1169,camphene hydrate,Flavornet,estimate
+1169,ethylphenol,Flavornet,experiment
+1169,pinocarveol,Flavornet,estimate
+1169,"1,3-dimethoxy benzene",Adams Essential Oil Components,experiment
+1169,borneol,Adams Essential Oil Components,experiment
+1169,n-nonanol,Adams Essential Oil Components,experiment
+1169,3-thujanol,Adams Essential Oil Components,experiment
+1170,butanedioic acid diethyl ester,VOCbinbase,experiment
+1170,2-methyl-3-(methyldithio)furan,Flavornet,experiment
+1170,"p-mentha-1,5-dien-8-ol",Adams Essential Oil Components,experiment
+1170,pinocampheol,Adams Essential Oil Components,experiment
+1171,ethyl-benzoate,Lucero 2009,experiment
+1171,ethyl-benzoate,Lucero 2009,experiment
+1171,ethylbenzaldehyde,Flavornet,experiment
+1171,l-menthol,Flavornet,estimate
+1171,p-cresol acetate,Adams Essential Oil Components,experiment
+1171,neoiso-isopulegol,Adams Essential Oil Components,experiment
+1171,umbellulone,Adams Essential Oil Components,experiment
+1171.875,1-nonanol,marie standards,experiment
+1172,(E)-linalool oxide,Flavornet,experiment
+1172,methyldithiofurane,Flavornet,experiment
+1172,menthol,Adams Essential Oil Components,experiment
+1173,Artemisyl acetate,Adams Essential Oil Components,experiment
+1173,ethyl benzoate,Adams Essential Oil Components,experiment
+1174,isopinocamphone,Lucero 2009,experiment
+1174,furfuryl butanoate,Adams Essential Oil Components,experiment
+1174,"cis-Linalool Oxide, pyranoid",Adams Essential Oil Components,experiment
+1175,cis-pinocamphone,Adams Essential Oil Components,experiment
+1175,santolinyl acetate,Adams Essential Oil Components,experiment
+1176,"linalool oxide, trans-pyranoid",VOCbinbase,experiment
+1176,"Pyrazine, 2-methoxy-3-(1-methylpropyl)-",Flavornet,experiment
+1176,phenylethylthiol,Flavornet,experiment
+1176,2-phenyl ethyl formate,Adams Essential Oil Components,experiment
+1177,terpinen-4-ol,Lucero 2009,experiment
+1177,terpinen-4-ol,Lucero 2009,experiment
+1177,trans-linalool oxide (pyranoid),Adams Essential Oil Components,experiment
+1177,rosefuran epoxide,Adams Essential Oil Components,experiment
+1177,terpinen-4-ol,Adams Essential Oil Components,experiment
+1178,(epoxymethylbutyl)-methylfuran,Flavornet,estimate
+1178,(Z)-3-hexenyl butanoate,Flavornet,experiment
+1178,terpene-4-ol,Lucero 2009,experiment
+1178,terpene-4-ol,Lucero 2009,experiment
+1178,terpene-4-ol,Lucero 2009,experiment
+1178,terpene-4-ol,Lucero 2009,experiment
+1179,1-terpinen-4-ol,Flavornet,experiment
+1179,terpene-4-ol,Lucero 2009,experiment
+1179,"benzene acetic acid, ethyl ester",Adams Essential Oil Components,experiment
+1179,diethyl succinate,Adams Essential Oil Components,experiment
+1179,"1,1-dimethoxy-octane",Adams Essential Oil Components,experiment
+1180,ethenyl-ethylmethylpyrazine,Flavornet,experiment
+1180,m-cymen-8-ol,Lucero 2009,experiment
+1180,"Ethanethioic acid, S-(2-furanylmethyl) ester",Flavornet,estimate
+1180,m-cymen-8-ol,Adams Essential Oil Components,experiment
+1180,iso-pinocampheol,Adams Essential Oil Components,experiment
+1180,iso-verbanol,Adams Essential Oil Components,experiment
+1181,"Butanoic acid, 3-hexenyl ester, (Z)-",VOCbinbase,experiment
+1181,epoxy-2-octenal,Flavornet,experiment
+1181,ethyl-3(2-furyl)-propanoate,Adams Essential Oil Components,experiment
+1181,lavandulol,Adams Essential Oil Components,experiment
+1181,naphthalene,Adams Essential Oil Components,experiment
+1181,santalone,Adams Essential Oil Components,experiment
+1182,m-cymen-8-ol,Lucero 2009,experiment
+1182,methylisoborneol,Flavornet,experiment
+1182,allyl heptanoate,Adams Essential Oil Components,experiment
+1182,Z-4-diethyl acetal heptenal,Adams Essential Oil Components,experiment
+1183,dimethyloctadienal,Flavornet,estimate
+1183,p-cymen-8-ol,Lucero 2009,experiment
+1183,p-methyl-acetophenone,Lucero 2009,experiment
+1183,p-methyl-Acetophenone,Adams Essential Oil Components,experiment
+1183,p-Cymen-8-ol,Adams Essential Oil Components,experiment
+1183,iso-menthol,Adams Essential Oil Components,experiment
+1183,2-methoxy-3-(2-methylpropyl)-pyrazine,Adams Essential Oil Components,experiment
+1184,3-decanone,VOCbinbase,experiment
+1184,p-cymen-8-ol,Lucero 2009,experiment
+1184,p-cymen-8-ol,Lucero 2009,experiment
+1184,p-cymen-8-ol,Lucero 2009,experiment
+1184,cis-pinocarveol,Adams Essential Oil Components,experiment
+1184,thuj-3-en-10-al,Adams Essential Oil Components,experiment
+1185,"(1R,2R,5R)-2-isopropyl-5-methyl-cyclohexanol",VOCbinbase,experiment
+1185,cryptone,Lucero 2009,experiment
+1185,ethyl benzoate,Flavornet,experiment
+1185,hexyl butanoate,Flavornet,estimate
+1185,neo-verbanol,Adams Essential Oil Components,experiment
+1186,(Z)-3-hexenyl butyrate,Lucero 2009,experiment
+1186,2-(2-butoxyethoxy)ethanol,VOCbinbase,experiment
+1186,isobutylmethoxypyrazine,Flavornet,experiment
+1186,lavandulol,Flavornet,estimate
+1186,cryptone,Adams Essential Oil Components,experiment
+1186,Z-3-hexenyl butanoate,Adams Essential Oil Components,experiment
+1187,2-nonanol,Flavornet,estimate
+1187,dill ether,Flavornet,experiment
+1187,p-cymen-8-ol,Lucero 2009,experiment
+1187,dill ether,Adams Essential Oil Components,experiment
+1187,ethyl (E)-4-octenoate,Adams Essential Oil Components,experiment
+1187,neoiso-menthol,Adams Essential Oil Components,experiment
+1188,n-butyl n-hexanoate,Adams Essential Oil Components,experiment
+1188,3-decanone,Adams Essential Oil Components,experiment
+1189,α-Terpineol,Lucero 2009,experiment
+1189,α-Terpineol,Lucero 2009,experiment
+1189,"trans-p-mentha-1(7),8-dien-2-ol",Adams Essential Oil Components,experiment
+1189,α-Terpineol,Adams Essential Oil Components,experiment
+1190,α-Terpineol,Lucero 2009,experiment
+1190,α-Terpineol,Lucero 2009,experiment
+1190,α-Terpineol,Lucero 2009,experiment
+1190,α-Terpineol,Lucero 2009,experiment
+1190,2-decanone,VOCbinbase,experiment
+1190,"Octanoic acid, ethyl ester",VOCbinbase,experiment
+1190,dihydrocarveol,Flavornet,experiment
+1190,"p-Cresol, 2-methoxy",Adams Essential Oil Components,experiment
+1190,1-dodecene,Adams Essential Oil Components,experiment
+1190,E-4-diethyl acetal heptenal,Adams Essential Oil Components,experiment
+1190,neoiso-verbanol,Adams Essential Oil Components,experiment
+1191,(Z)-3-hexenyl-2-methylbutanoate,Flavornet,experiment
+1191,4-acetyltoluene,Flavornet,experiment
+1191,2-allyl phenol,Adams Essential Oil Components,experiment
+1191.2134163241,methyl salicylate,Lucero 2009,experiment
+1192,butyl hexanoate,Flavornet,estimate
+1192,methyl salicylate,Lucero 2009,experiment
+1192,o-cresol,Flavornet,estimate
+1192,"Pyridine, 2-pentyl-",Flavornet,experiment
+1192,2-decanone,Adams Essential Oil Components,experiment
+1192,methyl salicylate,Adams Essential Oil Components,experiment
+1193,abhexone,Flavornet,experiment
+1193,cis-dihydro carvone,Adams Essential Oil Components,experiment
+1193,hexyl butanoate,Adams Essential Oil Components,experiment
+1194,cis-piperitol,Lucero 2009,experiment
+1194,myrtenol,Lucero 2009,experiment
+1194,1-Nitro-2-phenylethane,Flavornet,estimate
+1194,cis-4-Decenal,Adams Essential Oil Components,experiment
+1194,dihydro carveol,Adams Essential Oil Components,experiment
+1194,neo-dihydro carveol,Adams Essential Oil Components,experiment
+1194,E-2-hexenyl butanoate,Adams Essential Oil Components,experiment
+1194,1-phenyl ethyl acetate,Adams Essential Oil Components,experiment
+1195,(Z)-dihydrocarvone,Flavornet,experiment
+1195,2-(4-methylphenyl)-1-propanol,VOCbinbase,experiment
+1195,alpha-terpineol,Flavornet,experiment
+1195.8946078431,methyl salicylate,marie standards,experiment
+1196,"(E,Z)-2,4-nonadienal",Flavornet,experiment
+1196,methylchavicol,Lucero 2009,experiment
+1196,m-anisaldehyde,Adams Essential Oil Components,experiment
+1196,dihydro citronellol,Adams Essential Oil Components,experiment
+1196,cis-p-menthan-2-one,Adams Essential Oil Components,experiment
+1196,methyl chavicol,Adams Essential Oil Components,experiment
+1196,myrtenal,Adams Essential Oil Components,experiment
+1196,myrtenol,Adams Essential Oil Components,experiment
+1196,cis-piperitol,Adams Essential Oil Components,experiment
+1197,carveol,Flavornet,experiment
+1197,3-decanol,Adams Essential Oil Components,experiment
+1197,"4-Decenal, (E)-",Adams Essential Oil Components,experiment
+1197,ethyl octanoate,Adams Essential Oil Components,experiment
+1197,safranal,Adams Essential Oil Components,experiment
+1198,ethyl octanoate,Flavornet,experiment
+1198,methyl-α-cyclogeranate,Adams Essential Oil Components,experiment
+1198,shisofuran,Adams Essential Oil Components,experiment
+1198,verbanol,Adams Essential Oil Components,experiment
+1199,neoisomenthol,Flavornet,estimate
+1199,γ-Terpineol,Adams Essential Oil Components,experiment
+1200,(Z)-4-decenal,Flavornet,experiment
+1200,"2,4-nonadienal",Flavornet,experiment
+1200,dodecane,Flavornet,experiment
+1200,estragole,Flavornet,experiment
+1200,n-dodecane,Adams Essential Oil Components,experiment
+1200,"Ethyl 4-octenoate, (Z)-",Adams Essential Oil Components,experiment
+1200,trans-p-menthan-2-one,Adams Essential Oil Components,experiment
+1201,trans-dihydro carvone,Adams Essential Oil Components,experiment
+1202,(E)-dihydrocarvone,Flavornet,experiment
+1202,ethyl octenoate,Flavornet,estimate
+1202,n-decanal,Adams Essential Oil Components,experiment
+1202,elsholtzia ketone,Adams Essential Oil Components,experiment
+1203,6-decenal,Flavornet,experiment
+1203,6-decenal,Flavornet,experiment
+1203,"norbornene-2-methanol acetate, exo-5-",Adams Essential Oil Components,experiment
+1203.7479300977,n-decanal ,Lucero 2009,experiment
+1204,acetic acid octyl ester,VOCbinbase,experiment
+1204,n-decanal ,Lucero 2009,experiment
+1205,methyl salicylate,VOCbinbase,experiment
+1205,verbenone,Lucero 2009,experiment
+1205,"cymen-9-ol, p-",Adams Essential Oil Components,experiment
+1205,verbenone,Adams Essential Oil Components,experiment
+1206,cis-Sabinene hydrate acetate,VOCbinbase,experiment
+1206,verbenone,Lucero 2009,experiment
+1207,decanal,VOCbinbase,experiment
+1207,verbenone,Lucero 2009,experiment
+1208,3-methylthio-1-hexanol,Adams Essential Oil Components,experiment
+1208,trans-piperitol,Adams Essential Oil Components,experiment
+1209,decanal,Flavornet,experiment
+1209,"norbornene-2-methanol acetate, endo-5-",Adams Essential Oil Components,experiment
+1212,linalool oxide,Flavornet,estimate
+1212,"(E,E)-2,4-nonadienal",Adams Essential Oil Components,experiment
+1212.9966329966,verbenone,marie standards,experiment
+1214,isodihydrocarveol,Flavornet,experiment
+1214,naphthalene,Flavornet,estimate
+1214,octanol acetate,Adams Essential Oil Components,experiment
+1215,isobutyric acid,Flavornet,estimate
+1215,iso-dihydro carveol,Adams Essential Oil Components,experiment
+1215,trans-pulegol,Adams Essential Oil Components,experiment
+1216,dihydro myrcenol acetate,Adams Essential Oil Components,experiment
+1216,fraganol,Adams Essential Oil Components,experiment
+1216,linalyl formate,Adams Essential Oil Components,experiment
+1217,(E)-carveol,Flavornet,experiment
+1217,"2,4-nonadienal",Flavornet,experiment
+1217,trans-carveol,Lucero 2009,experiment
+1217,trans-carveol,Lucero 2009,experiment
+1217,trans-carveol,Adams Essential Oil Components,experiment
+1218,4-methylene-isophorone,Adams Essential Oil Components,experiment
+1219,trans-carveol,Lucero 2009,experiment
+1219,Z-cinnamaldehyde,Adams Essential Oil Components,experiment
+1220,(Z)-piperitol,Flavornet,estimate
+1220,methyl nonanoate,VOCbinbase,experiment
+1220,Dehydroelsholtzia ketone,Adams Essential Oil Components,experiment
+1220,endo-fenchyl acetate,Adams Essential Oil Components,experiment
+1221,cis-sabinene hydrate acetate,Adams Essential Oil Components,experiment
+1222,"2,3-dimethyl-Benzofuran",Adams Essential Oil Components,experiment
+1223,linalyl formate,Flavornet,estimate
+1224,cumin aldehyde,Flavornet,experiment
+1224,methyl nonanoate,Flavornet,estimate
+1225.1178451179,nerol,marie standards,experiment
+1226,"3,7-dimethyl-6-octen-1-ol",VOCbinbase,experiment
+1226,citronellol,Adams Essential Oil Components,experiment
+1227,Methyl nonanoate,Adams Essential Oil Components,experiment
+1228,diethyl malonate,Flavornet,estimate
+1228,syntexan,Flavornet,estimate
+1229,(E)-2-propan-2-yloct-3-enoate,VOCbinbase,experiment
+1229,(Z)-carveol,Flavornet,experiment
+1229,Furfuryl methyl disulfide,Flavornet,estimate
+1229,nerol,Lucero 2009,experiment
+1229,cis-carveol,Adams Essential Oil Components,experiment
+1229,neo-iso-Dihydrocarveol,Adams Essential Oil Components,experiment
+1229,Z-ocimenone,Adams Essential Oil Components,experiment
+1229,cis-pulegol,Adams Essential Oil Components,experiment
+1230,cis-carveol,Lucero 2009,experiment
+1230,nerol,Adams Essential Oil Components,experiment
+1231,cis-carveol,Lucero 2009,experiment
+1231,nor-davanone,Adams Essential Oil Components,experiment
+1231,"cis-p-mentha-1(7),8-dien-2-ol",Adams Essential Oil Components,experiment
+1232,dimethyl tetrasulfide,Flavornet,experiment
+1233,"2,6,6-trimethyl-1-cyclohexenecarboxaldehyde",VOCbinbase,experiment
+1233,citronellol,Flavornet,experiment
+1233,myrtenal,Flavornet,estimate
+1233,nerol,Flavornet,experiment
+1233,piperitol,Flavornet,estimate
+1233,exo-fenchyl acetate,Adams Essential Oil Components,experiment
+1234,methyl salicylate,Flavornet,estimate
+1234,tetrahydro-linalyl acetate,Adams Essential Oil Components,experiment
+1235,epoxy-p-menthene,Flavornet,experiment
+1235,"thymol, methyl ether",Adams Essential Oil Components,experiment
+1236,thymol methyl ether,Lucero 2009,experiment
+1236,n-hexyl 2-methyl butanoate,Adams Essential Oil Components,experiment
+1236,"5-acetyl-2,4-dimethyl-thiazole",Adams Essential Oil Components,experiment
+1237,Ascaridole,Adams Essential Oil Components,experiment
+1237,pulegone,Adams Essential Oil Components,experiment
+1238,cis-ascaridole,Lucero 2009,experiment
+1238,trans-chrysanthenyl acetate,Adams Essential Oil Components,experiment
+1238,neral,Adams Essential Oil Components,experiment
+1238,E-ocimenone,Adams Essential Oil Components,experiment
+1239,"Butanoic acid, 2-methyl-, hexyl ester",Flavornet,estimate
+1239,isobornyl formate,Adams Essential Oil Components,experiment
+1240,benzothiazole,Flavornet,experiment
+1240,cumin aldehyde,Lucero 2009,experiment
+1240,cuminaldehyde,Lucero 2009,experiment
+1242,carvone,Lucero 2009,experiment
+1242,o-Anisaldehyde,Adams Essential Oil Components,experiment
+1242,cumin aldehyde,Adams Essential Oil Components,experiment
+1242,nojigiku acetate,Adams Essential Oil Components,experiment
+1243,carvone,Lucero 2009,experiment
+1243,phenyl cyanide,Flavornet,estimate
+1243,carvone,Adams Essential Oil Components,experiment
+1244,3-mercaptohexyl-acetate,Flavornet,estimate
+1244,carvone,Lucero 2009,experiment
+1244,hexyl isovalerate,Adams Essential Oil Components,experiment
+1245,"Benzeneacetic acid, ethyl ester",Lucero 2009,experiment
+1245,isobornyl formate,Flavornet,estimate
+1245,piperitone,Flavornet,experiment
+1245,"carvacrol, methyl ether",Adams Essential Oil Components,experiment
+1245,Z-2-hexenyl isovalerate,Adams Essential Oil Components,experiment
+1247,"2,6-Octadienal, 3,7-dimethyl-, (Z)-",VOCbinbase,experiment
+1247,neral,Flavornet,experiment
+1247,"benzene acetic acid, methyl ester",Adams Essential Oil Components,experiment
+1247,carvotanacetone,Adams Essential Oil Components,experiment
+1247,E-2-hexenyl isovalerate,Adams Essential Oil Components,experiment
+1248,"5H-5-Methyl-6,7-dihydrocyclopentapyrazine",Flavornet,estimate
+1249,Linalyl acetate,VOCbinbase,experiment
+1249,chavicol,Flavornet,experiment
+1249,Ethyl (E)-2-octenoate,Adams Essential Oil Components,experiment
+1249,perilla ketone,Adams Essential Oil Components,experiment
+1250,2-decenal,Flavornet,experiment
+1250,2-decenal,Flavornet,experiment
+1250,β-Cyclocitral,Flavornet,estimate
+1250,p-Anisaldehyde,Adams Essential Oil Components,experiment
+1250,chavicol,Adams Essential Oil Components,experiment
+1250,heptyl isobutanoate,Adams Essential Oil Components,experiment
+1250,isogeijerene C,Adams Essential Oil Components,experiment
+1250,trans-2-hydroxy pinocamphone,Adams Essential Oil Components,experiment
+1250.2356902357,geraniol,marie standards,experiment
+1252,(R)-linden ether,Flavornet,experiment
+1252,ethyl phenylacetate,Flavornet,experiment
+1252,hydrocinnamic alcohol,Flavornet,experiment
+1252,thymoquinone,Adams Essential Oil Components,experiment
+1253,"2,6-Octadien-1-ol, 3,7-dimethyl-, (E)-",VOCbinbase,experiment
+1253,DL-carvone,Flavornet,experiment
+1253,"3-methylnonane-2,4-dione",Flavornet,experiment
+1253,piperitone,Lucero 2009,experiment
+1253,Z-Anethole,Adams Essential Oil Components,experiment
+1253,p-Anisaldehyde dimethyl acetal,Adams Essential Oil Components,experiment
+1253,butyrophenone,Adams Essential Oil Components,experiment
+1253,geraniol,Adams Essential Oil Components,experiment
+1253,piperitone,Adams Essential Oil Components,experiment
+1254,(-)-carvone,Flavornet,experiment
+1254,citral,Flavornet,estimate
+1254,isogeraniol,Flavornet,estimate
+1254,piperitone,Lucero 2009,experiment
+1254,cis-myrtanol,Adams Essential Oil Components,experiment
+1254,cis-piperitone epoxide,Adams Essential Oil Components,experiment
+1255,(+)-carvone,Flavornet,experiment
+1256,bornyl formate,Flavornet,estimate
+1256,geraniol,Lucero 2009,experiment
+1256,trans-piperitone oxide,Adams Essential Oil Components,experiment
+1256,trans-sabinene hydrate acetate,Adams Essential Oil Components,experiment
+1257,linalyl acetate,Adams Essential Oil Components,experiment
+1258,p-anisyl alcohol,Flavornet,estimate
+1258,sulfurol,Flavornet,estimate
+1258,carvenone,Adams Essential Oil Components,experiment
+1258,2-phenyl ethyl acetate,Adams Essential Oil Components,experiment
+1259,(Z)-4-Decen-1-ol,Adams Essential Oil Components,experiment
+1260,2-methyl-5-(1-methylethenyl)-1-cyclohex-2-enone,VOCbinbase,experiment
+1260,β-Phenethyl acetate,Flavornet,experiment
+1260,benzyl propanoate,Adams Essential Oil Components,experiment
+1261,γ-Octalactone,Flavornet,experiment
+1261,linalyl acetate,Flavornet,experiment
+1261,methyl citronellate,Adams Essential Oil Components,experiment
+1261,trans-myrtanol,Adams Essential Oil Components,experiment
+1261.9872864698,(E)-2-decenal ,Lucero 2009,experiment
+1262,(E)-2-decenal,Lucero 2009,experiment
+1262,2-decenal,Flavornet,experiment
+1262,nonanoic acid,VOCbinbase,experiment
+1262,phenylacetic acid,Flavornet,experiment
+1262,Z-cinnamyl alcohol,Adams Essential Oil Components,experiment
+1262,"4-Decen-1-ol, (E)-",Adams Essential Oil Components,experiment
+1263,(E)-2-decenal,Lucero 2009,experiment
+1263,phenethyl acetate,VOCbinbase,experiment
+1263,decanol,Flavornet,experiment
+1263,p-anisaldehyde,Flavornet,experiment
+1263,cis-carvone oxide,Adams Essential Oil Components,experiment
+1264,"2-Decenal, (E)-",Adams Essential Oil Components,experiment
+1265,cis-chrysanthenyl acetate,Adams Essential Oil Components,experiment
+1265,Guaiaol acetate,Adams Essential Oil Components,experiment
+1266,dec-9-en-1-ol,Adams Essential Oil Components,experiment
+1267,Ambersage,Adams Essential Oil Components,experiment
+1267,geranial,Adams Essential Oil Components,experiment
+1267,o-(prop-1-enyl)phenol,Adams Essential Oil Components,experiment
+1269,trans-Ascaridol glycol,Adams Essential Oil Components,experiment
+1269.0235690236,citral,marie standards,experiment
+1270,E-cinnamaldehyde,Adams Essential Oil Components,experiment
+1270,n-decanol,Adams Essential Oil Components,experiment
+1270,ethyl salicylate,Adams Essential Oil Components,experiment
+1270,iso-3-thujyl acetate,Adams Essential Oil Components,experiment
+1271,geranial,Lucero 2009,experiment
+1271,perilla aldehyde,Flavornet,experiment
+1271,"2-Decen-1-ol, (E)-",Adams Essential Oil Components,experiment
+1271,Tetrahydrolavandulyl acetate,Adams Essential Oil Components,experiment
+1271,nonanoic acid,Adams Essential Oil Components,experiment
+1272,furfuryl pentanoate,Adams Essential Oil Components,experiment
+1272,perilla aldehyde,Adams Essential Oil Components,experiment
+1273,cis-Ethyl chrysanthemate,Adams Essential Oil Components,experiment
+1274,p-menth-1-en-7-al,Lucero 2009,experiment
+1274,citronellyl formate,Adams Essential Oil Components,experiment
+1274,neo-menthyl acetate,Adams Essential Oil Components,experiment
+1275,Geranial,VOCbinbase,experiment
+1275,isopulegyl acetate,Flavornet,estimate
+1275,nonanoic acid,Flavornet,experiment
+1275,dihydro-linalyl acetate,Adams Essential Oil Components,experiment
+1276,benzoic acid,Flavornet,estimate
+1276,geraniol,Flavornet,experiment
+1276,trans-carvone oxide,Adams Essential Oil Components,experiment
+1276,p-menth-1-en-7-al,Adams Essential Oil Components,experiment
+1276,neo-3-thujyl acetate,Adams Essential Oil Components,experiment
+1277,p-Acetylethylbenzene,VOCbinbase,experiment
+1277,geranial,Flavornet,experiment
+1277,trans-carvone oxide,Lucero 2009,experiment
+1277,neo-isopulegyl acetate,Adams Essential Oil Components,experiment
+1277,cis-thio rose oxide,Adams Essential Oil Components,experiment
+1278,isopulegyl acetate,Adams Essential Oil Components,experiment
+1279,"2,3-dichlorobenzaldehyde",VOCbinbase,experiment
+1279,epoxy-2-nonenal,Flavornet,experiment
+1279,octanoic acid,Flavornet,experiment
+1279,trans-ethyl chrysanthemumate,Adams Essential Oil Components,experiment
+1280,safrole,Flavornet,experiment
+1280,"nonanal, dimethyl acetal",Adams Essential Oil Components,experiment
+1280,nopol,Adams Essential Oil Components,experiment
+1281,p-anisyl alcohol,Adams Essential Oil Components,experiment
+1282,α-Terpinen-7-al,Lucero 2009,experiment
+1282,3-Methoxybenzyl alcohol,Adams Essential Oil Components,experiment
+1282,p-ethyl acetophenone,Adams Essential Oil Components,experiment
+1282,neryl formate,Adams Essential Oil Components,experiment
+1283,(E)-cinnamaldehyde,Flavornet,experiment
+1283,Lavandulyl acetate,VOCbinbase,experiment
+1283,1-p-menthene-8-thiol,Flavornet,experiment
+1283,2-ethyl menthone,Adams Essential Oil Components,experiment
+1283,methyl nerolate,Adams Essential Oil Components,experiment
+1283,cis-verbenyl acetate,Adams Essential Oil Components,experiment
+1284,"2,4-decadienal",Flavornet,estimate
+1284,cuminic alcohol,Flavornet,experiment
+1284,ethyl-2-octynoate,Adams Essential Oil Components,experiment
+1284,neoiso-3-thujyl acetate,Adams Essential Oil Components,experiment
+1285,E-Anethole,Adams Essential Oil Components,experiment
+1285,iso-isopulegyl acetate,Adams Essential Oil Components,experiment
+1285,α-Terpinen-7-al,Adams Essential Oil Components,experiment
+1286,borneol acetate,Lucero 2009,experiment
+1286,isobornyl acetate,Adams Essential Oil Components,experiment
+1287,4-ethylguaiacol,Flavornet,experiment
+1287,p-cymen-7-ol,Lucero 2009,experiment
+1287,pregeijerene,Adams Essential Oil Components,experiment
+1287,safrole,Adams Essential Oil Components,experiment
+1287.0033670034,anisyl-alcohol,marie standards,experiment
+1288,5-octanolide,Flavornet,experiment
+1288,hydroxy citronellal,Adams Essential Oil Components,experiment
+1289,2-Methylquinoxaline,Flavornet,estimate
+1289,p-cymen-7-ol,Lucero 2009,experiment
+1289,bornyl acetate,Adams Essential Oil Components,experiment
+1289,2-ethyl-endo-fenchol,Adams Essential Oil Components,experiment
+1289,trans-Linalool oxide acetate (pyranoid),Adams Essential Oil Components,experiment
+1290,"cyclopent-2-en-1-one, 2-pentyl",Adams Essential Oil Components,experiment
+1290,lavandulyl acetate,Adams Essential Oil Components,experiment
+1290,limonen-10-ol,Adams Essential Oil Components,experiment
+1290,thymol,Adams Essential Oil Components,experiment
+1291,undecanaldehyde,Flavornet,experiment
+1291,o-Acetanisole,Adams Essential Oil Components,experiment
+1291,butyl heptanoate,Adams Essential Oil Components,experiment
+1291,p-Cymen-7-ol,Adams Essential Oil Components,experiment
+1291,indole,Adams Essential Oil Components,experiment
+1291,trans-sabinyl acetate,Adams Essential Oil Components,experiment
+1291,γ-Terpinen-7-al,Adams Essential Oil Components,experiment
+1292,indole,Flavornet,experiment
+1292,thymol,Lucero 2009,experiment
+1292,1-tridecene,Adams Essential Oil Components,experiment
+1293,"1,3-p-menthadien-7-al",Flavornet,experiment
+1293,trans-Verbenyl acetate,VOCbinbase,experiment
+1293,"(E,Z)-2,4-Decadienal",Adams Essential Oil Components,experiment
+1293,trans-verbenyl acetate,Adams Essential Oil Components,experiment
+1294,2-undecanone,Adams Essential Oil Components,experiment
+1295,2-ethyl isomethone,Adams Essential Oil Components,experiment
+1295,p-menth-1-en-9-ol,Adams Essential Oil Components,experiment
+1295,menthyl acetate,Adams Essential Oil Components,experiment
+1295,perilla alcohol,Adams Essential Oil Components,experiment
+1295,1-nitro-2-phenyl ethane,Adams Essential Oil Components,experiment
+1295,trans-thio rose oxide,Adams Essential Oil Components,experiment
+1296,undecanone,Flavornet,experiment
+1296,3-thujyl acetate,Adams Essential Oil Components,experiment
+1297,"2,4-Decadienal, (E,E)-",Flavornet,experiment
+1297,perilla alcohol,Lucero 2009,experiment
+1297.3063973064,indole,marie standards,experiment
+1298,carvacrol,Lucero 2009,experiment
+1298,3'-methoxy-Acetophenone,Adams Essential Oil Components,experiment
+1298,Azulene,Adams Essential Oil Components,experiment
+1298,benzyl isobutanoate,Adams Essential Oil Components,experiment
+1298,"carvacrol, ethyl ether",Adams Essential Oil Components,experiment
+1298,2-ethyl-exo-fenchol,Adams Essential Oil Components,experiment
+1298,geranyl formate,Adams Essential Oil Components,experiment
+1298,trans-pinocarvyl acetate,Adams Essential Oil Components,experiment
+1299,carvacrol,Lucero 2009,experiment
+1299,dihydroterpinyl acetate,Flavornet,estimate
+1299,Butyrolactone,Flavornet,estimate
+1299,m-Acetanisole,Adams Essential Oil Components,experiment
+1299,carquejol acetate,Adams Essential Oil Components,experiment
+1299,carvacrol,Adams Essential Oil Components,experiment
+1300,cis-β-Farnesene,Flavornet,estimate
+1300,(2-methyl-5-propan-2-yl-3-bicyclo[3.1.0]hexanyl) acetate,VOCbinbase,experiment
+1300,tridecane,VOCbinbase,experiment
+1300,carvacrol,Lucero 2009,experiment
+1300,safranal,Flavornet,estimate
+1300,tridecane,Flavornet,experiment
+1300,Z-methyl cinnamate,Adams Essential Oil Components,experiment
+1300,4-Terinen-4-ol acetate,Adams Essential Oil Components,experiment
+1300,n-tridecane,Adams Essential Oil Components,experiment
+1300,undec-10-en-1-al,Adams Essential Oil Components,experiment
+1301,methyl geranate,Flavornet,estimate
+1301,trans-dihydro-α-terpinyl acetate,Adams Essential Oil Components,experiment
+1302,(2-tert-butylcyclohexyl) acetate,VOCbinbase,experiment
+1302,nonyl acetate,Flavornet,experiment
+1302,trans-ascaridole,Lucero 2009,experiment
+1303,iso-Ascaridole,Adams Essential Oil Components,experiment
+1303,Dehydroelsholtzia ketone,Adams Essential Oil Components,experiment
+1303,o-vanillin,Adams Essential Oil Components,experiment
+1304,E-cinnamyl alcohol,Adams Essential Oil Components,experiment
+1305,iso-menthyl acetate,Adams Essential Oil Components,experiment
+1306,"(2E,4E)-deca-2,4-dienal",VOCbinbase,experiment
+1306,undecanal,Lucero 2009,experiment
+1307,ethyl undecanoate,Flavornet,estimate
+1307,dihydro carveol acetate,Adams Essential Oil Components,experiment
+1307,neo-dihydro carveol acetate,Adams Essential Oil Components,experiment
+1307,undecanal,Adams Essential Oil Components,experiment
+1309,o-aminoacetophenone,Flavornet,experiment
+1310,"N,N-dibutylformamide",VOCbinbase,experiment
+1310,iso-verbanol acetate,Adams Essential Oil Components,experiment
+1311,6-hydroxycarvotanacetone,Adams Essential Oil Components,experiment
+1311,isoamyl benzyl ether,Adams Essential Oil Components,experiment
+1311,veloutone,Adams Essential Oil Components,experiment
+1312,cinnamyl alcohol,Flavornet,experiment
+1312,"Pyrazine, 2,5-dimethyl-3-(3-methylbutyl)-",Flavornet,estimate
+1312,n-nonanyl acetate,Adams Essential Oil Components,experiment
+1312,cis-pinocarvyl acetate,Adams Essential Oil Components,experiment
+1312,sesamol,Adams Essential Oil Components,experiment
+1313,undecanal,VOCbinbase,experiment
+1313,Neo-iso-Isopulegol acetate,Adams Essential Oil Components,experiment
+1313,Undec-9-en-1-al,Adams Essential Oil Components,experiment
+1313.9816664011,"2E,4E-decadienal",Lucero 2009,experiment
+1314,"cyclohexanol acetate, cis-2-tert-butyl",Adams Essential Oil Components,experiment
+1315,"2,3,4-trimethyl benzaldehyde",Adams Essential Oil Components,experiment
+1316,4-hydroxy-crypton,Adams Essential Oil Components,experiment
+1317,"2,4-Decadienal, (E,E)-",Flavornet,experiment
+1317,"2,4-Decadienal, (E,E)-",Adams Essential Oil Components,experiment
+1318,dimethoxy-Z-citral,Adams Essential Oil Components,experiment
+1318,cis-dihydro-α-terpinyl acetate,Adams Essential Oil Components,experiment
+1319,perillaldehyde,Flavornet,estimate
+1319,"cycloisolongifol-5-ol, cis",Adams Essential Oil Components,experiment
+1319,Didehydro-cycloisolongifolene,Adams Essential Oil Components,experiment
+1319,patchenol,Adams Essential Oil Components,experiment
+1320,"cis-2,3-pinanediol",Adams Essential Oil Components,experiment
+1321,trans-3-Methyl-4-octanolide,Flavornet,experiment
+1321,hydrocinnamic acid,Flavornet,estimate
+1321,dihydrocitronellyl acetate,Adams Essential Oil Components,experiment
+1321,"α,α-Dimethylphenethyl acetate",Adams Essential Oil Components,experiment
+1321,neo-verbanol acetate,Adams Essential Oil Components,experiment
+1323,4-hexanolide,Flavornet,experiment
+1323,p-vinylguaiacol,Flavornet,experiment
+1324,methyl decanoate,Flavornet,estimate
+1324,Undec-9-en-1-al,Adams Essential Oil Components,experiment
+1325,methyl decanoate,VOCbinbase,experiment
+1325,methyl geranate,Adams Essential Oil Components,experiment
+1326,trans-Geranic acid methyl ester,VOCbinbase,experiment
+1326,methyl decanoate,Adams Essential Oil Components,experiment
+1327,"p-mentha-1,8-dien-4-yl-hydroperoxide",Flavornet,experiment
+1327,myrtenyl acetate,Adams Essential Oil Components,experiment
+1327,phenylethyl oxyacetaldehyde,Adams Essential Oil Components,experiment
+1328,[(E)-hex-3-enyl] (Z)-2-methylbut-2-enoate,VOCbinbase,experiment
+1329,"Hexanoic acid, 3-hydroxy-, ethyl ester",Flavornet,estimate
+1329,iso-dihydro carveol acetate,Adams Essential Oil Components,experiment
+1329,Z-hasmigone,Adams Essential Oil Components,experiment
+1329,isobutyl benzoate,Adams Essential Oil Components,experiment
+1329,limonene aldehyde,Adams Essential Oil Components,experiment
+1329,silphiperfol-5-ene,Adams Essential Oil Components,experiment
+1330,dimethoxytoluene,Flavornet,estimate
+1331,patchenol,Adams Essential Oil Components,experiment
+1331,neoiso-verbanol acetate,Adams Essential Oil Components,experiment
+1332,anisyl formate,Adams Essential Oil Components,experiment
+1332,piperonal,Adams Essential Oil Components,experiment
+1333,4-methylthiazole,Flavornet,estimate
+1333,4-oxodecanal,Flavornet,experiment
+1333,hexyl tiglate,Adams Essential Oil Components,experiment
+1333,3-oxo-p-menth-1-en-7-al,Adams Essential Oil Components,experiment
+1335,benzyl butanoate,Flavornet,estimate
+1335,cis-piperitol acetate,Adams Essential Oil Components,experiment
+1336,dihydrocarvyl acetate,Flavornet,estimate
+1336,muurolene,Flavornet,estimate
+1336,E-hasmigone,Adams Essential Oil Components,experiment
+1337,methyl anthranilate,Flavornet,estimate
+1337,methyl-anthranilate,Adams Essential Oil Components,experiment
+1337,presilphiperfol-7-ene,Adams Essential Oil Components,experiment
+1338,p-menthadienhydroperoxide,Flavornet,experiment
+1338,p-methoxystyrene,Flavornet,estimate
+1338,δ-EIemene,Adams Essential Oil Components,experiment
+1339,acetyloxy-dimethylfuranone,Flavornet,estimate
+1339,δ-EIemene,Lucero 2009,experiment
+1339,δ-EIemene,Lucero 2009,experiment
+1339,heptyl 2-methylbutyrate,Flavornet,estimate
+1339,cis-Isosafrole,Adams Essential Oil Components,experiment
+1339,1-phenyl pentan-3-one,Adams Essential Oil Components,experiment
+1340,δ-EIemene,Flavornet,experiment
+1340,evodone,Adams Essential Oil Components,experiment
+1341,dimethoxy-E-citral,Adams Essential Oil Components,experiment
+1341,5-indanol,Adams Essential Oil Components,experiment
+1342,5-Ethyl-4-hydroxy-2-methyl-3(2H)-furanone,Flavornet,estimate
+1342,3-hydroxy-4-phenyl-2-butanone,Adams Essential Oil Components,experiment
+1342,trans-carvyl acetate,Adams Essential Oil Components,experiment
+1343,butyl benzoate,Flavornet,estimate
+1343,mentho thiophene,Adams Essential Oil Components,experiment
+1343,piperitenone,Adams Essential Oil Components,experiment
+1344,verbanol acetate,Adams Essential Oil Components,experiment
+1345,7-epi-silphiperfol-5-ene,Lucero 2009,experiment
+1345,α-Cubebene,Flavornet,experiment
+1346,nicotine,Adams Essential Oil Components,experiment
+1346,trans-piperitol acetate,Adams Essential Oil Components,experiment
+1347,2-methoxybenzoic acid methyl ester,VOCbinbase,experiment
+1347,benzyl butanoate,Adams Essential Oil Components,experiment
+1348,7-epi-silphiperfol-5-ene,Adams Essential Oil Components,experiment
+1349,"2,6-dimethoxy phenol",Adams Essential Oil Components,experiment
+1349,α-terpinyl acetate,Adams Essential Oil Components,experiment
+1350,2-undecenal,Flavornet,experiment
+1350,4'-methoxy-Acetophenone,Adams Essential Oil Components,experiment
+1350,neoiso-carvomenthyl acetate,Adams Essential Oil Components,experiment
+1351,ethyl dihydrocinnamate,Flavornet,experiment
+1351,α-Cubebene,Adams Essential Oil Components,experiment
+1352,α-Cubebene,Lucero 2009,experiment
+1352,α-Cubebene,Lucero 2009,experiment
+1352,terpinyl acetate,Flavornet,estimate
+1352,p-Acetanisole,Adams Essential Oil Components,experiment
+1352,thymol acetate,Adams Essential Oil Components,experiment
+1353,citronellyl acetate,Adams Essential Oil Components,experiment
+1353,α-Longipinene,Adams Essential Oil Components,experiment
+1354,ethyl nerolate,Adams Essential Oil Components,experiment
+1354,2-phenyl ethyl propanoate,Adams Essential Oil Components,experiment
+1355,1-undecanol,VOCbinbase,experiment
+1355,"2,3,6-trimethyl benzaldehyde",Adams Essential Oil Components,experiment
+1356,eugenol,Lucero 2009,experiment
+1357,citronellyl acetate,Flavornet,experiment
+1357,eugenol,Lucero 2009,experiment
+1358,(Z)-α-damascone,Adams Essential Oil Components,experiment
+1359,neoiso-dihydro carveol acetate,Adams Essential Oil Components,experiment
+1359,eugenol,Adams Essential Oil Components,experiment
+1360,decanoic acid,VOCbinbase,experiment
+1360,"4a-α, 7-α, 7a-α nepetalactone",Adams Essential Oil Components,experiment
+1361,γ-nonalactone,Adams Essential Oil Components,experiment
+1361,"silphiperfol-4,7(14)-diene",Adams Essential Oil Components,experiment
+1362,neryl acetate,Flavornet,estimate
+1362,α-Cyclogeraniol,Adams Essential Oil Components,experiment
+1362,hydroxy citronellol,Adams Essential Oil Components,experiment
+1362,neryl acetate,Adams Essential Oil Components,experiment
+1363,Nerol acetate,VOCbinbase,experiment
+1363,octadecanal,Adams Essential Oil Components,experiment
+1364,eugenol,Flavornet,experiment
+1364,(Z)-β-Damascenone,Adams Essential Oil Components,experiment
+1365,neryl acetate,Lucero 2009,experiment
+1365,p-menthadienhydroperoxide,Flavornet,experiment
+1366,(E)-2-undecenal,Flavornet,experiment
+1366,γ-Nonalactone,Flavornet,experiment
+1367,cis-mentholactone,Adams Essential Oil Components,experiment
+1368,cyclosativene,Lucero 2009,experiment
+1368,cis-carvyl acetate,Adams Essential Oil Components,experiment
+1368,hydrocinnamyl acetate,Adams Essential Oil Components,experiment
+1368,2-methyl-undecanal,Adams Essential Oil Components,experiment
+1369,cyclosativene,Lucero 2009,experiment
+1369,dihydro eugenol,Adams Essential Oil Components,experiment
+1369,furfuryl hexanoate,Adams Essential Oil Components,experiment
+1369,piperitenone oxide,Adams Essential Oil Components,experiment
+1370,n-undecanol,Adams Essential Oil Components,experiment
+1371,"5-acetyl-2,3-1H-pyrrolizine",Flavornet,estimate
+1371,undecanol,Flavornet,estimate
+1371,cyclosativene,Adams Essential Oil Components,experiment
+1371,orcinol,Adams Essential Oil Components,experiment
+1373,ylangene,Lucero 2009,experiment
+1373,ylangene,Lucero 2009,experiment
+1373,ylangene,Lucero 2009,experiment
+1373,decanoic acid,Flavornet,experiment
+1373,carvacrol acetate,Adams Essential Oil Components,experiment
+1373,methyl p-anisate,Adams Essential Oil Components,experiment
+1374,Angustifolenone,Adams Essential Oil Components,experiment
+1374,Angustione,Adams Essential Oil Components,experiment
+1374,longicyclene,Adams Essential Oil Components,experiment
+1374,trans-metholactone,Adams Essential Oil Components,experiment
+1375,(E)-2-undecenal,VOCbinbase,experiment
+1375,Linalyl isobutyrate,Adams Essential Oil Components,experiment
+1375,α-ylangene,Adams Essential Oil Components,experiment
+1376,α-Copaene,Lucero 2009,experiment
+1376,α-Copaene,Lucero 2009,experiment
+1376,silphiperfol-6-ene,Lucero 2009,experiment
+1376,isoledene,Adams Essential Oil Components,experiment
+1376,E-isosafrole,Adams Essential Oil Components,experiment
+1377,α-Copaene,Lucero 2009,experiment
+1377,α-Copaene,Lucero 2009,experiment
+1377,α-Copaene,Lucero 2009,experiment
+1377,α-Copaene,Flavornet,experiment
+1377,biphenyl,Adams Essential Oil Components,experiment
+1377,α-Copaene,Adams Essential Oil Components,experiment
+1377,"1,1-dimethoxy-decane",Adams Essential Oil Components,experiment
+1378,5-amyltetrahydrofuran-2-one,VOCbinbase,experiment
+1378,Z-ethyl cinnamate,Adams Essential Oil Components,experiment
+1379,hexyl hexanoate,Flavornet,experiment
+1379,methyl cinnamate,Flavornet,experiment
+1379,E-methyl cinnamate,Adams Essential Oil Components,experiment
+1379,silphiperfol-6-ene,Adams Essential Oil Components,experiment
+1380,"trans-4,5-Epoxy-(E)-2-decenal",Flavornet,experiment
+1380,allyl nonanoate,Adams Essential Oil Components,experiment
+1380,"3,4-dihydro-coumarin",Adams Essential Oil Components,experiment
+1381,(Z)-3-hexenyl hexanoate,Flavornet,experiment
+1381,β-Maaliene,Lucero 2009,experiment
+1381,p-menthadienhydroperoxide,Flavornet,experiment
+1381,8-epi-dictamnol,Adams Essential Oil Components,experiment
+1381,geranyl acetate,Adams Essential Oil Components,experiment
+1381,β-Patchoulene,Adams Essential Oil Components,experiment
+1382,geranyl acetate,Flavornet,experiment
+1382,daucene,Adams Essential Oil Components,experiment
+1382,ethyl-4E-decenoate,Adams Essential Oil Components,experiment
+1382,β-Maaliene,Adams Essential Oil Components,experiment
+1383,(E)-β-Damascone,Lucero 2009,experiment
+1383,"(E,Z)-3,6-nonadien-1-ol",Flavornet,estimate
+1383,"3,7-dimethylocta-2,6-dienyl acetate",VOCbinbase,experiment
+1383,dehydro-Angustione,Adams Essential Oil Components,experiment
+1383,ethyl-2-nonynoate,Adams Essential Oil Components,experiment
+1383,β-panasinsene,Adams Essential Oil Components,experiment
+1383,1-phenyl-4-methyl-pentan-3-one,Adams Essential Oil Components,experiment
+1383,skatole,Adams Essential Oil Components,experiment
+1384,(E)-β-Damascone,Lucero 2009,experiment
+1384,β-bourbenene,Lucero 2009,experiment
+1384,hexyl hexanoate,Adams Essential Oil Components,experiment
+1384,modheph-2-ene,Adams Essential Oil Components,experiment
+1385,"2-Hexenoic acid, 3-hexenyl ester, (E,Z)-",VOCbinbase,experiment
+1385,β-bourbenene,Lucero 2009,experiment
+1385,β-bourbenene,Lucero 2009,experiment
+1385,β-bourbenene,Lucero 2009,experiment
+1385,"1-(2,6,6-Trimethyl-1,3-cyclohexadien-1-yl)-2-buten-1-one",Adams Essential Oil Components,experiment
+1385,Isobornyl propionate,Adams Essential Oil Components,experiment
+1386,β-Damascenone,Flavornet,experiment
+1386,isocomene,Lucero 2009,experiment
+1387,isocomene,Lucero 2009,experiment
+1387,skatole,Flavornet,experiment
+1387,(Z)-β-damascone,Adams Essential Oil Components,experiment
+1387,trans-myrtanol acetate,Adams Essential Oil Components,experiment
+1387,"4a-α,7-α, 7a-β-nepetalactone",Adams Essential Oil Components,experiment
+1387,δ-Nonalactone,Adams Essential Oil Components,experiment
+1388,butyl octanoate,Flavornet,estimate
+1388,beta-bourbonene,Adams Essential Oil Components,experiment
+1388,β-Cubebene,Adams Essential Oil Components,experiment
+1388,α-Isocomene,Adams Essential Oil Components,experiment
+1389,[(Z)-hex-3-enyl] (Z)-hex-3-enoate,VOCbinbase,experiment
+1389,"(2,4,4-trimethyl-3-oxidanyl-pentyl) 2-methylpropanoate",VOCbinbase,experiment
+1389,dehydro-ar-ionene,Flavornet,estimate
+1389,β-Cubebene,Lucero 2009,experiment
+1389,isolongifolene,Lucero 2009,experiment
+1389,styrene glycol,Flavornet,estimate
+1389,Z-cinnamyl acetate,Adams Essential Oil Components,experiment
+1389,α-Duprezianene,Adams Essential Oil Components,experiment
+1389,1-tetradecene,Adams Essential Oil Components,experiment
+1390,iso-longifolene,Adams Essential Oil Components,experiment
+1391,β-Cubebene,Lucero 2009,experiment
+1391,β-Cubebene,Lucero 2009,experiment
+1391,3-dodecanone,Adams Essential Oil Components,experiment
+1391,beta-elemene,Adams Essential Oil Components,experiment
+1391,E-jasmone,Adams Essential Oil Components,experiment
+1391,7-epi-sesquithujene,Adams Essential Oil Components,experiment
+1391,"Thiazole-5-ethanol, 4-methyl, acetate",Adams Essential Oil Components,experiment
+1392,α-Ionol,VOCbinbase,experiment
+1392,(Z)-β-Elemene,Lucero 2009,experiment
+1392,(Z)-β-Elemene,Lucero 2009,experiment
+1392,"4a-α, 7-β,7a-α-nepetalactone",Adams Essential Oil Components,experiment
+1392,sativene,Adams Essential Oil Components,experiment
+1393,(Z)-β-Elemene,Flavornet,experiment
+1393,isobornyl propionate,Flavornet,estimate
+1393,α-(E)-Damascone,Adams Essential Oil Components,experiment
+1393,Z-jasmone,Adams Essential Oil Components,experiment
+1394,cis-jasmone,Lucero 2009,experiment
+1394,methyl perillate,Adams Essential Oil Components,experiment
+1394,Phenethyl isobutyrate,Adams Essential Oil Components,experiment
+1394,vanillin,Adams Essential Oil Components,experiment
+1395,ethyl geranate,Adams Essential Oil Components,experiment
+1396,Z-jasmone,Lucero 2009,experiment
+1396,ethyl decanoate,Adams Essential Oil Components,experiment
+1397,1-tetradecene,VOCbinbase,experiment
+1397,5-Ethyl-4-hydroxy-2-methyl-3(2H)-furanone,Flavornet,estimate
+1398,ethyl decanoate,VOCbinbase,experiment
+1398,ethyl decanoate,Flavornet,experiment
+1398,Trimenal,Adams Essential Oil Components,experiment
+1399,Di-epi-α-cedrene,Lucero 2009,experiment
+1399,cyperene,Adams Essential Oil Components,experiment
+1400,β-Damascenone,VOCbinbase,experiment
+1400,"2,4-Dithiapentane",Flavornet,experiment
+1400,tetradecane,Flavornet,experiment
+1400,n-tetradecane,Adams Essential Oil Components,experiment
+1401,β-Longipinene,Adams Essential Oil Components,experiment
+1402,cis-linalool pyran oxide,Flavornet,estimate
+1402,methyleugenol,Lucero 2009,experiment
+1402,iso-italicene,Adams Essential Oil Components,experiment
+1403,italicene,Lucero 2009,experiment
+1403,methyleugenol,Lucero 2009,experiment
+1403,α-funebrene,Adams Essential Oil Components,experiment
+1404,2-dodecanone,VOCbinbase,experiment
+1404,longifolene,Lucero 2009,experiment
+1404,methyl eugenol,Adams Essential Oil Components,experiment
+1405,tetradecane,VOCbinbase,experiment
+1405,β-Isocomene,Lucero 2009,experiment
+1406,italicene,Adams Essential Oil Components,experiment
+1406,methyl-n-methyl anthranilate,Adams Essential Oil Components,experiment
+1407,methyl eugenol,Flavornet,experiment
+1407,β-Isocomene,Adams Essential Oil Components,experiment
+1407,Z-isoeugenol,Adams Essential Oil Components,experiment
+1408,decyl alcohol,Flavornet,experiment
+1408,n-dodecanal,Lucero 2009,experiment
+1408,decyl acetate,Adams Essential Oil Components,experiment
+1408,longifolene,Adams Essential Oil Components,experiment
+1409,lauric aldehyde,Flavornet,experiment
+1409,Z-caryophyllene,Adams Essential Oil Components,experiment
+1409,(E)-2-Decenyl acetate,Adams Essential Oil Components,experiment
+1409,dodecanal,Adams Essential Oil Components,experiment
+1410,α-Gurjunene,Lucero 2009,experiment
+1410,vanillin,Flavornet,experiment
+1410,citronellyl oxy-acetaldehyde,Adams Essential Oil Components,experiment
+1410,α-Gurgujene,Adams Essential Oil Components,experiment
+1411,α-Cedrene,Lucero 2009,experiment
+1411,α-Cedrene,Lucero 2009,experiment
+1411,8-hydroxycarvotanacetone,VOCbinbase,experiment
+1411,carvyl acetate,Flavornet,estimate
+1412,α-Cedrene,Lucero 2009,experiment
+1412,geosmin,Flavornet,experiment
+1412,α-Gurjunene,Flavornet,experiment
+1412,α-Cedrene,Adams Essential Oil Components,experiment
+1412,α-thujaplicin,Adams Essential Oil Components,experiment
+1413,"Benzenemethanol, 4-methoxy-, acetate",Adams Essential Oil Components,experiment
+1413,cis-α-Bergamotene,Adams Essential Oil Components,experiment
+1414,Isocaryophyllene,VOCbinbase,experiment
+1414,"3,5-dimethyl-1-hexyn-3-ol",VOCbinbase,experiment
+1414,(E)-β-Damascone,Adams Essential Oil Components,experiment
+1414,cis-nerone,Adams Essential Oil Components,experiment
+1415,(E)-β-Damascone,Flavornet,experiment
+1415,cis-α-Bergamotene,Lucero 2009,experiment
+1415,ethyl hydroquinone,Adams Essential Oil Components,experiment
+1415,β-funebrene,Adams Essential Oil Components,experiment
+1416,ethyl-anthranilate,Adams Essential Oil Components,experiment
+1416,cis-threo-Davanafuran,Adams Essential Oil Components,experiment
+1417,(-)-β-Bourbonene,Flavornet,estimate
+1417,trans-alpha-Ambrinol,Adams Essential Oil Components,experiment
+1417,"4,8-alpha-epoxy-caryophyllane",Adams Essential Oil Components,experiment
+1417,sesquithujene,Adams Essential Oil Components,experiment
+1418,dicyclohexyl amine,Adams Essential Oil Components,experiment
+1418,α-Santalene,Adams Essential Oil Components,experiment
+1419,dodecanal,VOCbinbase,experiment
+1419,β-Caryophyllene,Lucero 2009,experiment
+1419,β-Caryophyllene,Lucero 2009,experiment
+1419,β-Caryophyllene,Lucero 2009,experiment
+1419,β-Caryophyllene,Lucero 2009,experiment
+1419,E-caryophyllene,Adams Essential Oil Components,experiment
+1420,β-Caryophyllene,Lucero 2009,experiment
+1420,β-Caryophyllene,Lucero 2009,experiment
+1420,β-Caryophyllene,Lucero 2009,experiment
+1421, β-Cedrene,Adams Essential Oil Components,experiment
+1421,E-trimenal,Adams Essential Oil Components,experiment
+1421,β-ylangene,Adams Essential Oil Components,experiment
+1422,α-Ionone,Flavornet,experiment
+1422,"Carvyl propionate, cis-",Adams Essential Oil Components,experiment
+1423,"1,4-dimethoxy-2-methyl-5-propan-2-ylbenzene",VOCbinbase,experiment
+1423,"cymen-7-ol acetate, p-",Adams Essential Oil Components,experiment
+1423,β-Duprezianene,Adams Essential Oil Components,experiment
+1423,lavandulyl isobutanoate,Adams Essential Oil Components,experiment
+1423,linalyl butanoate,Adams Essential Oil Components,experiment
+1423,p-menth-1-en-9-ol acetate,Adams Essential Oil Components,experiment
+1424,carvone hydrate,Adams Essential Oil Components,experiment
+1425,γ-Elemene,Flavornet,experiment
+1425,allyl cyclohexyl propanoate,Adams Essential Oil Components,experiment
+1425,"4,8-beta-epoxy-caryophyllane",Adams Essential Oil Components,experiment
+1425,isobutyl salicylate,Adams Essential Oil Components,experiment
+1425,mefranal,Adams Essential Oil Components,experiment
+1425,1-phenyl hexan-3-one,Adams Essential Oil Components,experiment
+1426,nopyl acetate,Adams Essential Oil Components,experiment
+1427,"2,5-Dimethoxy-p-cymene",Adams Essential Oil Components,experiment
+1427,methyl undecanoate,Adams Essential Oil Components,experiment
+1429,methyl undecanoate,VOCbinbase,experiment
+1430,β-Copaene,Lucero 2009,experiment
+1430,dictamnol,Adams Essential Oil Components,experiment
+1430,(E)-α-Ionone,Adams Essential Oil Components,experiment
+1431,trans-α-Bergamotene,Flavornet,experiment
+1431,"1-(2,6,6-trimethylcyclohexen-1-yl)but-2-en-1-one",VOCbinbase,experiment
+1431,cis-thujopsene,Adams Essential Oil Components,experiment
+1431.4771848415,caryophyllene,marie standards,experiment
+1433,xanthostemone,Adams Essential Oil Components,experiment
+1434,coumarin,Adams Essential Oil Components,experiment
+1434,β-Gurjunene,Adams Essential Oil Components,experiment
+1434,isobornyl isobutyrate,Adams Essential Oil Components,experiment
+1435,trans-α-Bergamotene,Lucero 2009,experiment
+1435,endo-Arbozol,Adams Essential Oil Components,experiment
+1435,trans-α-Bergamotene,Adams Essential Oil Components,experiment
+1436,ethyl salicylate,Flavornet,estimate
+1436,β-Selinene,Flavornet,estimate
+1436,neryl acetone,Adams Essential Oil Components,experiment
+1437,"1,4-dimethyl-7-propan-2-yl-1,2,3,4,5,8-hexahydroazulene",VOCbinbase,experiment
+1437,linalyl butyrate,Flavornet,estimate
+1437,trans-α-Bergamotene,Lucero 2009,experiment
+1437,trans-α-Bergamotene,Lucero 2009,experiment
+1437,trans-α-Bergamotene,Lucero 2009,experiment
+1437,γ-Elemene,Adams Essential Oil Components,experiment
+1438,isocaryophyllene,Flavornet,estimate
+1438,trans-α-Bergamotene,Lucero 2009,experiment
+1439,coumarin,Flavornet,experiment
+1439,β-Humulene,Adams Essential Oil Components,experiment
+1439,"lavandulyl acetate, hydroxydihydro-",Adams Essential Oil Components,experiment
+1440,α-Guaiene,Lucero 2009,experiment
+1440,aromadendrene,Lucero 2009,experiment
+1440,α-Guaiene,Adams Essential Oil Components,experiment
+1440,hyacinth body #3,Adams Essential Oil Components,experiment
+1441,cis-alpha-Ambrinol,Adams Essential Oil Components,experiment
+1441,Aromadendrene,Adams Essential Oil Components,experiment
+1441,2-methyl butyl benzoate,Adams Essential Oil Components,experiment
+1441,trans-nerone,Adams Essential Oil Components,experiment
+1441,2-phenyl ethyl butanoate,Adams Essential Oil Components,experiment
+1441,2-phenyl propyl isobutanoate,Adams Essential Oil Components,experiment
+1443,(Z)-β farnesene,Adams Essential Oil Components,experiment
+1443,"2,6-dimethoxy phenol acetate",Adams Essential Oil Components,experiment
+1444,cedrane,Adams Essential Oil Components,experiment
+1445,β-Farnesene,Flavornet,experiment
+1446,cis-β-Farnesene,Lucero 2009,experiment
+1446,Bakerol,Adams Essential Oil Components,experiment
+1446,E-cinnamyl acetate,Adams Essential Oil Components,experiment
+1446,citronellyl propanoate,Adams Essential Oil Components,experiment
+1446,"trans,cis-iridolactone",Adams Essential Oil Components,experiment
+1446,1-methoxy-naphthalene,Adams Essential Oil Components,experiment
+1446,Prenyllimonene,Adams Essential Oil Components,experiment
+1446,silphinene,Adams Essential Oil Components,experiment
+1447,4-Methylthiobutyl isothiocyanate,Flavornet,experiment
+1447,Cabreuva oxide A,Adams Essential Oil Components,experiment
+1447,"(Z,E)-2,6-dodecadienal",Adams Essential Oil Components,experiment
+1447,Epi-β-Santalene,Adams Essential Oil Components,experiment
+1447,seychellene,Adams Essential Oil Components,experiment
+1447,vanillyl alcohol,Adams Essential Oil Components,experiment
+1447,vestitenone,Adams Essential Oil Components,experiment
+1448,geranyl acetone,Flavornet,estimate
+1450,epi-cedrane,Adams Essential Oil Components,experiment
+1450,"cis-muurola-3,5-diene",Adams Essential Oil Components,experiment
+1451,α-Himachalene,Adams Essential Oil Components,experiment
+1451,E-isoeugenol,Adams Essential Oil Components,experiment
+1451,2-pentadecanone,Adams Essential Oil Components,experiment
+1452,davana ether,Adams Essential Oil Components,experiment
+1453,α-Guaiene,Flavornet,experiment
+1453.0436959347,geranyl acetone,Lucero 2009,experiment
+1454,α-Humulene,Lucero 2009,experiment
+1454,α-Humulene,Lucero 2009,experiment
+1454,α-Humulene,Lucero 2009,experiment
+1454,α-Humulene,Lucero 2009,experiment
+1454,exo-Arbozol,Adams Essential Oil Components,experiment
+1454,E-cinnamic acid,Adams Essential Oil Components,experiment
+1454,α-Neoclovene,Adams Essential Oil Components,experiment
+1454,Z-methyl isoeugenol,Adams Essential Oil Components,experiment
+1454,"trans-muurola-3,5-diene",Adams Essential Oil Components,experiment
+1455,α-Humulene,Lucero 2009,experiment
+1455,γ-Selinene,Flavornet,estimate
+1455,geranyl acetone,Adams Essential Oil Components,experiment
+1455,α-Humulene,Adams Essential Oil Components,experiment
+1455,khusimene,Adams Essential Oil Components,experiment
+1455,neryl propanoate,Adams Essential Oil Components,experiment
+1455,ethyl-vanillin,Adams Essential Oil Components,experiment
+1456,wine lactone,Flavornet,experiment
+1456,trans-Carvyl propionate,Adams Essential Oil Components,experiment
+1457,(E)-β-farnesene,Adams Essential Oil Components,experiment
+1457,α-Patchoulene,Adams Essential Oil Components,experiment
+1458,trans-β-Farnesene,Lucero 2009,experiment
+1458,α-Humulene,Lucero 2009,experiment
+1459,trans-β-Farnesene,Lucero 2009,experiment
+1459,sesquisabinene,Lucero 2009,experiment
+1460,"(5E)-6,10-dimethyl-2-undeca-5,9-dienone",VOCbinbase,experiment
+1460,allo-Aromadendrene,Adams Essential Oil Components,experiment
+1460,croweacin,Adams Essential Oil Components,experiment
+1460,(Z)-4-decenal diethyl acetal ,Adams Essential Oil Components,experiment
+1460,Prenyllimonene,Adams Essential Oil Components,experiment
+1460,β-Santalene,Adams Essential Oil Components,experiment
+1460,sesquisabinene,Adams Essential Oil Components,experiment
+1461,seychellene,Lucero 2009,experiment
+1461,cyclamen aldehyde,Adams Essential Oil Components,experiment
+1462,2-dodecenal,Flavornet,experiment
+1462,allo-aromadendrene,Lucero 2009,experiment
+1463,6-demethoxy-Ageratochromene,Adams Essential Oil Components,experiment
+1463,dehydro-Aromadendrane,Adams Essential Oil Components,experiment
+1464,Acoradiene,Lucero 2009,experiment
+1464,isogeraniol,Flavornet,estimate
+1464,Cabreuva oxide B,Adams Essential Oil Components,experiment
+1466,alpha-Acoradiene,Adams Essential Oil Components,experiment
+1466,Acoradiene,Adams Essential Oil Components,experiment
+1466,9-epi-E-caryophyllene,Adams Essential Oil Components,experiment
+1466,2E-dodecenal,Adams Essential Oil Components,experiment
+1467,butyl decanoate,Flavornet,estimate
+1467,cinnamic acid,Flavornet,estimate
+1467,α-Humulene,Flavornet,experiment
+1467,caryophyllene,Flavornet,experiment
+1467,γ-Decalactone,Adams Essential Oil Components,experiment
+1467,E-ethyl cinnamate,Adams Essential Oil Components,experiment
+1467,ishwarane,Adams Essential Oil Components,experiment
+1467,"cis-muurola-4(14),5-diene",Adams Essential Oil Components,experiment
+1468,thujopsadiene,Adams Essential Oil Components,experiment
+1469,"(4R,4aR,6R)-4,4a-dimethyl-6-(1-methylethenyl)-2,3,4,5,6,7-hexahydro-1H-naphthalene",VOCbinbase,experiment
+1469,Diethyl Phthalate,VOCbinbase,experiment
+1469,"drima-7,9(11)-diene",Lucero 2009,experiment
+1469,ethyl cinnamate,Flavornet,experiment
+1469,δ-Decalactone,Flavornet,experiment
+1469,Cabreuva oxide C,Adams Essential Oil Components,experiment
+1469,"ethyl-(2E,4Z)-decadienoate",Adams Essential Oil Components,experiment
+1469,furfuryl heptanoate,Adams Essential Oil Components,experiment
+1469,D-Neomenthyl-D-lactate,Adams Essential Oil Components,experiment
+1469.064191802,α-Humulene,marie standards,experiment
+1471,β-Acoradiene,Adams Essential Oil Components,experiment
+1471,n-dodecanol,Adams Essential Oil Components,experiment
+1471,"salicylic acid, butyl ester",Adams Essential Oil Components,experiment
+1471,dehydro-sesquicineole,Adams Essential Oil Components,experiment
+1472,γ-Decalactone,Flavornet,experiment
+1472,(E)2-Dodecen-1-ol,Adams Essential Oil Components,experiment
+1473,γ-Gurjunene,Lucero 2009,experiment
+1473,"drim-7,9(11)-diene",Adams Essential Oil Components,experiment
+1473,"7-epi-1,2-dehydro sesquicineole",Adams Essential Oil Components,experiment
+1473,α-Terpinyl isobutyrate,Adams Essential Oil Components,experiment
+1474,β-Cadinene,Lucero 2009,experiment
+1474,γ-Gurjunene,Lucero 2009,experiment
+1474,β-Cadinene,Lucero 2009,experiment
+1475,aromadendrene,Flavornet,estimate
+1475,γ-Muurolene,Flavornet,experiment
+1475,"trans-cadina-1,(6),4-diene",Lucero 2009,experiment
+1475,isobornyl n-butanoate,Adams Essential Oil Components,experiment
+1476,5-(6-methylhept-5-en-2-yl)-2-methylidenebicyclo[3.1.0]hexane,VOCbinbase,experiment
+1476,γ-Muurolene,Lucero 2009,experiment
+1476,γ-Muurolene,Lucero 2009,experiment
+1476,(E)-4-decenal diethyl acetal ,Adams Essential Oil Components,experiment
+1477,5-Hydroxy-2-decenoic acid δ-lactone,Flavornet,experiment
+1477,γ-Muurolene,Lucero 2009,experiment
+1477,"trans-cadina-1(6),4-diene",Adams Essential Oil Components,experiment
+1477,γ-Gurjunene,Adams Essential Oil Components,experiment
+1477,β-Thujaplicin,Adams Essential Oil Components,experiment
+1478,linalyl isovalerate,Flavornet,estimate
+1478,allyl decanoate,Adams Essential Oil Components,experiment
+1478, β-Chamigrene,Adams Essential Oil Components,experiment
+1478,geranyl propanoate,Adams Essential Oil Components,experiment
+1478,pentyl benzoate,Adams Essential Oil Components,experiment
+1479,asaricin,Flavornet,experiment
+1479,"ethyl-(E,Z)-2,4-decadienoate",Flavornet,experiment
+1479,curcumene,Lucero 2009,experiment
+1480,germacrene D,Lucero 2009,experiment
+1480,"trans-4,10-epoxy-Amorphane",Adams Essential Oil Components,experiment
+1480,Cabreuva oxide D,Adams Essential Oil Components,experiment
+1480,γ-Muurolene,Adams Essential Oil Components,experiment
+1481,germacrene D,Lucero 2009,experiment
+1481,curcumene,Lucero 2009,experiment
+1481,ar-curcumene,Adams Essential Oil Components,experiment
+1482,α-cyclogeranyl acetate,Adams Essential Oil Components,experiment
+1482,methyl γ-Ionone,Adams Essential Oil Components,experiment
+1483,AR-curcumene,Lucero 2009,experiment
+1483,beta-guaiene,Flavornet,experiment
+1483,"cis-4,10-epoxy-Amorphane",Adams Essential Oil Components,experiment
+1483,Citronellyl isobutyrate,Adams Essential Oil Components,experiment
+1483,γ-Himachelene,Adams Essential Oil Components,experiment
+1483,menthyl lactate,Adams Essential Oil Components,experiment
+1483,aceto-vanillone,Adams Essential Oil Components,experiment
+1483.4493426141,β-Ionone,marie standards,experiment
+1484,1-dodecanol,VOCbinbase,experiment
+1484,β-Ionone,Flavornet,experiment
+1484,2-Phenylpropyl butyrate,Adams Essential Oil Components,experiment
+1484,γ-thujaplicin,Adams Essential Oil Components,experiment
+1485,β-Ionone,Lucero 2009,experiment
+1485,germacrene D,Lucero 2009,experiment
+1485,germacrene D,Lucero 2009,experiment
+1485,β-Selinene,Lucero 2009,experiment
+1485,selinene,Lucero 2009,experiment
+1485,"Naphthalene, 1,2,4a,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-",Adams Essential Oil Components,experiment
+1485,germacrene D,Adams Essential Oil Components,experiment
+1486,AR-curcumene,Lucero 2009,experiment
+1486,citronellyl isobutyrate,Flavornet,estimate
+1486,β-Selinene,Lucero 2009,experiment
+1486,p-coumaric acid,Flavornet,estimate
+1486,p-menth-1-en-9-ol,Flavornet,experiment
+1486,p-menth-1-en-9-yl acetate,Flavornet,estimate
+1487,germacrene D,Flavornet,experiment
+1487,Benzyl acetylacetate,Adams Essential Oil Components,experiment
+1487,phenyl ethyl 2-methylbutanoate,Adams Essential Oil Components,experiment
+1488,β-Guaiene,Lucero 2009,experiment
+1489,butylated hydroxyanisole,Adams Essential Oil Components,experiment
+1489,(E)-β-Ionone,Adams Essential Oil Components,experiment
+1489,Z-jasmolactone,Adams Essential Oil Components,experiment
+1490,"(4S)-1-methyl-4-[(1R,2S)-1-methyl-2-(1-methylethenyl)cyclobutyl]cyclohexene",VOCbinbase,experiment
+1490,"2-Propenoic acid, 3-phenyl-, ethyl ester, (E)-",VOCbinbase,experiment
+1490,bornyl butyrate,Flavornet,estimate
+1490,β-Guaiene,Lucero 2009,experiment
+1490,undecylic acid,Flavornet,experiment
+1490,valencene,Flavornet,experiment
+1490,"Calamenene-1,11-epoxide",Adams Essential Oil Components,experiment
+1490,"cis-eudesma-6,11-diene",Adams Essential Oil Components,experiment
+1490,β-Selinene,Adams Essential Oil Components,experiment
+1491,β-Guaiene,Lucero 2009,experiment
+1491,neryl isobutanoate,Adams Essential Oil Components,experiment
+1491,phenyl ethyl 3-methyl butanoate,Adams Essential Oil Components,experiment
+1492,"10,11-epoxy calamenene",Adams Essential Oil Components,experiment
+1492,drim-8(12)-ene,Adams Essential Oil Components,experiment
+1492,E-jasmolactone,Adams Essential Oil Components,experiment
+1492,E-methyl isoeugenol,Adams Essential Oil Components,experiment
+1493,β-Ionone,Flavornet,experiment
+1493,isopiperitone,Flavornet,estimate
+1493,viridiflorene,Lucero 2009,experiment
+1493,β-Guaiene,Adams Essential Oil Components,experiment
+1493,iso-menthyl lactate,Adams Essential Oil Components,experiment
+1493,δ-Selinene,Adams Essential Oil Components,experiment
+1494,epi-cubebol,Lucero 2009,experiment
+1494,ethyl laurate,Flavornet,estimate
+1494,α-Zingiberene,Flavornet,experiment
+1494,epi-cubebol,Adams Essential Oil Components,experiment
+1494,δ-Decalactone,Adams Essential Oil Components,experiment
+1494,"trans-muurola-4(14),5-diene",Adams Essential Oil Components,experiment
+1494,α-zingiberene,Adams Essential Oil Components,experiment
+1495,α-Zingiberene,Lucero 2009,experiment
+1495,bicyclogermacrene,Lucero 2009,experiment
+1495,bicyclogermacrene,Lucero 2009,experiment
+1496,alloaromadendrene,Flavornet,estimate
+1496,"(1S,4aR,8aS)-1-Isopropyl-7-methyl-4-methylene-1,2,3,4,4a,5,6,8a-octahydronaphthalene",Adams Essential Oil Components,experiment
+1496,Asaricin,Adams Essential Oil Components,experiment
+1496,"cis-cadina-1,4-diene",Adams Essential Oil Components,experiment
+1496,3-methyl-coumarin,Adams Essential Oil Components,experiment
+1496,2-tridecanone,Adams Essential Oil Components,experiment
+1496,valencene,Adams Essential Oil Components,experiment
+1497,indipone,Adams Essential Oil Components,experiment
+1497,viridiflorene,Adams Essential Oil Components,experiment
+1498,β-Bisabolene,Flavornet,experiment
+1498,α-Muurolene,Lucero 2009,experiment
+1498,epizonarene,Lucero 2009,experiment
+1498,epizonarene,Lucero 2009,experiment
+1498,α-Alaskene,Adams Essential Oil Components,experiment
+1498,β-alaskene,Adams Essential Oil Components,experiment
+1498,benzyl tiglate,Adams Essential Oil Components,experiment
+1498,sandalore,Adams Essential Oil Components,experiment
+1498,α-Selinene,Adams Essential Oil Components,experiment
+1499,α-Muurolene,Lucero 2009,experiment
+1499,Z-dihydro-Apofarnesal,Adams Essential Oil Components,experiment
+1499,curzerene,Adams Essential Oil Components,experiment
+1500,alpha-farnesene,Flavornet,experiment
+1500,pentadecane,Flavornet,experiment
+1500,bicyclogermacrene,Adams Essential Oil Components,experiment
+1500,α-muurolene,Adams Essential Oil Components,experiment
+1500,n-pentadecane,Adams Essential Oil Components,experiment
+1501.0664479081,benzyl tiglate,marie standards,experiment
+1502,decyl propionate,Adams Essential Oil Components,experiment
+1502,epizonarene,Adams Essential Oil Components,experiment
+1502,γ-Patchoulene,Adams Essential Oil Components,experiment
+1503,tridecanal,Flavornet,experiment
+1503,β-Dihydroagarafuran,Adams Essential Oil Components,experiment
+1503,trans-β-Guaiene,Adams Essential Oil Components,experiment
+1505,"3-Buten-2-one, 4-(2,6,6-trimethyl-1-cyclohexen-1-yl)-",VOCbinbase,experiment
+1505,cuparene,Adams Essential Oil Components,experiment
+1505,β-Himachalene,Adams Essential Oil Components,experiment
+1506,δ-Selinene,Lucero 2009,experiment
+1506,β-Bisabolene,Adams Essential Oil Components,experiment
+1506,α-Cuprenene,Adams Essential Oil Components,experiment
+1506,"(E,E)-α farnesene",Adams Essential Oil Components,experiment
+1507,cis-α-Bisabolene,Adams Essential Oil Components,experiment
+1508,δ-Guaiene,VOCbinbase,experiment
+1508,α-Chamigrene,Adams Essential Oil Components,experiment
+1508,(-)-Silphiperfolan-6α-ol,Adams Essential Oil Components,experiment
+1509,pentadecane,VOCbinbase,experiment
+1509,β-Bisabolene,Lucero 2009,experiment
+1509,β-Bisabolene,Lucero 2009,experiment
+1509,methyl laurate,Flavornet,experiment
+1509,farena,Adams Essential Oil Components,experiment
+1509,germacrene A,Adams Essential Oil Components,experiment
+1510,b-curcumene,Lucero 2009,experiment
+1510,α-Bulnesene,Adams Essential Oil Components,experiment
+1510,lavandulyl isovalerate,Adams Essential Oil Components,experiment
+1510,tridecanal,Adams Essential Oil Components,experiment
+1511,6-isopropyl-quinoline,Adams Essential Oil Components,experiment
+1512,(E)-β-Ionone,Lucero 2009,experiment
+1512,β-Curcumene,Lucero 2009,experiment
+1512,δ-Amorphene,Adams Essential Oil Components,experiment
+1512,anisyl propionate,Adams Essential Oil Components,experiment
+1512,cameroonan-7-alpha-ol,Adams Essential Oil Components,experiment
+1512,lavandulyl 2-methyl butanoate,Adams Essential Oil Components,experiment
+1513,γ-Cadinene,Lucero 2009,experiment
+1513,γ-Cadinene,Lucero 2009,experiment
+1514,elemicin,Flavornet,experiment
+1514,sesquicineole,Lucero 2009,experiment
+1514,γ-Cadinene,Lucero 2009,experiment
+1514,γ-Cadinene,Adams Essential Oil Components,experiment
+1514,"cycloisolongifol-5-ol, trans",Adams Essential Oil Components,experiment
+1514,modhephen-8-β-ol,Adams Essential Oil Components,experiment
+1515,muurolene,VOCbinbase,experiment
+1515,raspberry ketone,Flavornet,estimate
+1515,cis-γ-Bisabolene,Adams Essential Oil Components,experiment
+1515,cubebol,Adams Essential Oil Components,experiment
+1515,geranyl isobutanoate,Adams Essential Oil Components,experiment
+1515,iso-italicene epoxide,Adams Essential Oil Components,experiment
+1516,butylated hydroxytoluene,Adams Essential Oil Components,experiment
+1516,β-Curcumene,Adams Essential Oil Components,experiment
+1516,10-epi-italicene ether,Adams Essential Oil Components,experiment
+1516,sesquicineole,Adams Essential Oil Components,experiment
+1517,"(3E,6E)-3,7,11-trimethyldodeca-1,3,6,10-tetraene",VOCbinbase,experiment
+1517,bicyclogermacrene,Flavornet,experiment
+1517,linalyl valerate,Flavornet,estimate
+1517,α-Dehydro-ar-himachalene,Adams Essential Oil Components,experiment
+1517,Menthyl valerate,Adams Essential Oil Components,experiment
+1518,menthyl isovalerate,Adams Essential Oil Components,experiment
+1519,1-methyl-4-phenylbenzene,VOCbinbase,experiment
+1519,δ-Cadinene,Flavornet,experiment
+1519,myristicin,Adams Essential Oil Components,experiment
+1519,(-)-7-epi-Silphiperfolan-6β-ol,Adams Essential Oil Components,experiment
+1520,endo-1-bourbonanol,Adams Essential Oil Components,experiment
+1520,dihydroagarofuran,Adams Essential Oil Components,experiment
+1520,myrac aldehyde,Adams Essential Oil Components,experiment
+1521,cis-calamenene,Lucero 2009,experiment
+1521,(-)-Silphiperfolan-7β-ol,Adams Essential Oil Components,experiment
+1522,E-dihydro-Apofarnesal,Adams Essential Oil Components,experiment
+1522,6-Methyl-α-ionone,Adams Essential Oil Components,experiment
+1522,7-epi-α-Selinene,Adams Essential Oil Components,experiment
+1523,calamenene,Flavornet,experiment
+1523,δ-Cadinene,Lucero 2009,experiment
+1523,δ-Cadinene,Lucero 2009,experiment
+1523,α-Muurolene,Flavornet,estimate
+1523,δ-Cadinene,Adams Essential Oil Components,experiment
+1523,eugenol acetate,Adams Essential Oil Components,experiment
+1523,isobornyl isovalerate,Adams Essential Oil Components,experiment
+1523,β-Sesquiphellandrene,Adams Essential Oil Components,experiment
+1524,tridecanal,VOCbinbase,experiment
+1524,berteroin,Flavornet,experiment
+1524,δ-Cadinene,Lucero 2009,experiment
+1524,δ-Cadinene,Lucero 2009,experiment
+1524,Artedouglasia oxide C,Adams Essential Oil Components,experiment
+1524,isobornyl 2-methyl butanoate,Adams Essential Oil Components,experiment
+1525,eugenyl acetate,Lucero 2009,experiment
+1525,δ-Decalactone,Flavornet,experiment
+1526,methyl dodecanoate,Adams Essential Oil Components,experiment
+1526,1-phenyl heptan-3-one,Adams Essential Oil Components,experiment
+1527,3-mercaptohexanol,Flavornet,estimate
+1527,cadinadiene,Flavornet,experiment
+1527,vanillin acetate,Adams Essential Oil Components,experiment
+1528,citronellyl butyrate,Flavornet,estimate
+1529,bornyl isovalerate,Flavornet,estimate
+1529,trans-calamenene,Adams Essential Oil Components,experiment
+1529,laciniata furanone G,Adams Essential Oil Components,experiment
+1529,lilia,Adams Essential Oil Components,experiment
+1529,E-o-methoxy cinnamaldehyde,Adams Essential Oil Components,experiment
+1530,β-Sesquiphellandrene,VOCbinbase,experiment
+1530,zonarene,Adams Essential Oil Components,experiment
+1531,(E)-γ-Bisabolene,Adams Essential Oil Components,experiment
+1531,(-)-Nopsan-4-ol,Adams Essential Oil Components,experiment
+1532,dodecanoic acid methyl ester,VOCbinbase,experiment
+1532,"cadina-1,4-diene",Lucero 2009,experiment
+1532,"cadina-1,4-diene",Lucero 2009,experiment
+1532,myristicin,Flavornet,experiment
+1532,citronellyl butanoate,Adams Essential Oil Components,experiment
+1532,γ-Dehydro-Ar-himachalene,Adams Essential Oil Components,experiment
+1533,"cadina-1,4-diene",Lucero 2009,experiment
+1533,laciniata furanone F,Adams Essential Oil Components,experiment
+1533,Z-nerolidol,Adams Essential Oil Components,experiment
+1533,β-Vetivenene,Adams Essential Oil Components,experiment
+1535,"trans-cadina-1(2),4-diene",Adams Essential Oil Components,experiment
+1535,10-epi-cubebol,Adams Essential Oil Components,experiment
+1536,Artedouglasia oxide A,Adams Essential Oil Components,experiment
+1536,liguloxide,Adams Essential Oil Components,experiment
+1536,silphiperfol-5-en-3-ol B,Adams Essential Oil Components,experiment
+1537,isopentyl salicylate,Adams Essential Oil Components,experiment
+1538,(Z)-oak-lactone,Flavornet,estimate
+1538,α-Cadinene,Lucero 2009,experiment
+1538,α-Cadinene,Lucero 2009,experiment
+1538,α-Cadinene,Lucero 2009,experiment
+1538,dihydro eugenol acetate,Adams Essential Oil Components,experiment
+1538,italicene ether,Adams Essential Oil Components,experiment
+1538,β-thujaplicinol,Adams Essential Oil Components,experiment
+1539,nerolidol,Flavornet,experiment
+1539,α-Cadinene,Adams Essential Oil Components,experiment
+1539,kessane,Adams Essential Oil Components,experiment
+1540,bis(2-methyl-3-furyl)disulphide,Flavornet,experiment
+1540,cis-calamenene,Adams Essential Oil Components,experiment
+1540,furopelargone A,Adams Essential Oil Components,experiment
+1542,α-Cadinene,Lucero 2009,experiment
+1542,"selina-3,7(11)-diene",Lucero 2009,experiment
+1542,Z-carpacin,Adams Essential Oil Components,experiment
+1542,Z-carpacin,Adams Essential Oil Components,experiment
+1542,10-epi-cis-dracunculifolol,Adams Essential Oil Components,experiment
+1542,laciniata furanone E,Adams Essential Oil Components,experiment
+1543,α-Calacorene,Lucero 2009,experiment
+1543,γ-Cadinene,Flavornet,estimate
+1543,"8,14-cedranoxide",Adams Essential Oil Components,experiment
+1543,cis-dracunculifolol,Adams Essential Oil Components,experiment
+1544,cis-sesquisabinene hydrate,Adams Essential Oil Components,experiment
+1544.2165709598,farnesene,marie standards,experiment
+1546,α-Calacorene,Adams Essential Oil Components,experiment
+1547,elemol,Flavornet,experiment
+1547,flavesone,Adams Essential Oil Components,experiment
+1547,"selina-3,7(11)-diene",Adams Essential Oil Components,experiment
+1548,"1,2,3,5,6,8a-Hexahydro-4,7-dimethyl-1-(1-methylethyl)naphthalene",VOCbinbase,experiment
+1548,elemol,Lucero 2009,experiment
+1548,Silphiperfolan-6β-ol,Adams Essential Oil Components,experiment
+1549,elemol,Lucero 2009,experiment
+1549,geranyl butyrate,Flavornet,estimate
+1549,"1,10-decanediol",Adams Essential Oil Components,experiment
+1549,italicene epoxide,Adams Essential Oil Components,experiment
+1550,alpha-Agarofuran,Adams Essential Oil Components,experiment
+1550,elemol,Adams Essential Oil Components,experiment
+1550,laciniata furanone H,Adams Essential Oil Components,experiment
+1551,elemol,Lucero 2009,experiment
+1551,silphiperfolenone,Adams Essential Oil Components,experiment
+1552,elemicin,Lucero 2009,experiment
+1552,cis-muurol-5-en-4-β-ol,Adams Essential Oil Components,experiment
+1552,occidentalol,Adams Essential Oil Components,experiment
+1552,silphiperfol-5-en-3-one B,Adams Essential Oil Components,experiment
+1553,α-Curcumene,Flavornet,estimate
+1553,lippifoli-1(6)-en-5-one,Adams Essential Oil Components,experiment
+1554,cis-cadinene ether,Adams Essential Oil Components,experiment
+1555,Calamenene,VOCbinbase,experiment
+1555,"Coumarin, 6-methyl-",Adams Essential Oil Components,experiment
+1555,E-isocroweacin,Adams Essential Oil Components,experiment
+1555,thymohydro quinone,Adams Essential Oil Components,experiment
+1556,caryophyllene alcohol,Flavornet,experiment
+1557,germacrene B,Lucero 2009,experiment
+1557,gerrnacrene B,Lucero 2009,experiment
+1557,elemicin,Adams Essential Oil Components,experiment
+1559,trans-cadiene ether,Adams Essential Oil Components,experiment
+1560,β-Sesquiphellandrene,Flavornet,estimate
+1560,silphiperfol-5-en-3-ol A,Adams Essential Oil Components,experiment
+1561,Artedouglasia oxide D,Adams Essential Oil Components,experiment
+1561,germacrene B,Adams Essential Oil Components,experiment
+1561,cis-Muurol-5-en-4-α-ol,Adams Essential Oil Components,experiment
+1562,(E)-nerolidol,Lucero 2009,experiment
+1562,germacrene B,Flavornet,experiment
+1563,1-nor-bourbonanone,Adams Essential Oil Components,experiment
+1563,E-nerolidol,Adams Essential Oil Components,experiment
+1564,β-Calacorene,Lucero 2009,experiment
+1564,p-methoxy-cinnamaldehyde,Adams Essential Oil Components,experiment
+1564,geranyl butanoate,Adams Essential Oil Components,experiment
+1564,longicamphenylone,Adams Essential Oil Components,experiment
+1564,epi-longipinanol,Adams Essential Oil Components,experiment
+1565,(E)-nerolidol,Lucero 2009,experiment
+1565,(Z)-nerolidol,Flavornet,experiment
+1566,dodecanoic acid,VOCbinbase,experiment
+1566,hexyl octanoate,Flavornet,experiment
+1566,bornyl angelate,Adams Essential Oil Components,experiment
+1566,β-Calacorene,Adams Essential Oil Components,experiment
+1566,carvotacetone acetate,Adams Essential Oil Components,experiment
+1566,davanone B,Adams Essential Oil Components,experiment
+1567,isopropyl benzoate,Flavornet,estimate
+1567,dodecanoic acid,Adams Essential Oil Components,experiment
+1567,Z-3-hexenyl benzoate,Adams Essential Oil Components,experiment
+1567,dimethyl-ionone,Adams Essential Oil Components,experiment
+1568,furfuryl octanoate,Adams Essential Oil Components,experiment
+1568,(Z)-Isoeugenyl acetate,Adams Essential Oil Components,experiment
+1569,ledol,Adams Essential Oil Components,experiment
+1569,longipinanol,Adams Essential Oil Components,experiment
+1569,"2-Tridecenal, (E)-",Adams Essential Oil Components,experiment
+1570,E-Isoelemicin,Adams Essential Oil Components,experiment
+1570,Z-Isoelemicin,Adams Essential Oil Components,experiment
+1571,Thymohydroquinone,VOCbinbase,experiment
+1571,γ-Undecalactone,Adams Essential Oil Components,experiment
+1572,caryophyllenyl alcohol,Adams Essential Oil Components,experiment
+1572,dendrolasin,Adams Essential Oil Components,experiment
+1572,n-tridecanol,Adams Essential Oil Components,experiment
+1573,caryophyllene oxide,Flavornet,experiment
+1573,Apofarnesol<(z)-Dihydro->,Adams Essential Oil Components,experiment
+1573,caryolan-8-ol,Adams Essential Oil Components,experiment
+1574,prenopsan-8-ol,Lucero 2009,experiment
+1574,Isoasarone,Adams Essential Oil Components,experiment
+1575,germacrene D-4-ol,Lucero 2009,experiment
+1575,diepi-α-Cedrene epoxide,Adams Essential Oil Components,experiment
+1575,silphiperfol-5-en-3-one A,Adams Essential Oil Components,experiment
+1576,12-methyltridecanal,Flavornet,experiment
+1576,spathulenol,Lucero 2009,experiment
+1576,spathulenol,Lucero 2009,experiment
+1576,germacrene D-4-ol,Adams Essential Oil Components,experiment
+1576,pentyl salicylate,Adams Essential Oil Components,experiment
+1577,himachalene epoxide,Lucero 2009,experiment
+1577,lauryl alcohol,Flavornet,experiment
+1577,prenopsan-8-ol,Adams Essential Oil Components,experiment
+1578,spathulenol,Lucero 2009,experiment
+1578,spathulenol,Lucero 2009,experiment
+1578,spathulenol,Adams Essential Oil Components,experiment
+1579,trans-sesquisabinene hydrate,Adams Essential Oil Components,experiment
+1580,n-hexyl benzoate,Adams Essential Oil Components,experiment
+1580,himachalene epoxide,Adams Essential Oil Components,experiment
+1582,caryophyllene oxide,Lucero 2009,experiment
+1582,caryophyllene oxide,Lucero 2009,experiment
+1582,caryophyllene oxide,Lucero 2009,experiment
+1582,Artedouglasia oxide B,Adams Essential Oil Components,experiment
+1583,caryophyllene oxide,Lucero 2009,experiment
+1583,caryophyllene oxide,Adams Essential Oil Components,experiment
+1583,ar-tumerol,Adams Essential Oil Components,experiment
+1584,globulol,Lucero 2009,experiment
+1584,neryl isovalerate,Adams Essential Oil Components,experiment
+1585,gleenol,Lucero 2009,experiment
+1585,globulol,Adams Essential Oil Components,experiment
+1585,"octanedioic acid, diethyl ester",Adams Essential Oil Components,experiment
+1585,2-phenyl ethyl tiglate,Adams Essential Oil Components,experiment
+1586,Presilphiperfolan-8-ol,Adams Essential Oil Components,experiment
+1587,gleenol,Adams Essential Oil Components,experiment
+1587,thujopsan-2-α-ol,Adams Essential Oil Components,experiment
+1588,davanone ,Adams Essential Oil Components,experiment
+1588,E-2-hexenyl benzoate,Adams Essential Oil Components,experiment
+1589,guaiol,Flavornet,experiment
+1590,viridflorol,Lucero 2009,experiment
+1590,cis-β-Elemenone,Adams Essential Oil Components,experiment
+1590,1-hexadecene,Adams Essential Oil Components,experiment
+1590,thujopsan-2-β-ol,Adams Essential Oil Components,experiment
+1591,dihydroapofarnesol,Adams Essential Oil Components,experiment
+1591,β-Copaen-4-α-ol,Adams Essential Oil Components,experiment
+1591,diethyl phthalate,Adams Essential Oil Components,experiment
+1593,dehydrocarveol,Flavornet,estimate
+1593,tridecanol,Flavornet,experiment
+1593,helifolen-12-al (syn-anti-anti),Adams Essential Oil Components,experiment
+1593,helifolen-12-al (anti-anti-anti),Adams Essential Oil Components,experiment
+1593,viridiflorol,Adams Essential Oil Components,experiment
+1594,E-carpacin,Adams Essential Oil Components,experiment
+1594,E-carpacin,Adams Essential Oil Components,experiment
+1595,carotol,Adams Essential Oil Components,experiment
+1595,carotol,Adams Essential Oil Components,experiment
+1595,ethyl dodecanoate,Adams Essential Oil Components,experiment
+1595,salvial-4(14)-ene-1-one,Adams Essential Oil Components,experiment
+1596,(E)-isoelemicin,Flavornet,experiment
+1596,Turmerone (dihydro-ar),Adams Essential Oil Components,experiment
+1597,cis-Arteannuic alcohol,Adams Essential Oil Components,experiment
+1599,longiborneol,Adams Essential Oil Components,experiment
+1599,widdrol,Adams Essential Oil Components,experiment
+1600,hexadecane,Flavornet,experiment
+1600,Ageratochromene,Adams Essential Oil Components,experiment
+1600,n-hexadecane,Adams Essential Oil Components,experiment
+1601,cedrol,Adams Essential Oil Components,experiment
+1601,trans-β-Elemenone,Adams Essential Oil Components,experiment
+1601,geranyl 2-methyl butanoate,Adams Essential Oil Components,experiment
+1601,"9,11-epoxy-guaia-3,10(14)-diene",Adams Essential Oil Components,experiment
+1601,guaiol,Adams Essential Oil Components,experiment
+1602,dill apiol,Flavornet,experiment
+1602,"dihydro(10,11)-ar-alpha-bisabolol",Adams Essential Oil Components,experiment
+1603,ethyl dodecanoate,VOCbinbase,experiment
+1603,isoamyl nerolate,Adams Essential Oil Components,experiment
+1604,cedrenol,Flavornet,experiment
+1604,5-oxy-isobornyl isobutyrate,Adams Essential Oil Components,experiment
+1604,khusimone,Adams Essential Oil Components,experiment
+1605,sesquithuriferol,Adams Essential Oil Components,experiment
+1606,δ-Undecalactone,Flavornet,experiment
+1606,curzerenone,Adams Essential Oil Components,experiment
+1607,"2,2,4,4-tetramethylpentan-3-yl propanoate",VOCbinbase,experiment
+1607,β-Oplopenone,Lucero 2009,experiment
+1607,geranyl isovalerate,Adams Essential Oil Components,experiment
+1607,Z-sesquilavandulol,Adams Essential Oil Components,experiment
+1608,humulene epoxide II,Lucero 2009,experiment
+1608,β-Atlantol,Adams Essential Oil Components,experiment
+1608,(E)-2-dodecenyl acetate,Adams Essential Oil Components,experiment
+1608,5-epi-7-epi-α-Eudesmol,Adams Essential Oil Components,experiment
+1608,Humulene II epoxide,Adams Essential Oil Components,experiment
+1608,β-Oplopenone,Adams Essential Oil Components,experiment
+1608,platyphyllol,Adams Essential Oil Components,experiment
+1609,humulene epoxide II,Lucero 2009,experiment
+1609,2-acetyl-naphthalene,Adams Essential Oil Components,experiment
+1610,Diethyl Phthalate,VOCbinbase,experiment
+1610,β-Ionone epoxide,Flavornet,estimate
+1610,geranyl isovalerate,Flavornet,estimate
+1610,cis-dihydro-occidentalol,Adams Essential Oil Components,experiment
+1611,hexadecane,VOCbinbase,experiment
+1612,β-Himachalene oxide,Lucero 2009,experiment
+1612,tetradecanal,Lucero 2009,experiment
+1613,tetradecyl aldehyde,Flavornet,estimate
+1613,trans-Arteannuic alcohol,Adams Essential Oil Components,experiment
+1613,cis-Isolongifolanone,Adams Essential Oil Components,experiment
+1613,tetradecanal,Adams Essential Oil Components,experiment
+1614,(E)-2-hexenoic acid,Flavornet,estimate
+1614,β-Biotol,Adams Essential Oil Components,experiment
+1614,2-ethyl chromone,Adams Essential Oil Components,experiment
+1616,davanol D1 (isomer 1),Adams Essential Oil Components,experiment
+1616,β-Himachalene oxide,Adams Essential Oil Components,experiment
+1616,isoeugenyl acetate,Adams Essential Oil Components,experiment
+1617,Z-Asarone,Adams Essential Oil Components,experiment
+1618,butyl anthranilate,Adams Essential Oil Components,experiment
+1619,10-epi-γ-Eudesmol,Lucero 2009,experiment
+1619,spathulenol,Flavornet,experiment
+1619,Z-bisabolol-11-ol,Adams Essential Oil Components,experiment
+1619,epi-cedrol,Adams Essential Oil Components,experiment
+1619,"1,10-di-epi-cubenol",Adams Essential Oil Components,experiment
+1619,Isolongifolan-7-α-ol,Adams Essential Oil Components,experiment
+1620,levomenol,Flavornet,estimate
+1620,helifolen-12-al (anti-syn-syn),Adams Essential Oil Components,experiment
+1620,helifolen-12-al (syn-syn-syn),Adams Essential Oil Components,experiment
+1621,"dihydromyrcene, Z-1,6-diol",Adams Essential Oil Components,experiment
+1621,dill apiol,Adams Essential Oil Components,experiment
+1623,silphiperfol-6-en-5-one,Lucero 2009,experiment
+1623,β-Cedrene epoxide,Adams Essential Oil Components,experiment
+1623,leptospermone,Adams Essential Oil Components,experiment
+1623,iso-leptospermone,Adams Essential Oil Components,experiment
+1624,10-epi-γ-Eudesmol,Adams Essential Oil Components,experiment
+1625,citronellyl valerate,Flavornet,estimate
+1625,citronellyl pentanoate,Adams Essential Oil Components,experiment
+1626,methyl jasmonate,Flavornet,estimate
+1626,silphiperfol-6-en-5-one,Adams Essential Oil Components,experiment
+1627,trans-Isolongifolanone,Adams Essential Oil Components,experiment
+1628,1-epi-cubenol,Lucero 2009,experiment
+1628,1-epi-cubenol,Lucero 2009,experiment
+1628,Benzophenone,Adams Essential Oil Components,experiment
+1628,2-(3-oxobutyl)-isomethone,Adams Essential Oil Components,experiment
+1628.65404794,eremoligensol,Lucero 2009,experiment
+1629,(E)-Whiskey lactone,Flavornet,estimate
+1629,1-epi-cubenol,Lucero 2009,experiment
+1629,tetradecanal,VOCbinbase,experiment
+1629,1-epi-cubenol,Adams Essential Oil Components,experiment
+1629,davanol D2 (isomer 2),Adams Essential Oil Components,experiment
+1630,5-cedranone,Adams Essential Oil Components,experiment
+1631,γ-Eudesmol,Lucero 2009,experiment
+1631,beta-cedren-9-one,Adams Essential Oil Components,experiment
+1631,eremoligeno,Adams Essential Oil Components,experiment
+1631,leptospermone,Adams Essential Oil Components,experiment
+1632,(Z)-3-hexenyl-phenyl-acetate,Lucero 2009,experiment
+1632,γ-Eudesmol,Adams Essential Oil Components,experiment
+1633,γ-Eudesmol,Lucero 2009,experiment
+1633,α-Acorenol,Adams Essential Oil Components,experiment
+1633,E-sesquilavandulol,Adams Essential Oil Components,experiment
+1634,Z-3-hexenyl phenyl acetate,Adams Essential Oil Components,experiment
+1634,"isoborneol, 8-isobutyryloxy-",Adams Essential Oil Components,experiment
+1634,"Selina-1,3,7(11)-trien-8-one",Adams Essential Oil Components,experiment
+1635,τ-Muurolol,Flavornet,experiment
+1637,(Z)-whiskey lactone,Flavornet,estimate
+1637,β-Acorenol,Adams Essential Oil Components,experiment
+1637,cis-cadin-4-en-7-ol,Adams Essential Oil Components,experiment
+1637,gossonorol,Adams Essential Oil Components,experiment
+1639,hinesol,Lucero 2009,experiment
+1640,10-epi- α-cadinol,Lucero 2009,experiment
+1640,epi- α-cadinol,Adams Essential Oil Components,experiment
+1641,muurolol,Lucero 2009,experiment
+1641,epoxy-allo-alloaromadendrene,Adams Essential Oil Components,experiment
+1641,"Caryophyla-4(14),8(15)-dien-5-ol",Adams Essential Oil Components,experiment
+1641,6-methyl-6-(3-methylphenyl)-heptan-2-one,Adams Essential Oil Components,experiment
+1642,cubenol,Lucero 2009,experiment
+1642,10-epi-α-Muurolol,Lucero 2009,experiment
+1642,humulene oxide,Flavornet,estimate
+1642,β-Caryophyllene alcohol,Flavornet,estimate
+1642,daucol,Adams Essential Oil Components,experiment
+1642,hinesol,Adams Essential Oil Components,experiment
+1642,epi-α-muurolol,Adams Essential Oil Components,experiment
+1642,phenyl ethyl hexanoate,Adams Essential Oil Components,experiment
+1643,cubenol,Lucero 2009,experiment
+1643,3-iso-thujopsanone,Adams Essential Oil Components,experiment
+1644,"Selina-3,11-dien-6α-ol",Adams Essential Oil Components,experiment
+1645,(-)-cubenol,Flavornet,experiment
+1645,6-hydroxy-isobutanoate,Adams Essential Oil Components,experiment
+1646,α-Muurolol,Lucero 2009,experiment
+1646,α-Muurolol,Lucero 2009,experiment
+1646,himachalol,Lucero 2009,experiment
+1646,α-muurolol,Adams Essential Oil Components,experiment
+1647,cubenol,Adams Essential Oil Components,experiment
+1648,Agarospirol,Adams Essential Oil Components,experiment
+1648,desmethoxy encecalin,Adams Essential Oil Components,experiment
+1649,geranyl valerate,Flavornet,estimate
+1649,Z-amyl cinnamaldehyde,Adams Essential Oil Components,experiment
+1649,Z-methyl jasmonate,Adams Essential Oil Components,experiment
+1650,β-Eudesmol,Lucero 2009,experiment
+1650,β-Eudesmol,Lucero 2009,experiment
+1650,β-Eudesmol,Lucero 2009,experiment
+1651,bulnesol,Flavornet,experiment
+1651,β-Eudesmol,Lucero 2009,experiment
+1651,β-Eudesmol,Lucero 2009,experiment
+1651,methyl tetradecanoate,Flavornet,estimate
+1651,β-Eudesmol,Adams Essential Oil Components,experiment
+1651,occidentalol,Adams Essential Oil Components,experiment
+1651,vulgarone B,Adams Essential Oil Components,experiment
+1652,cedr-8(15)-en-10-ol,Adams Essential Oil Components,experiment
+1652,cedr-8(15)-en-9-α-ol,Adams Essential Oil Components,experiment
+1652,isoamyl geranate,Adams Essential Oil Components,experiment
+1653,α-Cadinol,Lucero 2009,experiment
+1653,α-Eudesmol,Lucero 2009,experiment
+1653,Selin-11-en-4-α-ol,Lucero 2009,experiment
+1653,"dihydro agarofuran, 4-alpha-hydroxy",Adams Essential Oil Components,experiment
+1654,β-Eudesmol,Flavornet,experiment
+1654,α-Cadinol,Adams Essential Oil Components,experiment
+1654,α-Eudesmol,Adams Essential Oil Components,experiment
+1654,himachalol,Adams Essential Oil Components,experiment
+1655,"dihydromyrcene, E-1,6-diol",Adams Essential Oil Components,experiment
+1655,3-thujopsanone,Adams Essential Oil Components,experiment
+1656,(Z)-6-γ-Dodecenolactone,Flavornet,experiment
+1656,neo-intermedeol,Lucero 2009,experiment
+1656,exalatacin,Adams Essential Oil Components,experiment
+1656,Methyl (Z)-dihydrojasmonate,Adams Essential Oil Components,experiment
+1657,methyl epijasmonate,Flavornet,estimate
+1657,geranyl valerate,Adams Essential Oil Components,experiment
+1657,syringaldehyde,Adams Essential Oil Components,experiment
+1658,1-epi-α-Eudesmol,Lucero 2009,experiment
+1658,"cadina-1,4-dien-3-ol",Flavornet,experiment
+1658,α-Bisabolol oxide B,Adams Essential Oil Components,experiment
+1658,Z-citronellyl tiglate,Adams Essential Oil Components,experiment
+1658,6-hydroxy-Isobornyl Isobutyrate,Adams Essential Oil Components,experiment
+1658,patchouli alcohol,Adams Essential Oil Components,experiment
+1658,valerian,Adams Essential Oil Components,experiment
+1659,Atractylone,Adams Essential Oil Components,experiment
+1660,(Z)-6-γ-Dodecenolactone,Flavornet,experiment
+1660,neo-intermedeol,Adams Essential Oil Components,experiment
+1660,Selin-11-en-4-α-ol,Adams Essential Oil Components,experiment
+1661,E-amyl cinnamic alcohol,Adams Essential Oil Components,experiment
+1661,cis-calamenen-10-ol,Adams Essential Oil Components,experiment
+1662,α-Bisabolol,Flavornet,experiment
+1663,dihydro-eudesmol,Adams Essential Oil Components,experiment
+1664,7-epi-α-eudesmol,Adams Essential Oil Components,experiment
+1665,4-Oxo-β-ionone,Flavornet,estimate
+1666,β-Bisabolol,Flavornet,experiment
+1666,methyl dihydroepijasmonate,Flavornet,estimate
+1667,intermedeol,Adams Essential Oil Components,experiment
+1667,lyral,Adams Essential Oil Components,experiment
+1668,bulnesol,Lucero 2009,experiment
+1668,bulnesol,Lucero 2009,experiment
+1668,E-bisabol-11-ol,Adams Essential Oil Components,experiment
+1668,E-citronellyl tiglate,Adams Essential Oil Components,experiment
+1669,E-amyl cinnamaldehyde,Adams Essential Oil Components,experiment
+1669,trans-calamenen-10-ol,Adams Essential Oil Components,experiment
+1669,Z-coniferyl alcohol,Adams Essential Oil Components,experiment
+1669,Z-3-hexenyl salicylate,Adams Essential Oil Components,experiment
+1669,ar-tumerone,Adams Essential Oil Components,experiment
+1670,methyl dihydroepijasmonate,VOCbinbase,experiment
+1670,β-Atlantone,Adams Essential Oil Components,experiment
+1670,14-hydroxy-9-epi-E-caryophyllene,Adams Essential Oil Components,experiment
+1672,benzophenone,VOCbinbase,experiment
+1672,butyl laurate,Flavornet,estimate
+1672,β-Bisabolol,Lucero 2009,experiment
+1672,epi- β-Bisabolol,Adams Essential Oil Components,experiment
+1672,bulnesol,Adams Essential Oil Components,experiment
+1673,(Z)-3-butylidene phthalide,Adams Essential Oil Components,experiment
+1673,n-tetradecanol,Adams Essential Oil Components,experiment
+1674,cadalene,Lucero 2009,experiment
+1674,δ-Cadinol,Flavornet,estimate
+1674,5-iso-cedranol,Adams Essential Oil Components,experiment
+1675,methyl-epi-jasmonate,Lucero 2009,experiment
+1675,β-Bisabolol,Adams Essential Oil Components,experiment
+1675,helifolenol A,Adams Essential Oil Components,experiment
+1675,8-hydroxy-isobutanoate,Adams Essential Oil Components,experiment
+1675,"salicylic acid, hexyl ester",Adams Essential Oil Components,experiment
+1675,Z-α-santalol,Adams Essential Oil Components,experiment
+1675,valeranone,Adams Essential Oil Components,experiment
+1676,α-Cadinol,Flavornet,experiment
+1676,E-Asarone,Adams Essential Oil Components,experiment
+1676,"8,9-epoxide cadalene",Adams Essential Oil Components,experiment
+1677,Andro encecalinol,Adams Essential Oil Components,experiment
+1677,cadalene,Adams Essential Oil Components,experiment
+1678,apiole,Adams Essential Oil Components,experiment
+1678,γ-Dodecalactone,Adams Essential Oil Components,experiment
+1678,foeniculin,Adams Essential Oil Components,experiment
+1678,"guaia-3,10(14)-dien-11-ol",Adams Essential Oil Components,experiment
+1678,Z-nerolidol acetate,Adams Essential Oil Components,experiment
+1678,occidenol,Adams Essential Oil Components,experiment
+1679,helifolenol B,Adams Essential Oil Components,experiment
+1679,Z-methyl epi-jasmonate,Adams Essential Oil Components,experiment
+1680,khusinol,Adams Essential Oil Components,experiment
+1681,elemol acetate,Adams Essential Oil Components,experiment
+1682,α-Bisabolol,Lucero 2009,experiment
+1682,helifolenol C,Adams Essential Oil Components,experiment
+1682,helifolenol D,Adams Essential Oil Components,experiment
+1682,ishwarone,Adams Essential Oil Components,experiment
+1682,occidentalol acetate,Adams Essential Oil Components,experiment
+1683,Methyl-trans-Dihydrojasmonate,Adams Essential Oil Components,experiment
+1684,α-Bisabolol,Lucero 2009,experiment
+1685,γ-Dodecalactone,Flavornet,experiment
+1685,pantolactone,Flavornet,estimate
+1685,epi-alpha-bisabolol,Adams Essential Oil Components,experiment
+1685,Bisabolene oxide A,Adams Essential Oil Components,experiment
+1685,5-neo-cedranol,Adams Essential Oil Components,experiment
+1686,8-cedren-13-ol,Lucero 2009,experiment
+1686,α-Bisabolol,Adams Essential Oil Components,experiment
+1686,longiborneol acetate,Adams Essential Oil Components,experiment
+1688,"Eudesma-4(15),7-dien-1β-ol",Adams Essential Oil Components,experiment
+1689,zingiberenol,Flavornet,estimate
+1689,8-cedren-13-ol,Adams Essential Oil Components,experiment
+1689,cis-14-nor-muurol-5-en-4-one,Adams Essential Oil Components,experiment
+1690,"2,6-dimethylnaphthalene",Flavornet,estimate
+1690,Z-Apritone,Adams Essential Oil Components,experiment
+1690,davanol acetate,Adams Essential Oil Components,experiment
+1691,"Bergamotol, Z-α-trans-",Adams Essential Oil Components,experiment
+1692,(E)-2-dodecen-1-ol,Flavornet,estimate
+1692,tetradecan-1-ol,VOCbinbase,experiment
+1693,7-heptadecene,Flavornet,estimate
+1693,Acorenone,Adams Essential Oil Components,experiment
+1693,junicedranol,Adams Essential Oil Components,experiment
+1694,ethyl tetradecanoate,Flavornet,estimate
+1694,(Z)-γ-Atlantone,Adams Essential Oil Components,experiment
+1694,germacrone,Adams Essential Oil Components,experiment
+1696,α-Caryophyllene alcohol,Flavornet,estimate
+1696,β-farnesol,Flavornet,experiment
+1696,geranyl tiglate,Adams Essential Oil Components,experiment
+1697,zizanal,Adams Essential Oil Components,experiment
+1698,Acorenone B,Adams Essential Oil Components,experiment
+1699,deodarone,Adams Essential Oil Components,experiment
+1700,"2-[(1S,2S)-2-amyl-3-keto-cyclopentyl]acetic acid methyl ester",VOCbinbase,experiment
+1700,heptadecane,Flavornet,experiment
+1700,methyl cinnamate,Flavornet,estimate
+1700,eudesm-7(11)-en-4-ol,Adams Essential Oil Components,experiment
+1700,n-heptadecane,Adams Essential Oil Components,experiment
+1700,β-Sinensal,Adams Essential Oil Components,experiment
+1701,caryophyllene acetate,Adams Essential Oil Components,experiment
+1701,"(Z,E)-farnesol",Adams Essential Oil Components,experiment
+1701,"(Z,E)-farnesyl acetate",Adams Essential Oil Components,experiment
+1702,10-nor-calamenen-10-one,Adams Essential Oil Components,experiment
+1702,sesquicineol-2-one,Adams Essential Oil Components,experiment
+1703,epi-β-santalol,Adams Essential Oil Components,experiment
+1705,diethyl malate,Flavornet,estimate
+1705,δ-Dodecalactone,Adams Essential Oil Components,experiment
+1706,β-Sinensal,Flavornet,experiment
+1707,γ-(E)-Atlantone,Adams Essential Oil Components,experiment
+1707,melaleucol,Adams Essential Oil Components,experiment
+1707,2-propyl chromone,Adams Essential Oil Components,experiment
+1709,E-Apritone,Adams Essential Oil Components,experiment
+1710,mayurone,Adams Essential Oil Components,experiment
+1711,heptadecane,VOCbinbase,experiment
+1711,pentadecanal,Flavornet,estimate
+1713,ar-Curcumen-15-al,Adams Essential Oil Components,experiment
+1714,cedroxyde,Adams Essential Oil Components,experiment
+1714,14-Hydroxy-α-humulene,Adams Essential Oil Components,experiment
+1715,longifolol,Adams Essential Oil Components,experiment
+1715,Z-nuciferal,Adams Essential Oil Components,experiment
+1716,Z-β-santalol,Adams Essential Oil Components,experiment
+1716.4835164835,farnesol,marie standards,experiment
+1717,E-nerolidol acetate,Adams Essential Oil Components,experiment
+1718,(Z)-α-Atlantone,Adams Essential Oil Components,experiment
+1718,(E)-3-Butylidene phthalide,Adams Essential Oil Components,experiment
+1718,curcupheno,Adams Essential Oil Components,experiment
+1718,"(Z,Z)-farnesol",Adams Essential Oil Components,experiment
+1719,β-Sinensal,VOCbinbase,experiment
+1719,β-Davanone-2-ol,Adams Essential Oil Components,experiment
+1721,δ-Dodecalactone,Flavornet,experiment
+1721,"1-phenyl-hepta-1,3,5-triyne",Adams Essential Oil Components,experiment
+1722,(E)-farnesol,Flavornet,experiment
+1723,benzyl benzoate,Flavornet,experiment
+1723,Celestolide,Adams Essential Oil Components,experiment
+1724,methyl tetradecanoate,Adams Essential Oil Components,experiment
+1725,cryptomerione,Adams Essential Oil Components,experiment
+1725,"(E,E)-farnesol",Adams Essential Oil Components,experiment
+1725,Z-nuciferol,Adams Essential Oil Components,experiment
+1726,"(E,E)-farnesyl acetate",Adams Essential Oil Components,experiment
+1726,E-nuciferol,Adams Essential Oil Components,experiment
+1727,guaiol acetate,Adams Essential Oil Components,experiment
+1727,methyl tetradecanoate,Adams Essential Oil Components,experiment
+1727,tasmanone,Adams Essential Oil Components,experiment
+1729,3-Methoxy-4-hydroxycinnamaldehyde,Adams Essential Oil Components,experiment
+1729,E-nuciferal,Adams Essential Oil Components,experiment
+1730,iso-longifolol,Adams Essential Oil Components,experiment
+1732,chamazulene,Adams Essential Oil Components,experiment
+1733,Sesquilavanduylyl acetate,Adams Essential Oil Components,experiment
+1734,curcumenol,Adams Essential Oil Components,experiment
+1734,zerumbone,Adams Essential Oil Components,experiment
+1735,methyl tetradecanoate,VOCbinbase,experiment
+1735,oplopanone,Lucero 2009,experiment
+1735,coniferyl alcohol,Adams Essential Oil Components,experiment
+1736,Z-ligustilide,Adams Essential Oil Components,experiment
+1739.652014652,farnesal,marie standards,experiment
+1740,oplopanone,Adams Essential Oil Components,experiment
+1740,E-β-santalol,Adams Essential Oil Components,experiment
+1741,E-isoamyl cinnamate,Adams Essential Oil Components,experiment
+1741,mint sulfide,Adams Essential Oil Components,experiment
+1741,E-sesquilavandulyl acetate,Adams Essential Oil Components,experiment
+1742,"6R, 7R-Bisabolene",Adams Essential Oil Components,experiment
+1743,7-methoxycoumarin,Flavornet,experiment
+1743,"Cedr-8(15)-en-9-α-ol, acetate",Adams Essential Oil Components,experiment
+1743,khusimol,Adams Essential Oil Components,experiment
+1744,cis-dihydro-occidentalol acetate,Adams Essential Oil Components,experiment
+1746,"(E,Z)-farnesol",Adams Essential Oil Components,experiment
+1747,6S-7R-bisabolone,Lucero 2009,experiment
+1748,8-α-11-Elemodiol,Adams Essential Oil Components,experiment
+1748,α-oxobisabolene,Adams Essential Oil Components,experiment
+1748,"selina-1,3,7(11)-trien-8-one epoxide",Adams Essential Oil Components,experiment
+1749,ethyl-(E)-cinnamate,Flavornet,estimate
+1749,Xanthorrhizol,Lucero 2009,experiment
+1749,α-Bisabolol oxide A,Adams Essential Oil Components,experiment
+1750,"6S, 7R-Bisabolene",Adams Essential Oil Components,experiment
+1750,2-hexyl-E-cinnamaldehyde,Adams Essential Oil Components,experiment
+1753,xanthorrhizol,Adams Essential Oil Components,experiment
+1754,"(3E)-4-(2,3,6-trimethylphenyl)-3-buten-2-one",Flavornet,estimate
+1754,viridiflorol,Flavornet,estimate
+1757,α-Sinensal,Adams Essential Oil Components,experiment
+1758,Ambroxide,Adams Essential Oil Components,experiment
+1758,"Cinnamyl alcohol, α-pentyl-, acetate",Adams Essential Oil Components,experiment
+1760,Benzyl benzoate,Adams Essential Oil Components,experiment
+1761,benzyl-benzoate,Lucero 2009,experiment
+1761,cyclocolorenone,Adams Essential Oil Components,experiment
+1761,Z-lanceol,Adams Essential Oil Components,experiment
+1762,β-Bisabolen-12-ol,Adams Essential Oil Components,experiment
+1762,eupatoriochromene,Adams Essential Oil Components,experiment
+1763,5-Ethyl-4-hydroxy-2-methyl-3(2H)-furanone,Flavornet,estimate
+1763,Aristolone,Adams Essential Oil Components,experiment
+1764,beta-Acoradienol,Adams Essential Oil Components,experiment
+1766,bornyl benzoate,Flavornet,estimate
+1767,drimenol,Adams Essential Oil Components,experiment
+1768,γ-Curcumen-15-al,Adams Essential Oil Components,experiment
+1769,cedryl acetate,Adams Essential Oil Components,experiment
+1769,14-oxy-α-muurolene,Adams Essential Oil Components,experiment
+1770,perhydrofarnesylacetone,Flavornet,estimate
+1770,β-Bisabolenal,Adams Essential Oil Components,experiment
+1771,Aromadendr-1(10)-en-9-one (squamulosone),Adams Essential Oil Components,experiment
+1773,10-epi-γ-Eudesmol,Flavornet,estimate
+1774,"(2E,6E,9E)-2,6,10-trimethyldodeca-2,6,9,11-tetraenal",VOCbinbase,experiment
+1774,(Z)-2-Hexyl-cinnamaldehyde,Adams Essential Oil Components,experiment
+1774,n-pentadecanol,Adams Essential Oil Components,experiment
+1776,cedryl methyl ketone,Adams Essential Oil Components,experiment
+1778,p-cresol octanoate,Adams Essential Oil Components,experiment
+1778.021978022,benzyl-benzoate,marie standards,experiment
+1779,(E)-α-Atlantone,Adams Essential Oil Components,experiment
+1779,(Z)-α-Santalyl acetate,Adams Essential Oil Components,experiment
+1780,14-hydroxy-α-muurolene,Adams Essential Oil Components,experiment
+1781,guaiazulene,Adams Essential Oil Components,experiment
+1784,γ-eudesmol acetate,Adams Essential Oil Components,experiment
+1784,hinesol acetate,Adams Essential Oil Components,experiment
+1786,butyl dodecanoate,Adams Essential Oil Components,experiment
+1787,trans-dihydro-occidentalol acetate,Adams Essential Oil Components,experiment
+1788,papuanone,Adams Essential Oil Components,experiment
+1789,8-α-Acetoxyelemol,Lucero 2009,experiment
+1789,8-cedren-13-ol,Adams Essential Oil Components,experiment
+1790,β-Bisabolenol,Adams Essential Oil Components,experiment
+1790,1-octadecene,Adams Essential Oil Components,experiment
+1792,"β-Eudesmol, acetate",Adams Essential Oil Components,experiment
+1793,8-alpha-Acetoxyelemol,Adams Essential Oil Components,experiment
+1793,drimenone,Adams Essential Oil Components,experiment
+1793,bicyclo-vetivenol,Adams Essential Oil Components,experiment
+1794,pentadecan-1-ol,VOCbinbase,experiment
+1795,(Z)- α-trans-Bergamotol acetate,Adams Essential Oil Components,experiment
+1795,"Coumarin, 4-hydroxy-",Adams Essential Oil Components,experiment
+1795,α-Eudesmol acetate,Adams Essential Oil Components,experiment
+1796,ethyl tetradecanoate,Adams Essential Oil Components,experiment
+1797,E-ligustilide,Adams Essential Oil Components,experiment
+1798,4-propyl-guaiacol,Flavornet,estimate
+1798,hexadecanone,Flavornet,estimate
+1798,nootkatone,Lucero 2009,experiment
+1798,"α-Bisabolol, acetate",Adams Essential Oil Components,experiment
+1800,octadecane,Flavornet,experiment
+1800,n-octadecane,Adams Essential Oil Components,experiment
+1802,"epi-α-Bisabolol, acetate",Adams Essential Oil Components,experiment
+1803,ethyl tetradecanoate,VOCbinbase,experiment
+1803,"2,2-dimethyl-7-sec-butyl-2H, 5H-prano(4,3-b)-pyran-5-one",Adams Essential Oil Components,experiment
+1804,Benzoin,Adams Essential Oil Components,experiment
+1804,14-Hydroxy-δ-cadinene,Adams Essential Oil Components,experiment
+1805,1-octadecene,VOCbinbase,experiment
+1806,"epi-β-Santalol, acetate",Adams Essential Oil Components,experiment
+1807,benzyl benzoate,VOCbinbase,experiment
+1807,nootkatone,Adams Essential Oil Components,experiment
+1807,2-ethylhexyl salicylate,Adams Essential Oil Components,experiment
+1810,"2,2-dimethyl-7-isobutyl-2H-5H-pyrano(4,3-b)-pyran-5-one",Adams Essential Oil Components,experiment
+1812,octadecane,VOCbinbase,experiment
+1812,beta-chenopodiol,Adams Essential Oil Components,experiment
+1813,palmitaldehyde,Flavornet,estimate
+1813,iso-Acorone,Adams Essential Oil Components,experiment
+1814,(-)-nootkatone,Flavornet,experiment
+1814,(+)-nootkatone,Flavornet,experiment
+1814,cryptomeridiol,Adams Essential Oil Components,experiment
+1817,2-butyl chromone,Adams Essential Oil Components,experiment
+1819,Z-β-santalol acetate,Adams Essential Oil Components,experiment
+1820,Acorone,Adams Essential Oil Components,experiment
+1820,iso-longifolol acetate,Adams Essential Oil Components,experiment
+1821,Z-3-hexenyl anthranilate,Adams Essential Oil Components,experiment
+1823,Diethyl 2-hydroxyglutarate,Flavornet,estimate
+1823,β-vetivone,Adams Essential Oil Components,experiment
+1824,khusinol acetate,Adams Essential Oil Components,experiment
+1827,isopropyl tetradecanoate,Lucero 2009,experiment
+1827,Avocadynofuran,Adams Essential Oil Components,experiment
+1828,"Benzeneacetic acid, 3-methylphenyl ester",Adams Essential Oil Components,experiment
+1830,isopropyl tetradecanoate,Adams Essential Oil Components,experiment
+1831,Z-nuciferol acetate,Adams Essential Oil Components,experiment
+1832,myristic acid isopropyl ester,VOCbinbase,experiment
+1834,cyclopentadecanolide,Adams Essential Oil Components,experiment
+1837,uncineol,Flavornet,estimate
+1837,occidol,Adams Essential Oil Components,experiment
+1838,7-hydroxy coumarin,Adams Essential Oil Components,experiment
+1841,phenylethyl benzoate,Flavornet,experiment
+1841,"eudesm-7(11)-en-4-ol, acetate",Adams Essential Oil Components,experiment
+1841,o-methyl-α-pipitzol,Adams Essential Oil Components,experiment
+1842,caffeine,Adams Essential Oil Components,experiment
+1843,α-vetivone,Adams Essential Oil Components,experiment
+1846,"2,7(14),10-bisabolatrien-1-ol-4-one",Adams Essential Oil Components,experiment
+1846,isoamyl dodecanoate,Adams Essential Oil Components,experiment
+1846,Z-ternine,Adams Essential Oil Components,experiment
+1847,"Phenol, 4-ethyl-",Flavornet,estimate
+1847,phenyl ethyl octanoate,Adams Essential Oil Components,experiment
+1855,o-methyl-β-pipitzol,Adams Essential Oil Components,experiment
+1856,Z-lanceol acetate,Adams Essential Oil Components,experiment
+1857,α-Chenopodiol,Adams Essential Oil Components,experiment
+1859,α-Calacorene,Flavornet,estimate
+1866,benzyl salicylate,Adams Essential Oil Components,experiment
+1867,flourensiadiol,Lucero 2009,experiment
+1867,musk xylol,Adams Essential Oil Components,experiment
+1868,encecalin,Adams Essential Oil Components,experiment
+1869,E-β-santalol acetate,Adams Essential Oil Components,experiment
+1870,cetyl alcohol,Flavornet,experiment
+1870,hexadecanol,Flavornet,experiment
+1870,flourensadiol,Adams Essential Oil Components,experiment
+1876,n-hexadecanol,Adams Essential Oil Components,experiment
+1878.8997268508,hexadecanol,Lucero 2009,experiment
+1879,cubitene,Adams Essential Oil Components,experiment
+1880,laurenene,Adams Essential Oil Components,experiment
+1882,Z-3-hexenyl cinnamate,Adams Essential Oil Components,experiment
+1882.7915869981,benzyl salicylate,marie standards,experiment
+1888,oplopanonyl acetate,Adams Essential Oil Components,experiment
+1890,"8S,14-cedranediol",Adams Essential Oil Components,experiment
+1890,8-Isobutyryloxy isobornyl isobutyrate,Adams Essential Oil Components,experiment
+1891,beta-chenopodiol-6-acetate,Adams Essential Oil Components,experiment
+1893,γ-Carboethoxy-γ-butyrolactone,Flavornet,estimate
+1894,1-hexadecanol,VOCbinbase,experiment
+1894,catalponone,Adams Essential Oil Components,experiment
+1896,eudesmol,Flavornet,estimate
+1896,rimuene,Adams Essential Oil Components,experiment
+1898,"8S,13-cedranediol",Adams Essential Oil Components,experiment
+1900,nonadecane,Flavornet,experiment
+1900,n-nonadecane,Adams Essential Oil Components,experiment
+1902,ethyl hexadecanoate,Flavornet,estimate
+1902,isoeugenol,Flavornet,estimate
+1902,epi-laurenene,Adams Essential Oil Components,experiment
+1906,"isopimara-9(11), 15-diene",Adams Essential Oil Components,experiment
+1910,nonadecane,VOCbinbase,experiment
+1914,Phenylethyl phenylacetate,Adams Essential Oil Components,experiment
+1922,γ-Undecalactone,Flavornet,estimate
+1922,methyl hexadecanoate,Adams Essential Oil Components,experiment
+1923,totarene,Adams Essential Oil Components,experiment
+1927.0645340935,methyl hexadecanoate,Lucero 2009,experiment
+1928,carissone,Adams Essential Oil Components,experiment
+1928,carissone,Adams Essential Oil Components,experiment
+1930,musk ambrette,Adams Essential Oil Components,experiment
+1932,beyerene,Adams Essential Oil Components,experiment
+1932,dictamnine,Adams Essential Oil Components,experiment
+1933,hexadecanoic acid methyl ester,VOCbinbase,experiment
+1934,isohibaene,Adams Essential Oil Components,experiment
+1934,"ent-rosa,5,15-diene",Adams Essential Oil Components,experiment
+1935,"(E,E)-farnesyl acetate",Flavornet,estimate
+1935,cyclohexadecanolide,Adams Essential Oil Components,experiment
+1937,"2-(N-(2-methoxy-1-oxoethyl)-2,6-dimethylanilino)propanoic acid methyl ester",VOCbinbase,experiment
+1939,cembrene,Adams Essential Oil Components,experiment
+1940,11-Acetoxyeudesman-4-alpha-ol,Adams Essential Oil Components,experiment
+1942,"(3E)-4-(2,3,6-trimethylphenyl)-3-buten-2-one",Flavornet,estimate
+1943,phytol,Adams Essential Oil Components,experiment
+1948,syringol,Flavornet,estimate
+1948,isophytol,Adams Essential Oil Components,experiment
+1949,3E-cembrene A,Adams Essential Oil Components,experiment
+1950,pimaradiene,Adams Essential Oil Components,experiment
+1960,nootkatin,Adams Essential Oil Components,experiment
+1962,alpha-chenopodiol-6-acetate,Adams Essential Oil Components,experiment
+1962,tetrahydro-rimuene,Adams Essential Oil Components,experiment
+1967,hexadecanoic acid,VOCbinbase,experiment
+1967,3Z-cembrene A,Adams Essential Oil Components,experiment
+1967,isophyllocladene,Adams Essential Oil Components,experiment
+1969,"sandaracopimara-8(14),15-diene",Adams Essential Oil Components,experiment
+1974,dolabradiene,Adams Essential Oil Components,experiment
+1974,occidol acetate,Adams Essential Oil Components,experiment
+1975,sclarene,Adams Essential Oil Components,experiment
+1978,bifloratriene,Adams Essential Oil Components,experiment
+1982,7-hydroxy-4-methyl coumarin,Adams Essential Oil Components,experiment
+1985,musk ketone,Adams Essential Oil Components,experiment
+1988,1-eicosene,Adams Essential Oil Components,experiment
+1989,epi-catalponol,Adams Essential Oil Components,experiment
+1992,4-Methoxystilbene,Adams Essential Oil Components,experiment
+1993,ethyl hexadecanoate,Adams Essential Oil Components,experiment
+1998,kaur-15-ene,Adams Essential Oil Components,experiment
+1998,manoyl oxide,Adams Essential Oil Components,experiment
+1998,seselin,Adams Essential Oil Components,experiment
+1999,eicosane,Lucero 2009,experiment
+2000,eicosane,Flavornet,experiment
+2000,n-eicosane,Adams Essential Oil Components,experiment
+2001,13-epi-dolabradiene,Adams Essential Oil Components,experiment
+2004,hexadecyl acetate,Adams Essential Oil Components,experiment
+2005,eicosane,VOCbinbase,experiment
+2010,diethyl tartrate,Flavornet,estimate
+2010,isopropyl palmitate,Flavornet,estimate
+2014,"7-hydroxy-4,8-dimethyl courmarin",Adams Essential Oil Components,experiment
+2015,"(E,E)-farnesylacetone",Flavornet,estimate
+2016,ethylene brassylate,Adams Essential Oil Components,experiment
+2017,epi-13-manoyl oxide,Adams Essential Oil Components,experiment
+2017,Phyllocladene,Adams Essential Oil Components,experiment
+2023,"Abieta-8,12-diene",Adams Essential Oil Components,experiment
+2024,(E)-isoeugenol,Flavornet,estimate
+2024,Isopropyl palmitate,VOCbinbase,experiment
+2024,catalponol,Adams Essential Oil Components,experiment
+2024,warburganal,Adams Essential Oil Components,experiment
+2025,isopropyl hexadecanoate,Adams Essential Oil Components,experiment
+2035,iso-bergaptene,Adams Essential Oil Components,experiment
+2036,(Z)-Falcarinol,Adams Essential Oil Components,experiment
+2043,kaurene,Adams Essential Oil Components,experiment
+2043,4-hydroxy stilbene,Adams Essential Oil Components,experiment
+2046,canella,Adams Essential Oil Components,experiment
+2052,Octadecanal,Flavornet,estimate
+2057,Abietatriene,Adams Essential Oil Components,experiment
+2057,bergaptene,Adams Essential Oil Components,experiment
+2057,manool,Adams Essential Oil Components,experiment
+2057,epi-13-manool,Adams Essential Oil Components,experiment
+2073,Cyprodinil,VOCbinbase,experiment
+2078,n-octadecanol,Adams Essential Oil Components,experiment
+2079,4-vinylphenol,Flavornet,estimate
+2082,methyl octadecenoate,Flavornet,estimate
+2082,oleic acid,Flavornet,estimate
+2085,hydroxycalamenene,Flavornet,estimate
+2088,Abietadiene,Adams Essential Oil Components,experiment
+2089,1-octadecanol,VOCbinbase,experiment
+2092,benzyl cinnamate,Adams Essential Oil Components,experiment
+2096,methyl linoleate,Adams Essential Oil Components,experiment
+2099,heneicosane,Lucero 2009,experiment
+2100,heneicosane,Flavornet,experiment
+2100,n-heneicosane,Adams Essential Oil Components,experiment
+2116,tetradecanol,Flavornet,estimate
+2116,laurenan-2-one,Adams Essential Oil Components,experiment
+2123,methyl octadecanoate,VOCbinbase,experiment
+2125,methyl octadecanoate,Adams Essential Oil Components,experiment
+2127,2-phenyl ethyl anthranilate,Adams Essential Oil Components,experiment
+2128,phytol,Flavornet,estimate
+2133,"2-(trichloromethylthio)isoindoline-1,3-quinone",VOCbinbase,experiment
+2133,nezukol,Adams Essential Oil Components,experiment
+2141,osthole,Adams Essential Oil Components,experiment
+2153,oroselone,Adams Essential Oil Components,experiment
+2154,"Abieta-8(14),13(15)-diene",Adams Essential Oil Components,experiment
+2155,octadecanoic acid,VOCbinbase,experiment
+2157,Osthole,VOCbinbase,experiment
+2159,incensole,Adams Essential Oil Components,experiment
+2164,5-oxymethylfurfurole,Flavornet,estimate
+2169,lauric acid,Flavornet,estimate
+2175,grandiflorene,Adams Essential Oil Components,experiment
+2180,phenethyl cinnamate,Adams Essential Oil Components,experiment
+2181,citronellyl anthranilate,Adams Essential Oil Components,experiment
+2184,incensole acetate,Adams Essential Oil Components,experiment
+2185,sandaracopimarinal,Adams Essential Oil Components,experiment
+2190,1-docosene,Adams Essential Oil Components,experiment
+2192,docosane,VOCbinbase,experiment
+2194,1-docosene,Lucero 2009,experiment
+2197,acetic acid octadecyl ester,VOCbinbase,experiment
+2197,ethyl octadecanoate,Adams Essential Oil Components,experiment
+2200,docosane,Flavornet,experiment
+2200,catalpalactone,Adams Essential Oil Components,experiment
+2200,n-docosane,Adams Essential Oil Components,experiment
+2201,n-docosane,Lucero 2009,experiment
+2204,α-Santonin,Adams Essential Oil Components,experiment
+2208,"cis-totarol, methyl ether",Adams Essential Oil Components,experiment
+2210,"2-(4-chlorophenyl)-2-(1,2,4-triazol-1-ylmethyl)hexanenitrile",VOCbinbase,experiment
+2210,octadecanol acetate,Adams Essential Oil Components,experiment
+2210,phyllocladanol,Adams Essential Oil Components,experiment
+2215,retene,Adams Essential Oil Components,experiment
+2217,2-keto manoyl oxide,Adams Essential Oil Components,experiment
+2218,phytol acetate,Adams Essential Oil Components,experiment
+2219,"2-tert-butylimino-3-isopropyl-5-phenyl-1,3,5-thiadiazinan-4-one",VOCbinbase,experiment
+2222,"Phenol, 2,6-dimethoxy-4-(2-propenyl)-",Flavornet,estimate
+2223,sclareol,Adams Essential Oil Components,experiment
+2232,stearyl alcohol,Flavornet,estimate
+2232,methyl daniellate,Adams Essential Oil Components,experiment
+2233,"3,5-dimethoxy stilbene",Adams Essential Oil Components,experiment
+2238,isopimpinellin,Adams Essential Oil Components,experiment
+2238,7α-hydroxymanool,Adams Essential Oil Components,experiment
+2238,"trans-totarol, methyl ether",Adams Essential Oil Components,experiment
+2250,methyl vanillate,Flavornet,estimate
+2258,E-methyl communate,Adams Essential Oil Components,experiment
+2264,ethyl vanillate,Flavornet,estimate
+2266,larixol,Adams Essential Oil Components,experiment
+2270,sandaracopimarinol,Adams Essential Oil Components,experiment
+2275,dehydro-Abietal,Adams Essential Oil Components,experiment
+2280,incensole oxide,Adams Essential Oil Components,experiment
+2282,tricosane,VOCbinbase,experiment
+2283,sempervirol,Adams Essential Oil Components,experiment
+2292,acetovanillone,Flavornet,estimate
+2299,4-epi-Abietal,Adams Essential Oil Components,experiment
+2300,tricosane,Flavornet,experiment
+2300,n-tricosane,Adams Essential Oil Components,experiment
+2301,3- α-Hydroxy-manool,Adams Essential Oil Components,experiment
+2302,3-Oxo-α-ionol,Flavornet,estimate
+2302,tricosane,Lucero 2009,experiment
+2307,eicosanoic acid methyl ester,VOCbinbase,experiment
+2310,isopimarol,Adams Essential Oil Components,experiment
+2313,"Abieta-7,13-dien-3-one",Adams Essential Oil Components,experiment
+2314,Abietal,Adams Essential Oil Components,experiment
+2314,trans-totarol,Adams Essential Oil Components,experiment
+2325,"Podocarpa-6,13-diene, 13-isopropyl-",Adams Essential Oil Components,experiment
+2332,trans-ferruginol,Adams Essential Oil Components,experiment
+2338,"3-alpha-14,15-dihydro-manoyl oxide",Adams Essential Oil Components,experiment
+2344,4-epi-Abietol,Adams Essential Oil Components,experiment
+2360,3-alpha-acetoxy-manool,Adams Essential Oil Components,experiment
+2364,trans-ferruginyl acetate,Adams Essential Oil Components,experiment
+2369,dehydro-Abietol,Adams Essential Oil Components,experiment
+2371,tetracosane,VOCbinbase,experiment
+2371,cis-ferruginol,Adams Essential Oil Components,experiment
+2387,"Phenol, 2,6-bis[[3-(1,1-dimethylethyl)-2-hydroxy-5-methylphenyl]methyl]-4-methyl-",Adams Essential Oil Components,experiment
+2387,methyl strictate,Adams Essential Oil Components,experiment
+2400,n-tetracosane,Adams Essential Oil Components,experiment
+2402,Abietol,Adams Essential Oil Components,experiment
+2403,tetracosane,Lucero 2009,experiment
+2411,cis-ferruginyl acetate,Adams Essential Oil Components,experiment
+2422,"(13E)-Labden-8,15-diol",Adams Essential Oil Components,experiment
+2429,trans-totarol acetate,Adams Essential Oil Components,experiment
+2446,7-α-hydroxy-trans-totarol,Adams Essential Oil Components,experiment
+2457,6-keto-ferruginol,Adams Essential Oil Components,experiment
+2464,hexacosane,VOCbinbase,experiment
+2469,neo-Abietol,Adams Essential Oil Components,experiment
+2492,methyl docosanoate,VOCbinbase,experiment
+2500,n-pentacosane,Adams Essential Oil Components,experiment
+2566,heptacosane,VOCbinbase,experiment
+2676,nonacosane,VOCbinbase,experiment
+2714,methyl tetracosanoate,VOCbinbase,experiment
+2962,2-methylnonadecane,VOCbinbase,experiment
